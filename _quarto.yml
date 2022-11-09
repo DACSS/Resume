@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Resumes"
-  site-url: https://github.com/DACSS
+  site-url: https://dacss.github.io/Resume/
   twitter-card:
     creator: "@UMassDACSS"
     site: "@UMassDACSS"
@@ -16,7 +16,7 @@ website:
         href: index.qmd
       - href: https://umass.edu/sbs/dacss
         text: "DACSS"
-      - icon: github
+      - icon: Github
         href: https://github.com/DACSS
         aria-label: GitHub
 
