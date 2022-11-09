@@ -1,0 +1,65 @@
+---
+title: "Adithya Praneeth Parupudi"
+image: ProfilePhoto.jpg
+about:
+  template: trestles
+  links:
+    - text: LinkedIn
+      url: "https://linkedin.com/in/adithya-parupudi"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/Adithya1243"
+    - text: Email
+      url: "aparupudi@umass.edu"
+    - text: CV
+      url: "cv.pdf"
+comments: false
+---
+::: {.column-page}
+
+## Bio
+
+Interested in Data Scientist roles in Healthcare, Finance, and Operations. I have a 2.7 yr work experience in the IT industry.
+
+
+## Education
+**University Of Massachusetts Amherst**
+Amherst, MA
+
+M.S in Data Analytics and Computational Social Science | August 2022 - Present (Expected 2023)
+
+**Jawaharlal Nehru Technological University** Hyderabad, Telangana, India
+
+B. Tech in Computer Science and Engineering | Aug 2022 -- Exp. Dec 2023
+
+## Technical Expertise
+
+Proficient in 
+ -    R
+ -    Python : numpy, pandas, sklearn
+ -    Git
+ -    Machine Learning
+ -    Webscraping
+ -    SQL
+
+
+## Work Experience
+
+**University Of Massachusetts Amherst** Role: Member of tech team • Developed website to showcase 50 student portfolio pages to potential employers • Maintained official department websites and student blogs • Provided online and offline support to instructor in Zoom and Slack. • Fixed python code used for web-scraping • Documented class notes for curriculum development
+
+**Tech Mahindra**, Hyderabad 
+• Worked with a team of 5 and addressed high priority issues through ServiceNow, ensured smooth flow of business in a DevOps model • Designed and implemented SCA, OSB components; Used Jenkins for code builds; deployed using Myst tool; and committed code using SVN • Created change requests, documented each step of development and deployment, thus accelerating future code enhancements. • Performed extensive unit testing and regression testing through SOAPUI and in dev, qa and uat environments, and ensured the code meet the business standards • Maintained an integrated connectivity dashboard which runs on python, shell-scripts, and Oracle database. • Maintained the backend, reported and resolved integration failures, and performed weekly clean-up activities. • Participated in weekend deployments and supported various business outages.
+
+
+## Projects
+
+**Content Analysis of famous people's biographies** - Analysed 126 celebrity biographies to find similarities in terms of profession, notable achievements, era, early life, place of birth and cause of death.
+
+-   **EDA of NIFTY50 Dataset (Aug 2022)** Using R, analysed the stock trends of top 50 Indian stocks between 2000 and 2021, performed time series analysis of the stock performance; best and worst stocks; and observed stock trends in 2008 and 2019-2021
+
+-     **Analysis of Enron email dataset for detecting suspicious behaviour** (2018 - 2019) Measured email exchange frequency and employee's frequently used words, and traced that word to its users.
+
+
+
+:::
+
