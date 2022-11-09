@@ -1,0 +1,9 @@
+---
+title: "People"
+listing:
+  type: grid
+  contents: bio
+  fields: [image, title, subtitle]
+  sort: "title"
+---
+
