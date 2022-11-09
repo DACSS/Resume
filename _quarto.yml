@@ -16,7 +16,7 @@ website:
         href: index.qmd
       - href: https://umass.edu/sbs/dacss
         text: "DACSS"
-      - icon: github
+      - icon: Github
         href: https://github.com/DACSS
         aria-label: GitHub
 
