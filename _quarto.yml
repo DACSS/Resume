@@ -10,7 +10,7 @@ website:
   favicon: images/DACSS_Round_Network.png
   navbar:
     background: "#881c1c"
-    logo: images/UMass White Wordmark Horiz.png
+    text: UMass Amherst
     right:
       - text: "People"
         href: index.qmd
