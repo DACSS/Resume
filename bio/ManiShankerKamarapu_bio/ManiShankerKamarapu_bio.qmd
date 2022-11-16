@@ -17,6 +17,7 @@ comments: false
 
 <a href = "Mani_Resume_analyst.pdf" title = "ManiShanker_Resume"> Resume</a>
 
+::: column-page
 ## Bio
 
 Skilled in Data Analytics, Learning Analytics, Business Intelligence and Computational Social Sciences. Strong business development professional currently pursuing my Master's focused in Data Analytics and Computational Social Sciences from University of Massachusetts Amherst. I am self-motivated with a passion for the techno-business world. I have IT industry experience 0f 3 years working in Infosys Ltd. I graduated in Electronics and Communication Engineering from Osmania University. 
