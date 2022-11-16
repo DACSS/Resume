@@ -17,10 +17,10 @@ about:
       url: "sthogaru@umass.edu"
     - text: Blog
       url: "your blog url"
-    - text: CV
-      url: "../bio/sathvik/cv.pdf"
 comments: false
 ---
+
+<a href = "cv.pdf" title = "Sathvik_Resume"> Resume</a>
 
 ::: column-page
 ## Bio

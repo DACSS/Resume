@@ -12,11 +12,10 @@ about:
       url: "https://github.com/Mkamarapu"
     - text: Email
       url: "mani.kamarapu7@gmail.com"
-    - text: CV
-      url: "Mani_Resume_analyst.pdf"
 comments: false
 ---
-::: {.column-page}
+
+<a href = "Mani_Resume_analyst.pdf" title = "ManiShanker_Resume"> Resume</a>
 
 ## Bio
 

@@ -11,10 +11,11 @@ about:
       url: "https://github.com/Adithya1243"
     - text: Email
       url: "aparupudi@umass.edu"
-    - text: CV
-      url: "cv.pdf"
 comments: false
 ---
+
+<a href = "cv.pdf" title = "Adithya_Resume"> Resume</a>
+
 ::: {.column-page}
 
 ## Bio
