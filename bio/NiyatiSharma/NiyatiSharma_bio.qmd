@@ -16,6 +16,9 @@ about:
       url: "Niyati_resume_new.pdf"
 comments: false
 ---
+<a href = "Niyati_resume_new.pdf" title = "Niyati_Resume"> Resume</a>
+
+
 ::: {.column-page}
 
 ## Bio
