@@ -2,21 +2,21 @@ project:
   type: website
 
 website:
-  title: "Resumes"
-  site-url: https://github.com/DACSS
+  title: "Data Analytics and Computational Social Science"
+  site-url: https://dacss.github.io/Resume/
   twitter-card:
     creator: "@UMassDACSS"
     site: "@UMassDACSS"
   favicon: images/DACSS_Round_Network.png
   navbar:
     background: "#881c1c"
-    logo: images/UMass White Wordmark Horiz.png
+    text: UMass Amherst
     right:
-      - text: "Resumes"
+      - text: "People"
         href: index.qmd
       - href: https://umass.edu/sbs/dacss
         text: "DACSS"
-      - icon: github
+      - icon: Github
         href: https://github.com/DACSS
         aria-label: GitHub
 
