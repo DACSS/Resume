@@ -1,96 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "People",
-    "section": "",
-    "text": "Adithya Praneeth Parupudi\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirstName LastName\n\n\nPostion\n\n\n\n\n\n\n\n\n\n\n\n\n\nMani Shanker Kamarapu\n\n\nPostion\n\n\n\n\n\n\n\n\n\n\n\n\n\nNiyati Sharma\n\n\nGraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nSathvik Thogaru\n\n\nData Analyst\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "bio/sathvik/bio_Sathvik.html",
-    "href": "bio/sathvik/bio_Sathvik.html",
-    "title": "Sathvik Thogaru",
-    "section": "",
-    "text": "Resume"
-  },
-  {
-    "objectID": "bio/sathvik/bio_Sathvik.html#bio",
-    "href": "bio/sathvik/bio_Sathvik.html#bio",
-    "title": "Sathvik Thogaru",
-    "section": "Bio",
-    "text": "Bio\n\n2 years of work experience in generating analytical insights to drive business and stakeholder decisions, using a range of analytical tools and technologies such as Python, SQL, R, MySQL, ETL, Tableau, Power BI.\nSolid understanding of the concepts: Data Collection, Data Cleaning, Data Modeling, Data Visualization, Statistics, Hypothesis testing, Model evaluation, Regression Modeling, Classification algorithms and Machine Learning.\nGood at database programming using SQL: joins, procedures, views, triggers, cursors and complex queries.\nWell versed in using the version control system Git. Hands-on experience in CI/CD and workflow automation setup and usage using GitHub Actions."
-  },
-  {
-    "objectID": "bio/sathvik/bio_Sathvik.html#education",
-    "href": "bio/sathvik/bio_Sathvik.html#education",
-    "title": "Sathvik Thogaru",
-    "section": "Education",
-    "text": "Education\nUniversity of Massachusetts Amherst Amherst, Massachusetts  MS in Data Analytics and Computational Social Science (GPA: 3.8/4.0)  Aug 2021 - Dec 2022\nJawaharlal Nehru Technological University Hyderabad Hyderabad, India  Bachelor of Technology in Computer Science  Aug 2015 - July 2019"
-  },
-  {
-    "objectID": "bio/sathvik/bio_Sathvik.html#technical-expertise",
-    "href": "bio/sathvik/bio_Sathvik.html#technical-expertise",
-    "title": "Sathvik Thogaru",
-    "section": "Technical Expertise",
-    "text": "Technical Expertise\nPython, R, SQL, GCP, Tableau, RShiny"
-  },
-  {
-    "objectID": "bio/sathvik/bio_Sathvik.html#research-interests",
-    "href": "bio/sathvik/bio_Sathvik.html#research-interests",
-    "title": "Sathvik Thogaru",
-    "section": "Research Interests",
-    "text": "Research Interests\nData Science, Machine learning, and Natural language processing"
-  },
-  {
-    "objectID": "bio/NiyatiSharma/NiyatiSharma_bio.html",
-    "href": "bio/NiyatiSharma/NiyatiSharma_bio.html",
-    "title": "Niyati Sharma",
-    "section": "",
-    "text": "Resume"
-  },
-  {
-    "objectID": "bio/NiyatiSharma/NiyatiSharma_bio.html#bio",
-    "href": "bio/NiyatiSharma/NiyatiSharma_bio.html#bio",
-    "title": "Niyati Sharma",
-    "section": "Bio",
-    "text": "Bio\nNiyati Sharma current graduate student in the University of Massachusetts, Amherst with Data Analytics as major, and a minor in Social Science. I completed my undergraduate in Electrical engineer with honors degree. I worked as an automation engineer for 7 years in the healthcare and finance domain."
-  },
-  {
-    "objectID": "bio/NiyatiSharma/NiyatiSharma_bio.html#education",
-    "href": "bio/NiyatiSharma/NiyatiSharma_bio.html#education",
-    "title": "Niyati Sharma",
-    "section": "Education",
-    "text": "Education\nMaster of Science in Data Analytics and Computation Social Sciences Sept 2022 – Exp. Dec 2023 University of Massachusetts, Amherst, MA Relevant Coursework: Introduction to Data Science, Text as Data, Quantitative Analysis\nBachelor of Technology in Electrical | Rajasthan College of Engineering for Women, Rajasthan Aug 2009 – July 2013 CGPA: 7.90 Relevant Coursework: Data structures in C, Database Management System, Microprocessors & Computer Architecture and Computer Programming"
-  },
-  {
-    "objectID": "bio/NiyatiSharma/NiyatiSharma_bio.html#technical-expertise",
-    "href": "bio/NiyatiSharma/NiyatiSharma_bio.html#technical-expertise",
-    "title": "Niyati Sharma",
-    "section": "Technical Expertise",
-    "text": "Technical Expertise\n Programming Languages: R, SQL, Python, Java, OOPs  Project Management Tools: Jira, Confluence, Mavenlink  Tools/Technologies: Tableau, GitHub, Google Analytics, APIs, Microsoft Office, Microsoft Outlook, Putty, Appium, Eclipse, Android Studio, XCode, Selenium Webdriver  Operating Systems: Windows 8, 8.1, 10, 11, macOS, Linux  Databases: MySQL"
-  },
-  {
-    "objectID": "bio/NiyatiSharma/NiyatiSharma_bio.html#work-experience",
-    "href": "bio/NiyatiSharma/NiyatiSharma_bio.html#work-experience",
-    "title": "Niyati Sharma",
-    "section": "Work Experience",
-    "text": "Work Experience\nSenior AutomaƟon Engineer | Punchh Tech India Pvt Ltd, India Aug 2019 – Jul 2022  Key member of the Data Engineering team that handled guest booking data migration from PostgreSQL to a document based Couchbase server which helped reduce the application response time by 50%.  Automate regression and functional test suites by developing test cases, test suites using Appium.  Collaborated with cross-functional teams to analyze the major issues in currently running apps.  Deployed a Sentiment Analysis framework to classify user feedback into positive, negative or neutral with 80% accuracy.  Collaborated with the internaƟonal team for new feature integraƟon and performed User Acceptance Testing (UAT) and System Acceptance Testing with multiple test criteria. Quality engineer | Salucro Healthcare Solutions, India Jul 2015 – Aug 2019  Extensively automated regression and functional test suites by developing test cases, test suites using Selenium WebDriver, JAVA, JUnit.  Used stored procedures, views, and functions in SQL to extract Data from Tables and to verify the output Data of the reports.  Monitored issues on Jira and used MS Excel to categorize issues and further implemented standard procedures that helped in improving the QA process by 60%.  Monitored and tested payment portal performance to identify potenƟal bottlenecks, developed solutions, and collaborated with developers on solution implementation"
-  },
-  {
-    "objectID": "bio/NiyatiSharma/NiyatiSharma_bio.html#research-interests",
-    "href": "bio/NiyatiSharma/NiyatiSharma_bio.html#research-interests",
-    "title": "Niyati Sharma",
-    "section": "Research Interests",
-    "text": "Research Interests\nAnalytics, visualization, statistics, Finance"
-  },
-  {
-    "objectID": "bio/NiyatiSharma/NiyatiSharma_bio.html#projects",
-    "href": "bio/NiyatiSharma/NiyatiSharma_bio.html#projects",
-    "title": "Niyati Sharma",
-    "section": "Projects",
-    "text": "Projects\nCredit Risk Analysis\nThe project finds the probability of a borrower defaulting on debt obligaƟons and factors credit risk can be calculated through regression modelling. Used libraries such as library(tidyverse), library(dplyr), library(ggplot2) in R language.\nAnalyzing Customer Reviews for improvement of Uber experience In this research, we are analyzing huge user-generated content which can be used by organizations for their customer engagement strategies. The purpose of this study is to derive insights using app reviews and social media reviews to understand how businesses use feedback for customer engagement strategies. For this project we are using topic modelling in python language."
-  },
-  {
     "objectID": "bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html",
     "href": "bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html",
     "title": "Adithya Praneeth Parupudi",
@@ -180,5 +89,96 @@
     "title": "Mani Shanker Kamarapu",
     "section": "Projects",
     "text": "Projects\n\nBank Customer Churn Prediction and Factor Classification: Implemented exploratory data analysis, manipulation to predict the churn factors using numpy, pandas and matplotlib. Accomplished comparative Analysis between KNN & Matrix Factorization and obtained 91% efficiency.\nSymptom Diagnosis and Disease Prediction Analysis: Gathered data using web-scrapping methods by rvest. Tokenized, assembled and encoded the data into algorithms, achieving 78% accuracy. Categorized the algorithms and accumulated the disease prediction from symptoms.\nQuantitative Analysis of Olympics data: Mined and analyzed Olympics data to classify category specific using the regression to achieve a model accuracy of 84% performed data wrangling techniques, combining multiple flat files using SQL joins, imputing missing values and statistical analysis.\nThe Smart Helmet: Cleansed and transformed unstructured data using SQL procedures, Python & descriptive statistical methods. Interpreted daily accident rate data and preventive procedures. Provided recommendations on a micro controller connected GSM and GPS module known enough to find accident location if it occurs and a message enable device and achieved 80% accuracy"
+  },
+  {
+    "objectID": "bio/NiyatiSharma/NiyatiSharma_bio.html",
+    "href": "bio/NiyatiSharma/NiyatiSharma_bio.html",
+    "title": "Niyati Sharma",
+    "section": "",
+    "text": "Resume"
+  },
+  {
+    "objectID": "bio/NiyatiSharma/NiyatiSharma_bio.html#bio",
+    "href": "bio/NiyatiSharma/NiyatiSharma_bio.html#bio",
+    "title": "Niyati Sharma",
+    "section": "Bio",
+    "text": "Bio\nNiyati Sharma current graduate student in the University of Massachusetts, Amherst with Data Analytics as major, and a minor in Social Science. I completed my undergraduate in Electrical engineer with honors degree. I worked as an automation engineer for 7 years in the healthcare and finance domain."
+  },
+  {
+    "objectID": "bio/NiyatiSharma/NiyatiSharma_bio.html#education",
+    "href": "bio/NiyatiSharma/NiyatiSharma_bio.html#education",
+    "title": "Niyati Sharma",
+    "section": "Education",
+    "text": "Education\nMaster of Science in Data Analytics and Computation Social Sciences Sept 2022 – Exp. Dec 2023 University of Massachusetts, Amherst, MA Relevant Coursework: Introduction to Data Science, Text as Data, Quantitative Analysis\nBachelor of Technology in Electrical | Rajasthan College of Engineering for Women, Rajasthan Aug 2009 – July 2013 CGPA: 7.90 Relevant Coursework: Data structures in C, Database Management System, Microprocessors & Computer Architecture and Computer Programming"
+  },
+  {
+    "objectID": "bio/NiyatiSharma/NiyatiSharma_bio.html#technical-expertise",
+    "href": "bio/NiyatiSharma/NiyatiSharma_bio.html#technical-expertise",
+    "title": "Niyati Sharma",
+    "section": "Technical Expertise",
+    "text": "Technical Expertise\n Programming Languages: R, SQL, Python, Java, OOPs  Project Management Tools: Jira, Confluence, Mavenlink  Tools/Technologies: Tableau, GitHub, Google Analytics, APIs, Microsoft Office, Microsoft Outlook, Putty, Appium, Eclipse, Android Studio, XCode, Selenium Webdriver  Operating Systems: Windows 8, 8.1, 10, 11, macOS, Linux  Databases: MySQL"
+  },
+  {
+    "objectID": "bio/NiyatiSharma/NiyatiSharma_bio.html#work-experience",
+    "href": "bio/NiyatiSharma/NiyatiSharma_bio.html#work-experience",
+    "title": "Niyati Sharma",
+    "section": "Work Experience",
+    "text": "Work Experience\nSenior AutomaƟon Engineer | Punchh Tech India Pvt Ltd, India Aug 2019 – Jul 2022  Key member of the Data Engineering team that handled guest booking data migration from PostgreSQL to a document based Couchbase server which helped reduce the application response time by 50%.  Automate regression and functional test suites by developing test cases, test suites using Appium.  Collaborated with cross-functional teams to analyze the major issues in currently running apps.  Deployed a Sentiment Analysis framework to classify user feedback into positive, negative or neutral with 80% accuracy.  Collaborated with the internaƟonal team for new feature integraƟon and performed User Acceptance Testing (UAT) and System Acceptance Testing with multiple test criteria. Quality engineer | Salucro Healthcare Solutions, India Jul 2015 – Aug 2019  Extensively automated regression and functional test suites by developing test cases, test suites using Selenium WebDriver, JAVA, JUnit.  Used stored procedures, views, and functions in SQL to extract Data from Tables and to verify the output Data of the reports.  Monitored issues on Jira and used MS Excel to categorize issues and further implemented standard procedures that helped in improving the QA process by 60%.  Monitored and tested payment portal performance to identify potenƟal bottlenecks, developed solutions, and collaborated with developers on solution implementation"
+  },
+  {
+    "objectID": "bio/NiyatiSharma/NiyatiSharma_bio.html#research-interests",
+    "href": "bio/NiyatiSharma/NiyatiSharma_bio.html#research-interests",
+    "title": "Niyati Sharma",
+    "section": "Research Interests",
+    "text": "Research Interests\nAnalytics, visualization, statistics, Finance"
+  },
+  {
+    "objectID": "bio/NiyatiSharma/NiyatiSharma_bio.html#projects",
+    "href": "bio/NiyatiSharma/NiyatiSharma_bio.html#projects",
+    "title": "Niyati Sharma",
+    "section": "Projects",
+    "text": "Projects\nCredit Risk Analysis\nThe project finds the probability of a borrower defaulting on debt obligaƟons and factors credit risk can be calculated through regression modelling. Used libraries such as library(tidyverse), library(dplyr), library(ggplot2) in R language.\nAnalyzing Customer Reviews for improvement of Uber experience In this research, we are analyzing huge user-generated content which can be used by organizations for their customer engagement strategies. The purpose of this study is to derive insights using app reviews and social media reviews to understand how businesses use feedback for customer engagement strategies. For this project we are using topic modelling in python language."
+  },
+  {
+    "objectID": "bio/sathvik/bio_Sathvik.html",
+    "href": "bio/sathvik/bio_Sathvik.html",
+    "title": "Sathvik Thogaru",
+    "section": "",
+    "text": "Resume"
+  },
+  {
+    "objectID": "bio/sathvik/bio_Sathvik.html#bio",
+    "href": "bio/sathvik/bio_Sathvik.html#bio",
+    "title": "Sathvik Thogaru",
+    "section": "Bio",
+    "text": "Bio\n\n2 years of work experience in generating analytical insights to drive business and stakeholder decisions, using a range of analytical tools and technologies such as Python, SQL, R, MySQL, ETL, Tableau, Power BI.\nSolid understanding of the concepts: Data Collection, Data Cleaning, Data Modeling, Data Visualization, Statistics, Hypothesis testing, Model evaluation, Regression Modeling, Classification algorithms and Machine Learning.\nGood at database programming using SQL: joins, procedures, views, triggers, cursors and complex queries.\nWell versed in using the version control system Git. Hands-on experience in CI/CD and workflow automation setup and usage using GitHub Actions."
+  },
+  {
+    "objectID": "bio/sathvik/bio_Sathvik.html#education",
+    "href": "bio/sathvik/bio_Sathvik.html#education",
+    "title": "Sathvik Thogaru",
+    "section": "Education",
+    "text": "Education\nUniversity of Massachusetts Amherst Amherst, Massachusetts  MS in Data Analytics and Computational Social Science (GPA: 3.8/4.0)  Aug 2021 - Dec 2022\nJawaharlal Nehru Technological University Hyderabad Hyderabad, India  Bachelor of Technology in Computer Science  Aug 2015 - July 2019"
+  },
+  {
+    "objectID": "bio/sathvik/bio_Sathvik.html#technical-expertise",
+    "href": "bio/sathvik/bio_Sathvik.html#technical-expertise",
+    "title": "Sathvik Thogaru",
+    "section": "Technical Expertise",
+    "text": "Technical Expertise\nPython, R, SQL, GCP, Tableau, RShiny"
+  },
+  {
+    "objectID": "bio/sathvik/bio_Sathvik.html#research-interests",
+    "href": "bio/sathvik/bio_Sathvik.html#research-interests",
+    "title": "Sathvik Thogaru",
+    "section": "Research Interests",
+    "text": "Research Interests\nData Science, Machine learning, and Natural language processing"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "People",
+    "section": "",
+    "text": "Postion\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Analyst\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
