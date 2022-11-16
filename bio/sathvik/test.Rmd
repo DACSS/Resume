@@ -1,0 +1,18 @@
+---
+title: "Untitled"
+author: "Sathvik Thogaru"
+date: "2022-11-16"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<!-- <embed src="cv.pdf" width="1000" height="700"  -->
+<!--  type="application/pdf"> -->
+ 
+ <a href="cv.pdf" title="Hobbit lifestyles">hobbit-hole</a>
+
+
+<!-- ![The San Juan Mountains are beautiful!](cv.pdf) -->
