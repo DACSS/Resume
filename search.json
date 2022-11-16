@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "People",
     "section": "",
-    "text": "Adithya Praneeth Parupudi\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirstName LastName\n\n\nPostion\n\n\n\n\n\n\n\n\n\n\n\n\n\nMani Shanker Kamarapu\n\n\nPostion\n\n\n\n\n\n\n\n\n\n\n\n\n\nSathvik Thogaru\n\n\nData Analyst\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Adithya Praneeth Parupudi\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirstName LastName\n\n\nPostion\n\n\n\n\n\n\n\n\n\n\n\n\n\nMani Shanker Kamarapu\n\n\nPostion\n\n\n\n\n\n\n\n\n\n\n\n\n\nNiyati Sharma\n\n\nGraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nSathvik Thogaru\n\n\nData Analyst\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "bio/sathvik/bio_Sathvik.html",
@@ -40,6 +40,13 @@
     "title": "Sathvik Thogaru",
     "section": "Research Interests",
     "text": "Research Interests\nData Science, Machine learning, and Natural language processing"
+  },
+  {
+    "objectID": "bio/NiyatiSharma/NiyatiSharma_bio.html",
+    "href": "bio/NiyatiSharma/NiyatiSharma_bio.html",
+    "title": "Niyati Sharma",
+    "section": "",
+    "text": "Niyati Sharma current graduate student in the University of Massachusetts, Amherst with Data Analytics as major, and a minor in Social Science. I completed my undergraduate in Electrical engineer with honors degree. I worked as an automation engineer for 7 years in the healthcare and finance domain.\n\n\n\nMaster of Science in Data Analytics and Computation Social Sciences Sept 2022 – Exp. Dec 2023 University of Massachusetts, Amherst, MA Relevant Coursework: Introduction to Data Science, Text as Data, Quantitative Analysis\nBachelor of Technology in Electrical | Rajasthan College of Engineering for Women, Rajasthan Aug 2009 – July 2013 CGPA: 7.90 Relevant Coursework: Data structures in C, Database Management System, Microprocessors & Computer Architecture and Computer Programming\n\n\n\n Programming Languages: R, SQL, Python, Java, OOPs  Project Management Tools: Jira, Confluence, Mavenlink  Tools/Technologies: Tableau, GitHub, Google Analytics, APIs, Microsoft Office, Microsoft Outlook, Putty, Appium, Eclipse, Android Studio, XCode, Selenium Webdriver  Operating Systems: Windows 8, 8.1, 10, 11, macOS, Linux  Databases: MySQL\n\n\n\nSenior AutomaƟon Engineer | Punchh Tech India Pvt Ltd, India Aug 2019 – Jul 2022  Key member of the Data Engineering team that handled guest booking data migration from PostgreSQL to a document based Couchbase server which helped reduce the application response time by 50%.  Automate regression and functional test suites by developing test cases, test suites using Appium.  Collaborated with cross-functional teams to analyze the major issues in currently running apps.  Deployed a Sentiment Analysis framework to classify user feedback into positive, negative or neutral with 80% accuracy.  Collaborated with the internaƟonal team for new feature integraƟon and performed User Acceptance Testing (UAT) and System Acceptance Testing with multiple test criteria. Quality engineer | Salucro Healthcare Solutions, India Jul 2015 – Aug 2019  Extensively automated regression and functional test suites by developing test cases, test suites using Selenium WebDriver, JAVA, JUnit.  Used stored procedures, views, and functions in SQL to extract Data from Tables and to verify the output Data of the reports.  Monitored issues on Jira and used MS Excel to categorize issues and further implemented standard procedures that helped in improving the QA process by 60%.  Monitored and tested payment portal performance to identify potenƟal bottlenecks, developed solutions, and collaborated with developers on solution implementation\n\n\n\nAnalytics, visualization, statistics, Finance\n\n\n\nCredit Risk Analysis\nThe project finds the probability of a borrower defaulting on debt obligaƟons and factors credit risk can be calculated through regression modelling. Used libraries such as library(tidyverse), library(dplyr), library(ggplot2) in R language.\nAnalyzing Customer Reviews for improvement of Uber experience In this research, we are analyzing huge user-generated content which can be used by organizations for their customer engagement strategies. The purpose of this study is to derive insights using app reviews and social media reviews to understand how businesses use feedback for customer engagement strategies. For this project we are using topic modelling in python language."
   },
   {
     "objectID": "bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html",
