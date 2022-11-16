@@ -1,7 +1,7 @@
 ---
 title: "FirstName LastName"
 subtitle: "Postion"
-image: myimage.jpeg
+image: your_image
 about:
   template: trestles
   links:
