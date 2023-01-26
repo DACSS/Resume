@@ -1,10 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+@import 'https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap';
+
+
 
 /*-- scss:defaults --*/
 
 // use Open Sans font if available
 $font-family-sans-serif:  "Open Sans", !default;
+$font-family: "Atkinson Hyperlegible", sans-serif;
+$font-family-serif: "Atkinson Hyperlegible", sans-serif;
 
 // Color system
 //

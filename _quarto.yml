@@ -3,29 +3,61 @@ project:
 
 website:
   title: "Data Analytics and Computational Social Science"
+  page-navigation: true # to navigate to other pages
+
+  # page footer
+  page-footer: 
+    left: "Copyright @ DACSS" 
+    right: 
+      - icon: github
+        href: https://github.com/
+      - icon: twitter 
+        href: https://twitter.com/ 
+        
+        
   site-url: https://dacss.github.io/Resume/
+  
   twitter-card:
     creator: "@UMassDACSS"
     site: "@UMassDACSS"
+  
   favicon: images/DACSS_Round_Network.png
+  
+  open-graph: true
   navbar:
     background: "#881c1c"
     text: UMass Amherst
+    pinned: true
+    search: true
     right:
+      - text: "Home"
+        href: home.qmd
+        
       - text: "People"
         href: index.qmd
-      - href: https://umass.edu/sbs/dacss
-        text: "DACSS"
-      - icon: Github
+        
+      - text: "DACSS"
+        href: https://umass.edu/sbs/dacss
+        
+      - text: "Projects"
+        href: "https://www.google.com"
+        
+      - icon: github
         href: https://github.com/DACSS
         aria-label: GitHub
 
 format:
   html:
-    mainfont: Open Sans
+    smooth-scroll: true # enabled smooth scrolling
+    mainfont: "Atkinson Hyperlegible" # defined a style in .scss and used the name here
     linkcolor: "#881c1c"
     toc: true
-    theme: Cyborg
+    # theme: zephyr
+    theme: litera
+    code-copy: true
+    code-overflow: wrap
+
+editor: visual
 
 
 

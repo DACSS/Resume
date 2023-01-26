@@ -21,34 +21,19 @@ about:
       url: "cv.pdf"
 comments: false
 ---
-::: {.column-page}
 
+::: column-page
 ## Bio
-
-
-
-
-
 
 ## Education
 
-
 ## Technical Expertise
-
 
 ## Work Experience
 
-
 ## Research Interests
-
-
 
 ## Projects
 
-
-
 ## Publications
-
-
 :::
-

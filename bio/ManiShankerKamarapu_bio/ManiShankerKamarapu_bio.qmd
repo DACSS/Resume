@@ -1,7 +1,9 @@
 ---
 title: "Mani Shanker Kamarapu"
+date: 2021-01-04
 subtitle: "Postion"
 image: "Mani_image.jpeg"
+categories: [fall22, operations, mani, python]
 about:
   template: trestles
   links:

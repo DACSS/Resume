@@ -2,6 +2,7 @@
 title: "Niyati Sharma"
 subtitle: "Graduate Student"
 image: "Niyati.jpg"
+categories: [summer22, finance, niyati, wonder-woman]
 about:
   template: trestles
   links:

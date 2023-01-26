@@ -1,9 +1,18 @@
 ---
-title: "People"
+# title: "Students of DACSS"
 listing:
+  sort-ui: true # for sorting
+  filter-ui: true # for filtering
+  categories: true
   type: grid
-  contents: bio
-  fields: [image, title, subtitle]
-  sort: "title"
+  contents: bio # refers to the /bio folder
+  fields: [image, title, description]
+page-layout: full
+title-block-banner: true
+format:
+  html:
+    toc: true
+    html-math-method: katex
+    # css: temp.css
 ---
 
