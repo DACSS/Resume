@@ -306,6 +306,3 @@ data-bs-slide="next"
 </script>
 
 
-
-
-{{< include temp2.qmd >}}
