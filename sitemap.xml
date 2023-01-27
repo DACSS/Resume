@@ -1,27 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://DACSS.github.io/Resume/bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html</loc>
-    <lastmod>2022-11-16T19:55:47.633Z</lastmod>
+    <loc>https://dacss.github.io/Resume/index.html</loc>
+    <lastmod>2023-01-27T02:57:16.984Z</lastmod>
   </url>
   <url>
-    <loc>https://DACSS.github.io/Resume/bio/ManiShankerKamarapu_bio/ManiShankerKamarapu_bio.html</loc>
-    <lastmod>2022-11-16T19:55:48.160Z</lastmod>
+    <loc>https://dacss.github.io/Resume/bio_template.html</loc>
+    <lastmod>2023-01-27T02:57:17.632Z</lastmod>
   </url>
   <url>
-    <loc>https://DACSS.github.io/Resume/bio/NiyatiSharma/NiyatiSharma_bio.html</loc>
-    <lastmod>2022-11-16T19:55:48.699Z</lastmod>
+    <loc>https://dacss.github.io/Resume/bio/sample_Format/bio_template.html</loc>
+    <lastmod>2023-01-27T02:57:17.932Z</lastmod>
   </url>
   <url>
-    <loc>https://DACSS.github.io/Resume/bio/sathvik/bio_Sathvik.html</loc>
-    <lastmod>2022-11-16T19:55:49.199Z</lastmod>
+    <loc>https://dacss.github.io/Resume/bio/ManiShankerKamarapu_bio/ManiShankerKamarapu_bio.html</loc>
+    <lastmod>2023-01-27T02:57:18.280Z</lastmod>
   </url>
   <url>
-    <loc>https://DACSS.github.io/Resume/bio_template.html</loc>
-    <lastmod>2022-11-16T19:55:49.656Z</lastmod>
+    <loc>https://dacss.github.io/Resume/bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html</loc>
+    <lastmod>2023-01-27T02:57:18.628Z</lastmod>
   </url>
   <url>
-    <loc>https://DACSS.github.io/Resume/index.html</loc>
-    <lastmod>2022-11-16T19:55:50.218Z</lastmod>
+    <loc>https://dacss.github.io/Resume/bio/NiyatiSharma/NiyatiSharma_bio.html</loc>
+    <lastmod>2023-01-27T02:57:18.972Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dacss.github.io/Resume/bio/sathvik/bio_Sathvik.html</loc>
+    <lastmod>2023-01-27T02:57:19.268Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dacss.github.io/Resume/home.html</loc>
+    <lastmod>2023-01-27T02:57:19.628Z</lastmod>
   </url>
 </urlset>
