@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Data Analytics and Computational Social Science",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAdithya Praneeth Parupudi\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirstName LastName\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMani Shanker Kamarapu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNiyati Sharma\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSathvik Thogaru\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAdithya Praneeth Parupudi\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirstName LastName\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMani Shanker Kamarapu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNiyati Sharma\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "bio/ManiShankerKamarapu_bio/ManiShankerKamarapu_bio.html",
@@ -110,41 +110,6 @@
     "title": "Niyati Sharma",
     "section": "Projects",
     "text": "Projects\nCredit Risk Analysis\nThe project finds the probability of a borrower defaulting on debt obligaƟons and factors credit risk can be calculated through regression modelling. Used libraries such as library(tidyverse), library(dplyr), library(ggplot2) in R language.\nAnalyzing Customer Reviews for improvement of Uber experience In this research, we are analyzing huge user-generated content which can be used by organizations for their customer engagement strategies. The purpose of this study is to derive insights using app reviews and social media reviews to understand how businesses use feedback for customer engagement strategies. For this project we are using topic modelling in python language."
-  },
-  {
-    "objectID": "bio/sathvik/bio_Sathvik.html",
-    "href": "bio/sathvik/bio_Sathvik.html",
-    "title": "Sathvik Thogaru",
-    "section": "",
-    "text": "Resume"
-  },
-  {
-    "objectID": "bio/sathvik/bio_Sathvik.html#bio",
-    "href": "bio/sathvik/bio_Sathvik.html#bio",
-    "title": "Sathvik Thogaru",
-    "section": "Bio",
-    "text": "Bio\n\n2 years of work experience in generating analytical insights to drive business and stakeholder decisions, using a range of analytical tools and technologies such as Python, SQL, R, MySQL, ETL, Tableau, Power BI.\nSolid understanding of the concepts: Data Collection, Data Cleaning, Data Modeling, Data Visualization, Statistics, Hypothesis testing, Model evaluation, Regression Modeling, Classification algorithms and Machine Learning.\nGood at database programming using SQL: joins, procedures, views, triggers, cursors and complex queries.\nWell versed in using the version control system Git. Hands-on experience in CI/CD and workflow automation setup and usage using GitHub Actions."
-  },
-  {
-    "objectID": "bio/sathvik/bio_Sathvik.html#education",
-    "href": "bio/sathvik/bio_Sathvik.html#education",
-    "title": "Sathvik Thogaru",
-    "section": "Education",
-    "text": "Education\nUniversity of Massachusetts Amherst Amherst, Massachusetts  MS in Data Analytics and Computational Social Science (GPA: 3.8/4.0)  Aug 2021 - Dec 2022\nJawaharlal Nehru Technological University Hyderabad Hyderabad, India  Bachelor of Technology in Computer Science  Aug 2015 - July 2019"
-  },
-  {
-    "objectID": "bio/sathvik/bio_Sathvik.html#technical-expertise",
-    "href": "bio/sathvik/bio_Sathvik.html#technical-expertise",
-    "title": "Sathvik Thogaru",
-    "section": "Technical Expertise",
-    "text": "Technical Expertise\nPython, R, SQL, GCP, Tableau, RShiny"
-  },
-  {
-    "objectID": "bio/sathvik/bio_Sathvik.html#research-interests",
-    "href": "bio/sathvik/bio_Sathvik.html#research-interests",
-    "title": "Sathvik Thogaru",
-    "section": "Research Interests",
-    "text": "Research Interests\nData Science, Machine learning, and Natural language processing"
   },
   {
     "objectID": "home.html",
