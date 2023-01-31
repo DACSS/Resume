@@ -2,7 +2,6 @@
 title: "Adithya Praneeth Parupudi"
 # date: 2021-01-03
 image: ProfilePhoto.jpg
-
 about:
   template: trestles
   links:
@@ -20,12 +19,29 @@ comments: false
 page-layout: full
 ---
 
-<i class="bi bi-cloud-download"></i> <a href = "cv.pdf" title = "Adithya_Resume"> View Resume </a>
+<style>
+.quarto-categories {
+justify-content: space-evenly;
+}
+.tab-content {
+    font-size: medium;
+}
+.resume{
+font-size: large;
+}
+</style>
+
+<!-- Resume download button -->
+
+<a href = "cv.pdf" title = "Adithya_Resume"> 
+<button type="button" class="resume btn bg-success btn-lg w-100">
+<i class="bi bi-cloud-download"></i> Resume </button>
+</a>
 
 <!-- ::: column-page -->
 
 ::: panel-tabset
-# Bio
+# Summary
 
 Interested in Data Scientist roles in Healthcare, Finance, and Operations. I have a 2.7 yr work experience in the IT industry.
 
@@ -39,7 +55,7 @@ M.S in Data Analytics and Computational Social Science \| August 2022 - Present 
 
 B. Tech in Computer Science and Engineering \| Aug 2022 -- Exp. Dec 2023
 
-# Technical Expertise
+# Technical Skills
 
 Proficient in - R - Python : numpy, pandas, sklearn - Git - Machine Learning - Webscraping - SQL
 
@@ -57,3 +73,6 @@ Proficient in - R - Python : numpy, pandas, sklearn - Git - Machine Learning - W
 
 -   **Analysis of Enron email dataset for detecting suspicious behaviour** (2018 - 2019) Measured email exchange frequency and employee's frequently used words, and traced that word to its users.
 :::
+
+
+

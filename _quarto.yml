@@ -31,10 +31,10 @@ website:
     search: true
     right:
       - text: "Home"
-        href: home.qmd
+        href: index.qmd
         
       - text: "People"
-        href: index.qmd
+        href: people.qmd
         
       - text: "DACSS"
         href: https://umass.edu/sbs/dacss

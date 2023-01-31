@@ -11,14 +11,14 @@
     "href": "index.html",
     "title": "Data Analytics and Computational Social Science",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html",
     "href": "bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html",
     "title": "Adithya Praneeth Parupudi",
     "section": "",
-    "text": "BioEducationTechnical ExpertiseWork ExperienceProjects\n\n\nInterested in Data Scientist roles in Healthcare, Finance, and Operations. I have a 2.7 yr work experience in the IT industry.\n\n\nUniversity Of Massachusetts Amherst Amherst, MA\nM.S in Data Analytics and Computational Social Science | August 2022 - Present (Expected 2023)\nJawaharlal Nehru Technological University Hyderabad, Telangana, India\nB. Tech in Computer Science and Engineering | Aug 2022 – Exp. Dec 2023\n\n\nProficient in - R - Python : numpy, pandas, sklearn - Git - Machine Learning - Webscraping - SQL\n\n\nUniversity Of Massachusetts Amherst Role: Member of tech team • Developed website to showcase 50 student portfolio pages to potential employers • Maintained official department websites and student blogs • Provided online and offline support to instructor in Zoom and Slack. • Fixed python code used for web-scraping • Documented class notes for curriculum development\nTech Mahindra, Hyderabad • Worked with a team of 5 and addressed high priority issues through ServiceNow, ensured smooth flow of business in a DevOps model • Designed and implemented SCA, OSB components; Used Jenkins for code builds; deployed using Myst tool; and committed code using SVN • Created change requests, documented each step of development and deployment, thus accelerating future code enhancements. • Performed extensive unit testing and regression testing through SOAPUI and in dev, qa and uat environments, and ensured the code meet the business standards • Maintained an integrated connectivity dashboard which runs on python, shell-scripts, and Oracle database. • Maintained the backend, reported and resolved integration failures, and performed weekly clean-up activities. • Participated in weekend deployments and supported various business outages.\n\n\nContent Analysis of famous people’s biographies - Analysed 126 celebrity biographies to find similarities in terms of profession, notable achievements, era, early life, place of birth and cause of death.\n\nEDA of NIFTY50 Dataset (Aug 2022) Using R, analysed the stock trends of top 50 Indian stocks between 2000 and 2021, performed time series analysis of the stock performance; best and worst stocks; and observed stock trends in 2008 and 2019-2021\nAnalysis of Enron email dataset for detecting suspicious behaviour (2018 - 2019) Measured email exchange frequency and employee’s frequently used words, and traced that word to its users."
+    "text": "SummaryEducationTechnical SkillsWork ExperienceProjects\n\n\nInterested in Data Scientist roles in Healthcare, Finance, and Operations. I have a 2.7 yr work experience in the IT industry.\n\n\nUniversity Of Massachusetts Amherst Amherst, MA\nM.S in Data Analytics and Computational Social Science | August 2022 - Present (Expected 2023)\nJawaharlal Nehru Technological University Hyderabad, Telangana, India\nB. Tech in Computer Science and Engineering | Aug 2022 – Exp. Dec 2023\n\n\nProficient in - R - Python : numpy, pandas, sklearn - Git - Machine Learning - Webscraping - SQL\n\n\nUniversity Of Massachusetts Amherst Role: Member of tech team • Developed website to showcase 50 student portfolio pages to potential employers • Maintained official department websites and student blogs • Provided online and offline support to instructor in Zoom and Slack. • Fixed python code used for web-scraping • Documented class notes for curriculum development\nTech Mahindra, Hyderabad • Worked with a team of 5 and addressed high priority issues through ServiceNow, ensured smooth flow of business in a DevOps model • Designed and implemented SCA, OSB components; Used Jenkins for code builds; deployed using Myst tool; and committed code using SVN • Created change requests, documented each step of development and deployment, thus accelerating future code enhancements. • Performed extensive unit testing and regression testing through SOAPUI and in dev, qa and uat environments, and ensured the code meet the business standards • Maintained an integrated connectivity dashboard which runs on python, shell-scripts, and Oracle database. • Maintained the backend, reported and resolved integration failures, and performed weekly clean-up activities. • Participated in weekend deployments and supported various business outages.\n\n\nContent Analysis of famous people’s biographies - Analysed 126 celebrity biographies to find similarities in terms of profession, notable achievements, era, early life, place of birth and cause of death.\n\nEDA of NIFTY50 Dataset (Aug 2022) Using R, analysed the stock trends of top 50 Indian stocks between 2000 and 2021, performed time series analysis of the stock performance; best and worst stocks; and observed stock trends in 2008 and 2019-2021\nAnalysis of Enron email dataset for detecting suspicious behaviour (2018 - 2019) Measured email exchange frequency and employee’s frequently used words, and traced that word to its users."
   },
   {
     "objectID": "bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html#bio",
@@ -186,7 +186,7 @@
     "href": "home.html",
     "title": "Data Analytics and Computational Social Science",
     "section": "",
-    "text": "Alt text"
+    "text": "Stories and data are often depicted as sitting at opposite ends of the spectrum. Stories are gripping narratives told about a single person, organization, or event. Data is quantitative (and sort of boring) evidence scientifically gathered about a large group of observations. Computational analysis helps us bridge this traditional divide between qualitative and quantitative approaches to making sense of the world. Faculty involved with the Data Analytics and Computational Social Science (DACSS) Program believe that each observation tells a story. Our goal is to teach you how to tell stories with data."
   },
   {
     "objectID": "temp.html",
@@ -200,7 +200,7 @@
     "href": "home.html#meet-our-professors",
     "title": "Data Analytics and Computational Social Science",
     "section": "Meet our professors!",
-    "text": "Meet our professors!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Previous\n\n\n Next"
+    "text": "Meet our professors!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Previous\n\n\n Next"
   },
   {
     "objectID": "home.html#featured-student-projects",
@@ -319,7 +319,7 @@
     "href": "home.html#contact-us",
     "title": "Data Analytics and Computational Social Science",
     "section": "Contact Us",
-    "text": "Contact Us\n\n\n\n\n\n\n\n\nName \n\n\nEmail \n\n\nDescription\n\n\n Submit"
+    "text": "Contact Us"
   },
   {
     "objectID": "home.html#storytelling-with-data",
@@ -341,5 +341,47 @@
     "title": "Data Analytics and Computational Social Science",
     "section": "Students interests",
     "text": "Students interests\n\nHealthcare\n\n\nFinance\n\n\nOperations"
+  },
+  {
+    "objectID": "index.html#storytelling-with-data",
+    "href": "index.html#storytelling-with-data",
+    "title": "Data Analytics and Computational Social Science",
+    "section": "Storytelling with Data",
+    "text": "Storytelling with Data\nStories and data are often depicted as sitting at opposite ends of the spectrum. Stories are gripping narratives told about a single person, organization, or event. Data is quantitative (and sort of boring) evidence scientifically gathered about a large group of observations. Computational analysis helps us bridge this traditional divide between qualitative and quantitative approaches to making sense of the world. Faculty involved with the Data Analytics and Computational Social Science (DACSS) Program believe that each observation tells a story. Our goal is to teach you how to tell stories with data."
+  },
+  {
+    "objectID": "index.html#student-projects",
+    "href": "index.html#student-projects",
+    "title": "Data Analytics and Computational Social Science",
+    "section": "Student projects",
+    "text": "Student projects\n\n\n\n\n\n\n  \n\n\n  \n\n\n  \n\n\n\n\n\n\n  \n\n\n  \n\n\n  \n\n\n\n\n\nPrevious\n\n\nNext"
+  },
+  {
+    "objectID": "index.html#students-interests",
+    "href": "index.html#students-interests",
+    "title": "Data Analytics and Computational Social Science",
+    "section": "Students interests",
+    "text": "Students interests\n\n\n\n\n\n\n\n\nHealthcare\n\n\n\n\nFinance\n\n\n\n\nOperations\n\n\n\n\nButton 4\n\n\n\n\nButton 5\n\n\n\n\n\n\n\nButton 6\n\n\n\n\nButton 7\n\n\n\n\nButton 8\n\n\n\n\nButton 9\n\n\n\n\nButton 10"
+  },
+  {
+    "objectID": "index.html#meet-our-professors",
+    "href": "index.html#meet-our-professors",
+    "title": "Data Analytics and Computational Social Science",
+    "section": "Meet our professors!",
+    "text": "Meet our professors!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrevious\n\n\nNext"
+  },
+  {
+    "objectID": "index.html#contact-us",
+    "href": "index.html#contact-us",
+    "title": "Data Analytics and Computational Social Science",
+    "section": "Contact Us",
+    "text": "Contact Us"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "Data Analytics and Computational Social Science",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
