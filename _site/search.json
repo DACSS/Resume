@@ -186,7 +186,7 @@
     "href": "home.html",
     "title": "Data Analytics and Computational Social Science",
     "section": "",
-    "text": "Stories and data are often depicted as sitting at opposite ends of the spectrum. Stories are gripping narratives told about a single person, organization, or event. Data is quantitative (and sort of boring) evidence scientifically gathered about a large group of observations. Computational analysis helps us bridge this traditional divide between qualitative and quantitative approaches to making sense of the world. Faculty involved with the Data Analytics and Computational Social Science (DACSS) Program believe that each observation tells a story. Our goal is to teach you how to tell stories with data."
+    "text": "Alt text"
   },
   {
     "objectID": "temp.html",
@@ -312,13 +312,34 @@
     "href": "home.html#students-are-interested-in",
     "title": "Data Analytics and Computational Social Science",
     "section": "Students are interested in…",
-    "text": "Students are interested in…\n\n\n\n\n\n\n\n\n\n\n\nHealthcare\n\n\n\n\n\n\n\n\n\n\n\nFinance\n\n\n\n\n\n\n\n\n\n\n\nOperations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPolitical Science\n\n\n\n\n\n\n\n\n\n\n\nPsychology\n\n\n\n\n\n\n\n\n\n\n\nPsychology\n\n\n\n\n\n\n\n\n Previous\n\n\n Next"
+    "text": "Students are interested in…\n\nHealthcare\n\n\nFinance\n\n\nOperations"
   },
   {
     "objectID": "home.html#contact-us",
     "href": "home.html#contact-us",
     "title": "Data Analytics and Computational Social Science",
-    "section": "Contact US",
-    "text": "Contact US\n\n\nName \n\n\nEmail \n\n\nMessage\n\n\n\nSubmit\n\n\n Email: \" . $email . \" Message: \" . $message;\nmail($to, $subject, $body, $headers);\necho '';\necho '';\n}\n?>"
+    "section": "Contact Us",
+    "text": "Contact Us\n\n\n\n\n\n\n\n\nName \n\n\nEmail \n\n\nDescription\n\n\n Submit"
+  },
+  {
+    "objectID": "home.html#storytelling-with-data",
+    "href": "home.html#storytelling-with-data",
+    "title": "Data Analytics and Computational Social Science",
+    "section": "Storytelling with Data",
+    "text": "Storytelling with Data\nStories and data are often depicted as sitting at opposite ends of the spectrum. Stories are gripping narratives told about a single person, organization, or event. Data is quantitative (and sort of boring) evidence scientifically gathered about a large group of observations. Computational analysis helps us bridge this traditional divide between qualitative and quantitative approaches to making sense of the world. Faculty involved with the Data Analytics and Computational Social Science (DACSS) Program believe that each observation tells a story. Our goal is to teach you how to tell stories with data."
+  },
+  {
+    "objectID": "home.html#student-projects",
+    "href": "home.html#student-projects",
+    "title": "Data Analytics and Computational Social Science",
+    "section": "Student projects",
+    "text": "Student projects\n\n\n\n\n\n\n  \n\n\n  \n\n\n  \n\n\n\n\n\n\n  \n\n\n  \n\n\n  \n\n\n\n\n\n Previous\n\n\n Next"
+  },
+  {
+    "objectID": "home.html#students-interests",
+    "href": "home.html#students-interests",
+    "title": "Data Analytics and Computational Social Science",
+    "section": "Students interests",
+    "text": "Students interests\n\nHealthcare\n\n\nFinance\n\n\nOperations"
   }
 ]
