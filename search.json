@@ -112,18 +112,25 @@
     "text": "Projects\nCredit Risk Analysis\nThe project finds the probability of a borrower defaulting on debt obligaƟons and factors credit risk can be calculated through regression modelling. Used libraries such as library(tidyverse), library(dplyr), library(ggplot2) in R language.\nAnalyzing Customer Reviews for improvement of Uber experience In this research, we are analyzing huge user-generated content which can be used by organizations for their customer engagement strategies. The purpose of this study is to derive insights using app reviews and social media reviews to understand how businesses use feedback for customer engagement strategies. For this project we are using topic modelling in python language."
   },
   {
-    "objectID": "home.html",
-    "href": "home.html",
+    "objectID": "home.html#storytelling-with-data",
+    "href": "home.html#storytelling-with-data",
     "title": "Data Analytics and Computational Social Science",
-    "section": "",
-    "text": "Stories and data are often depicted as sitting at opposite ends of the spectrum. Stories are gripping narratives told about a single person, organization, or event. Data is quantitative (and sort of boring) evidence scientifically gathered about a large group of observations. Computational analysis helps us bridge this traditional divide between qualitative and quantitative approaches to making sense of the world. Faculty involved with the Data Analytics and Computational Social Science (DACSS) Program believe that each observation tells a story. Our goal is to teach you how to tell stories with data."
+    "section": "Storytelling with Data",
+    "text": "Storytelling with Data\nStories and data are often depicted as sitting at opposite ends of the spectrum. Stories are gripping narratives told about a single person, organization, or event. Data is quantitative (and sort of boring) evidence scientifically gathered about a large group of observations. Computational analysis helps us bridge this traditional divide between qualitative and quantitative approaches to making sense of the world. Faculty involved with the Data Analytics and Computational Social Science (DACSS) Program believe that each observation tells a story. Our goal is to teach you how to tell stories with data."
   },
   {
-    "objectID": "home.html#computational-social-science-computer-science-social-science",
-    "href": "home.html#computational-social-science-computer-science-social-science",
+    "objectID": "home.html#student-projects",
+    "href": "home.html#student-projects",
     "title": "Data Analytics and Computational Social Science",
-    "section": "Computational Social Science ≥ Computer Science + Social Science",
-    "text": "Computational Social Science ≥ Computer Science + Social Science\nWe think computational social science (CSS), also known as social data science, is greater than the sum of its parts. DACSS trains students to manage complex data and to use a wide range of computational methods, including text analysis, network analysis, geocoding and GIS, agent-based simulations, text scraping, Bayesian statistics, and machine learning for the social sciences."
+    "section": "Student projects",
+    "text": "Student projects\n\n\n\n\n\n\n  \n\n\n  \n\n\n  \n\n\n\n\n\n\n  \n\n\n  \n\n\n  \n\n\n\n\n\n Previous\n\n\n Next"
+  },
+  {
+    "objectID": "home.html#students-interests",
+    "href": "home.html#students-interests",
+    "title": "Data Analytics and Computational Social Science",
+    "section": "Students interests",
+    "text": "Students interests\n\nHealthcare\n\n\nFinance\n\n\nOperations"
   },
   {
     "objectID": "home.html#meet-our-professors",
@@ -133,38 +140,10 @@
     "text": "Meet our professors!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Previous\n\n\n Next"
   },
   {
-    "objectID": "home.html#dacss-fits-your-schedule",
-    "href": "home.html#dacss-fits-your-schedule",
+    "objectID": "home.html#contact-us",
+    "href": "home.html#contact-us",
     "title": "Data Analytics and Computational Social Science",
-    "section": "DACSS Fits Your Schedule",
-    "text": "DACSS Fits Your Schedule\nTake a few classes in your spare time. Pursue a Master’s of Science in person or online. Take 1 course each term, or up to four per term in our accelerated program. Anyone who has completed an undergraduate degree can pursue introductory and advanced training in computational social science."
-  },
-  {
-    "objectID": "home.html#drive-your-future-with-data",
-    "href": "home.html#drive-your-future-with-data",
-    "title": "Data Analytics and Computational Social Science",
-    "section": "Drive Your Future With Data",
-    "text": "Drive Your Future With Data\nBoth private sector business and public sector organizations are searching for professionals with a background in data analytics and computational social science. Job postings for employees with data science skills, a substantive understanding of how those data are generated and collected, and experience in communicating data-driven insights to a general audience take longer to fill than other types of positions (Burning Glass). Whether you are just finishing your undergraduate degree, are looking to change jobs, or hope to enhance a valuable skillset, DACSS can help you prepare for your future."
-  },
-  {
-    "objectID": "home.html#featured-student-projects",
-    "href": "home.html#featured-student-projects",
-    "title": "Data Analytics and Computational Social Science",
-    "section": "Featured Student projects",
-    "text": "Featured Student projects\n\n\n\n\n\n\n  \n\n\n  \n\n\n  \n\n\n\n\n\n\n  \n\n\n  \n\n\n  \n\n\n\n\n\n Previous\n\n\n Next"
-  },
-  {
-    "objectID": "home.html#students-are-interested-in",
-    "href": "home.html#students-are-interested-in",
-    "title": "Data Analytics and Computational Social Science",
-    "section": "Students are interested in…",
-    "text": "Students are interested in…\n\n\n\n\n\n\n\n\n\n\n\nHealthcare\n\n\n\n\n\n\n\n\n\n\n\nFinance\n\n\n\n\n\n\n\n\n\n\n\nOperations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPolitical Science\n\n\n\n\n\n\n\n\n\n\n\nPsychology\n\n\n\n\n\n\n\n\n\n\n\nPsychology\n\n\n\n\n\n\n\n\n Previous\n\n\n Next"
-  },
-  {
-    "objectID": "home.html#same-functionality-but-with-buttons",
-    "href": "home.html#same-functionality-but-with-buttons",
-    "title": "Data Analytics and Computational Social Science",
-    "section": "Same functionality but with buttons",
-    "text": "Same functionality but with buttons\n\nHealthcare\n\n\nFinance\n\n\nOperations"
+    "section": "Contact Us",
+    "text": "Contact Us\n\n\n\n\n\n\n\n\nName \n\n\nEmail \n\n\nDescription\n\n\n Submit"
   }
 ]
