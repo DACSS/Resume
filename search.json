@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "index.html#storytelling-with-data",
-    "href": "index.html#storytelling-with-data",
+    "objectID": "index.html#find-your-next-employee",
+    "href": "index.html#find-your-next-employee",
     "title": "Data Analytics and Computational Social Science",
-    "section": "Storytelling with Data",
-    "text": "Storytelling with Data\nStories and data are often depicted as sitting at opposite ends of the spectrum. Stories are gripping narratives told about a single person, organization, or event. Data is quantitative (and sort of boring) evidence scientifically gathered about a large group of observations. Computational analysis helps us bridge this traditional divide between qualitative and quantitative approaches to making sense of the world. Faculty involved with the Data Analytics and Computational Social Science (DACSS) Program believe that each observation tells a story. Our goal is to teach you how to tell stories with data."
-  },
-  {
-    "objectID": "index.html#student-projects",
-    "href": "index.html#student-projects",
-    "title": "Data Analytics and Computational Social Science",
-    "section": "Student projects",
-    "text": "Student projects\n\n\n\n\n\n\n  \n\n\n  \n\n\n  \n\n\n\n\n\n\n  \n\n\n  \n\n\n  \n\n\n\n\n\nPrevious\n\n\nNext"
+    "section": "Find your next employee",
+    "text": "Find your next employee\nFilter students based on:\nTo display a dropdown/list of things drop down\n\ndomain\nCPT/OPT\nfulltime.internship\ngraduation date"
   },
   {
     "objectID": "index.html#students-interests",
@@ -21,11 +14,11 @@
     "text": "Students interests\n\n\n\n\n\n\n\n\nHealthcare\n\n\n\n\nFinance\n\n\n\n\nOperations\n\n\n\n\nButton 4\n\n\n\n\nButton 5\n\n\n\n\n\n\n\nButton 6\n\n\n\n\nButton 7\n\n\n\n\nButton 8\n\n\n\n\nButton 9\n\n\n\n\nButton 10"
   },
   {
-    "objectID": "index.html#meet-our-professors",
-    "href": "index.html#meet-our-professors",
+    "objectID": "index.html#student-projects",
+    "href": "index.html#student-projects",
     "title": "Data Analytics and Computational Social Science",
-    "section": "Meet our professors!",
-    "text": "Meet our professors!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrevious\n\n\nNext"
+    "section": "Student projects",
+    "text": "Student projects\n\n\n\n\n\n\n  \n\n\n  \n\n\n  \n\n\n\n\n\n\n  \n\n\n  \n\n\n  \n\n\n\n\n\nPrevious\n\n\nNext"
   },
   {
     "objectID": "index.html#contact-us",
@@ -144,6 +137,6 @@
     "href": "people.html",
     "title": "Data Analytics and Computational Social Science",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAdithya Praneeth Parupudi\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirstName LastName\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMani Shanker Kamarapu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNiyati Sharma\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAdithya Praneeth Parupudi\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirstname Lastname\n\n\n\n\n\n\n\n\n\n\n\n\n\nMani Shanker Kamarapu\n\n\n\n\n\n\n\n\n\n\n\n\n\nNiyati Sharma\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
