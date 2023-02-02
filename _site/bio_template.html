@@ -88,16 +88,23 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./home.html">Home</a>
+    <a class="nav-link" href="./index.html">Home</a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./index.html">People</a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-people" role="button" data-bs-toggle="dropdown" aria-expanded="false">People</a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-people">    
+        <li>
+    <a class="dropdown-item" href="./people.html">
+ <span class="dropdown-text">Students</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="https://umass.edu/sbs/dacss">DACSS</a>
+        <li>
+    <a class="dropdown-item" href="./faculty.html">
+ <span class="dropdown-text">Faculty</span></a>
   </li>  
+    </ul>
+  </li>
   <li class="nav-item">
-    <a class="nav-link" href="https://www.google.com">Projects</a>
+    <a class="nav-link" href="./contact.html">Contact Us</a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/DACSS"><i class="bi bi-github" role="img" aria-label="GitHub">
@@ -105,13 +112,6 @@ ul.task-list li input[type="checkbox"] {
  </a>
   </li>  
 </ul>
-              <div class="quarto-toggle-container">
-                  <a href="" class="quarto-reader-toggle nav-link" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
-  <div class="quarto-reader-toggle-btn">
-  <i class="bi"></i>
-  </div>
-</a>
-              </div>
               <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->

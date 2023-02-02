@@ -1,14 +1,5 @@
 [
   {
-    "listing": "/index.html",
-    "items": [
-      "/bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html",
-      "/bio/sample_Format/bio_template.html",
-      "/bio/ManiShankerKamarapu_bio/ManiShankerKamarapu_bio.html",
-      "/bio/NiyatiSharma/NiyatiSharma_bio.html"
-    ]
-  },
-  {
     "listing": "/people.html",
     "items": [
       "/bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html",

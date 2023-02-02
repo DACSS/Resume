@@ -1,17 +1,31 @@
 [
   {
-    "objectID": "bio/ManiShankerKamarapu_bio/ManiShankerKamarapu_bio.html",
-    "href": "bio/ManiShankerKamarapu_bio/ManiShankerKamarapu_bio.html",
-    "title": "Mani Shanker Kamarapu",
-    "section": "",
-    "text": "Resume"
+    "objectID": "index.html#find-your-next-employee",
+    "href": "index.html#find-your-next-employee",
+    "title": "Data Analytics and Computational Social Science",
+    "section": "Find your next employee",
+    "text": "Find your next employee\nFilter students based on:\nTo display a dropdown/list of things drop down\n\ndomain\nCPT/OPT\nfulltime.internship\ngraduation date"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "index.html#students-interests",
+    "href": "index.html#students-interests",
     "title": "Data Analytics and Computational Social Science",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "section": "Students interests",
+    "text": "Students interests\n\n\n\n\n\n\n\n\nHealthcare\n\n\n\n\nFinance\n\n\n\n\nOperations\n\n\n\n\nButton 4\n\n\n\n\nButton 5\n\n\n\n\n\n\n\nButton 6\n\n\n\n\nButton 7\n\n\n\n\nButton 8\n\n\n\n\nButton 9\n\n\n\n\nButton 10"
+  },
+  {
+    "objectID": "index.html#student-projects",
+    "href": "index.html#student-projects",
+    "title": "Data Analytics and Computational Social Science",
+    "section": "Student projects",
+    "text": "Student projects\n\n\n\n\n\n\n  \n\n\n  \n\n\n  \n\n\n\n\n\n\n  \n\n\n  \n\n\n  \n\n\n\n\n\nPrevious\n\n\nNext"
+  },
+  {
+    "objectID": "index.html#contact-us",
+    "href": "index.html#contact-us",
+    "title": "Data Analytics and Computational Social Science",
+    "section": "Contact Us",
+    "text": "Contact Us"
   },
   {
     "objectID": "bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html",
@@ -21,39 +35,11 @@
     "text": "SummaryEducationTechnical SkillsWork ExperienceProjects\n\n\nInterested in Data Scientist roles in Healthcare, Finance, and Operations. I have a 2.7 yr work experience in the IT industry.\n\n\nUniversity Of Massachusetts Amherst Amherst, MA\nM.S in Data Analytics and Computational Social Science | August 2022 - Present (Expected 2023)\nJawaharlal Nehru Technological University Hyderabad, Telangana, India\nB. Tech in Computer Science and Engineering | Aug 2022 – Exp. Dec 2023\n\n\nProficient in - R - Python : numpy, pandas, sklearn - Git - Machine Learning - Webscraping - SQL\n\n\nUniversity Of Massachusetts Amherst Role: Member of tech team • Developed website to showcase 50 student portfolio pages to potential employers • Maintained official department websites and student blogs • Provided online and offline support to instructor in Zoom and Slack. • Fixed python code used for web-scraping • Documented class notes for curriculum development\nTech Mahindra, Hyderabad • Worked with a team of 5 and addressed high priority issues through ServiceNow, ensured smooth flow of business in a DevOps model • Designed and implemented SCA, OSB components; Used Jenkins for code builds; deployed using Myst tool; and committed code using SVN • Created change requests, documented each step of development and deployment, thus accelerating future code enhancements. • Performed extensive unit testing and regression testing through SOAPUI and in dev, qa and uat environments, and ensured the code meet the business standards • Maintained an integrated connectivity dashboard which runs on python, shell-scripts, and Oracle database. • Maintained the backend, reported and resolved integration failures, and performed weekly clean-up activities. • Participated in weekend deployments and supported various business outages.\n\n\nContent Analysis of famous people’s biographies - Analysed 126 celebrity biographies to find similarities in terms of profession, notable achievements, era, early life, place of birth and cause of death.\n\nEDA of NIFTY50 Dataset (Aug 2022) Using R, analysed the stock trends of top 50 Indian stocks between 2000 and 2021, performed time series analysis of the stock performance; best and worst stocks; and observed stock trends in 2008 and 2019-2021\nAnalysis of Enron email dataset for detecting suspicious behaviour (2018 - 2019) Measured email exchange frequency and employee’s frequently used words, and traced that word to its users."
   },
   {
-    "objectID": "bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html#bio",
-    "href": "bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html#bio",
-    "title": "Adithya Praneeth Parupudi",
-    "section": "Bio",
-    "text": "Bio\nInterested in Data Scientist roles in Healthcare, Finance, and Operations. I have a 2.7 yr work experience in the IT industry."
-  },
-  {
-    "objectID": "bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html#education",
-    "href": "bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html#education",
-    "title": "Adithya Praneeth Parupudi",
-    "section": "Education",
-    "text": "Education\nUniversity Of Massachusetts Amherst Amherst, MA\nM.S in Data Analytics and Computational Social Science | August 2022 - Present (Expected 2023)\nJawaharlal Nehru Technological University Hyderabad, Telangana, India\nB. Tech in Computer Science and Engineering | Aug 2022 – Exp. Dec 2023"
-  },
-  {
-    "objectID": "bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html#technical-expertise",
-    "href": "bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html#technical-expertise",
-    "title": "Adithya Praneeth Parupudi",
-    "section": "Technical Expertise",
-    "text": "Technical Expertise\nProficient in - R - Python : numpy, pandas, sklearn - Git - Machine Learning - Webscraping - SQL"
-  },
-  {
-    "objectID": "bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html#work-experience",
-    "href": "bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html#work-experience",
-    "title": "Adithya Praneeth Parupudi",
-    "section": "Work Experience",
-    "text": "Work Experience\nUniversity Of Massachusetts Amherst Role: Member of tech team • Developed website to showcase 50 student portfolio pages to potential employers • Maintained official department websites and student blogs • Provided online and offline support to instructor in Zoom and Slack. • Fixed python code used for web-scraping • Documented class notes for curriculum development\nTech Mahindra, Hyderabad • Worked with a team of 5 and addressed high priority issues through ServiceNow, ensured smooth flow of business in a DevOps model • Designed and implemented SCA, OSB components; Used Jenkins for code builds; deployed using Myst tool; and committed code using SVN • Created change requests, documented each step of development and deployment, thus accelerating future code enhancements. • Performed extensive unit testing and regression testing through SOAPUI and in dev, qa and uat environments, and ensured the code meet the business standards • Maintained an integrated connectivity dashboard which runs on python, shell-scripts, and Oracle database. • Maintained the backend, reported and resolved integration failures, and performed weekly clean-up activities. • Participated in weekend deployments and supported various business outages."
-  },
-  {
-    "objectID": "bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html#projects",
-    "href": "bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html#projects",
-    "title": "Adithya Praneeth Parupudi",
-    "section": "Projects",
-    "text": "Projects\nContent Analysis of famous people’s biographies - Analysed 126 celebrity biographies to find similarities in terms of profession, notable achievements, era, early life, place of birth and cause of death.\n\nEDA of NIFTY50 Dataset (Aug 2022) Using R, analysed the stock trends of top 50 Indian stocks between 2000 and 2021, performed time series analysis of the stock performance; best and worst stocks; and observed stock trends in 2008 and 2019-2021\n**Analysis of Enron email dataset for detecting suspicious behaviour** (2018 - 2019) Measured email exchange frequency and employee's frequently used words, and traced that word to its users."
+    "objectID": "bio/ManiShankerKamarapu_bio/ManiShankerKamarapu_bio.html",
+    "href": "bio/ManiShankerKamarapu_bio/ManiShankerKamarapu_bio.html",
+    "title": "Mani Shanker Kamarapu",
+    "section": "",
+    "text": "Resume"
   },
   {
     "objectID": "bio/ManiShankerKamarapu_bio/ManiShankerKamarapu_bio.html#bio",
@@ -147,241 +133,10 @@
     "text": "Projects\nCredit Risk Analysis\nThe project finds the probability of a borrower defaulting on debt obligaƟons and factors credit risk can be calculated through regression modelling. Used libraries such as library(tidyverse), library(dplyr), library(ggplot2) in R language.\nAnalyzing Customer Reviews for improvement of Uber experience In this research, we are analyzing huge user-generated content which can be used by organizations for their customer engagement strategies. The purpose of this study is to derive insights using app reviews and social media reviews to understand how businesses use feedback for customer engagement strategies. For this project we are using topic modelling in python language."
   },
   {
-    "objectID": "bio/sathvik/bio_Sathvik.html",
-    "href": "bio/sathvik/bio_Sathvik.html",
-    "title": "Sathvik Thogaru",
-    "section": "",
-    "text": "Resume"
-  },
-  {
-    "objectID": "bio/sathvik/bio_Sathvik.html#bio",
-    "href": "bio/sathvik/bio_Sathvik.html#bio",
-    "title": "Sathvik Thogaru",
-    "section": "Bio",
-    "text": "Bio\n\n2 years of work experience in generating analytical insights to drive business and stakeholder decisions, using a range of analytical tools and technologies such as Python, SQL, R, MySQL, ETL, Tableau, Power BI.\nSolid understanding of the concepts: Data Collection, Data Cleaning, Data Modeling, Data Visualization, Statistics, Hypothesis testing, Model evaluation, Regression Modeling, Classification algorithms and Machine Learning.\nGood at database programming using SQL: joins, procedures, views, triggers, cursors and complex queries.\nWell versed in using the version control system Git. Hands-on experience in CI/CD and workflow automation setup and usage using GitHub Actions."
-  },
-  {
-    "objectID": "bio/sathvik/bio_Sathvik.html#education",
-    "href": "bio/sathvik/bio_Sathvik.html#education",
-    "title": "Sathvik Thogaru",
-    "section": "Education",
-    "text": "Education\nUniversity of Massachusetts Amherst Amherst, Massachusetts  MS in Data Analytics and Computational Social Science (GPA: 3.8/4.0)  Aug 2021 - Dec 2022\nJawaharlal Nehru Technological University Hyderabad Hyderabad, India  Bachelor of Technology in Computer Science  Aug 2015 - July 2019"
-  },
-  {
-    "objectID": "bio/sathvik/bio_Sathvik.html#technical-expertise",
-    "href": "bio/sathvik/bio_Sathvik.html#technical-expertise",
-    "title": "Sathvik Thogaru",
-    "section": "Technical Expertise",
-    "text": "Technical Expertise\nPython, R, SQL, GCP, Tableau, RShiny"
-  },
-  {
-    "objectID": "bio/sathvik/bio_Sathvik.html#research-interests",
-    "href": "bio/sathvik/bio_Sathvik.html#research-interests",
-    "title": "Sathvik Thogaru",
-    "section": "Research Interests",
-    "text": "Research Interests\nData Science, Machine learning, and Natural language processing"
-  },
-  {
-    "objectID": "home.html",
-    "href": "home.html",
-    "title": "Data Analytics and Computational Social Science",
-    "section": "",
-    "text": "Stories and data are often depicted as sitting at opposite ends of the spectrum. Stories are gripping narratives told about a single person, organization, or event. Data is quantitative (and sort of boring) evidence scientifically gathered about a large group of observations. Computational analysis helps us bridge this traditional divide between qualitative and quantitative approaches to making sense of the world. Faculty involved with the Data Analytics and Computational Social Science (DACSS) Program believe that each observation tells a story. Our goal is to teach you how to tell stories with data."
-  },
-  {
-    "objectID": "temp.html",
-    "href": "temp.html",
-    "title": "Data Analytics and Computational Social Science",
-    "section": "",
-    "text": "Previous\n\n\n Next"
-  },
-  {
-    "objectID": "home.html#meet-our-professors",
-    "href": "home.html#meet-our-professors",
-    "title": "Data Analytics and Computational Social Science",
-    "section": "Meet our professors!",
-    "text": "Meet our professors!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Previous\n\n\n Next"
-  },
-  {
-    "objectID": "home.html#featured-student-projects",
-    "href": "home.html#featured-student-projects",
-    "title": "Data Analytics and Computational Social Science",
-    "section": "Featured Student projects",
-    "text": "Featured Student projects\n\n\n\n\n\n\n  \n\n\n  \n\n\n  \n\n\n\n\n\n\n  \n\n\n  \n\n\n  \n\n\n\n\n\n Previous\n\n\n Next"
-  },
-  {
-    "objectID": "temp.html#featured-student-projects",
-    "href": "temp.html#featured-student-projects",
-    "title": "Data Analytics and Computational Social Science",
-    "section": "Featured Student projects",
-    "text": "Featured Student projects\n\n\n\n\n\n\n  \n\n\n  \n\n\n  \n\n\n\n\n\n\n  \n\n\n  \n\n\n  \n\n\n\n\n\n Previous\n\n\n Next"
-  },
-  {
-    "objectID": "home.html#computational-social-science-computer-science-social-science",
-    "href": "home.html#computational-social-science-computer-science-social-science",
-    "title": "Data Analytics and Computational Social Science",
-    "section": "Computational Social Science ≥ Computer Science + Social Science",
-    "text": "Computational Social Science ≥ Computer Science + Social Science\nWe think computational social science (CSS), also known as social data science, is greater than the sum of its parts. DACSS trains students to manage complex data and to use a wide range of computational methods, including text analysis, network analysis, geocoding and GIS, agent-based simulations, text scraping, Bayesian statistics, and machine learning for the social sciences."
-  },
-  {
-    "objectID": "home.html#dacss-fits-your-schedule",
-    "href": "home.html#dacss-fits-your-schedule",
-    "title": "Data Analytics and Computational Social Science",
-    "section": "DACSS Fits Your Schedule",
-    "text": "DACSS Fits Your Schedule\nTake a few classes in your spare time. Pursue a Master’s of Science in person or online. Take 1 course each term, or up to four per term in our accelerated program. Anyone who has completed an undergraduate degree can pursue introductory and advanced training in computational social science."
-  },
-  {
-    "objectID": "home.html#drive-your-future-with-data",
-    "href": "home.html#drive-your-future-with-data",
-    "title": "Data Analytics and Computational Social Science",
-    "section": "Drive Your Future With Data",
-    "text": "Drive Your Future With Data\nBoth private sector business and public sector organizations are searching for professionals with a background in data analytics and computational social science. Job postings for employees with data science skills, a substantive understanding of how those data are generated and collected, and experience in communicating data-driven insights to a general audience take longer to fill than other types of positions (Burning Glass). Whether you are just finishing your undergraduate degree, are looking to change jobs, or hope to enhance a valuable skillset, DACSS can help you prepare for your future."
-  },
-  {
-    "objectID": "home.html#domain-names",
-    "href": "home.html#domain-names",
-    "title": "Data Analytics and Computational Social Science",
-    "section": "Domain Names",
-    "text": "Domain Names\n\n\n\n\n\n\n\n\n\n\n\nHealthcare\n\n\n\n\n\n\n\n\n\n\n\nFinance\n\n\n\n\n\n\n\n\n\n\n\nOperations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPolitical Science\n\n\n\n\n\n\n\n\n\n\n\nPsychology\n\n\n\n\n\n\n\n\n\n\n\nPsychology\n\n\n\n\n\n\n\n\n Previous\n\n\n Next"
-  },
-  {
-    "objectID": "sample.html",
-    "href": "sample.html",
-    "title": "Sample Document",
-    "section": "",
-    "text": "This is a sample document."
-  },
-  {
-    "objectID": "read-sample.html",
-    "href": "read-sample.html",
-    "title": "Read Sample Document",
-    "section": "",
-    "text": "{{ sample_document.data.title }}\n\n\n{{ sample_document.content }}\n\n\n{% for category in sample_document.data.categories %}\n\n{{ category }}\n\n{% endfor %}"
-  },
-  {
-    "objectID": "temp.html#domain-names",
-    "href": "temp.html#domain-names",
-    "title": "Data Analytics and Computational Social Science",
-    "section": "Domain Names",
-    "text": "Domain Names\n\n\n\n\n\n\n\n\n\n\n\nHealthcare\n\n\n\n\n\n\n\n\n\n\n\nFinance\n\n\n\n\n\n\n\n\n\n\n\nOperations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPolitical Science\n\n\n\n\n\n\n\n\n\n\n\nPsychology\n\n\n\n\n\n\n\n\n\n\n\nPsychology\n\n\n\n\n\n\n\n\n Previous\n\n\n Next"
-  },
-  {
-    "objectID": "temp.html#filters-students",
-    "href": "temp.html#filters-students",
-    "title": "Data Analytics and Computational Social Science",
-    "section": "Filters students",
-    "text": "Filters students\n\nHealthcare\n\n\nFinance\n\n\nOperations"
-  },
-  {
-    "objectID": "home.html#filters-students",
-    "href": "home.html#filters-students",
-    "title": "Data Analytics and Computational Social Science",
-    "section": "Filters students",
-    "text": "Filters students\n\nHealthcare\n\n\nFinance\n\n\nOperations"
-  },
-  {
-    "objectID": "home.html#domains-were-interested-in",
-    "href": "home.html#domains-were-interested-in",
-    "title": "Data Analytics and Computational Social Science",
-    "section": "Domains we’re interested in",
-    "text": "Domains we’re interested in\n\n\n\n\n\n\n\n\n\n\n\nHealthcare\n\n\n\n\n\n\n\n\n\n\n\nFinance\n\n\n\n\n\n\n\n\n\n\n\nOperations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPolitical Science\n\n\n\n\n\n\n\n\n\n\n\nPsychology\n\n\n\n\n\n\n\n\n\n\n\nPsychology\n\n\n\n\n\n\n\n\n Previous\n\n\n Next"
-  },
-  {
-    "objectID": "home.html#same-functionality-but-with-buttons",
-    "href": "home.html#same-functionality-but-with-buttons",
-    "title": "Data Analytics and Computational Social Science",
-    "section": "Same functionality but with buttons",
-    "text": "Same functionality but with buttons\n\nHealthcare\n\n\nFinance\n\n\nOperations"
-  },
-  {
-    "objectID": "temp.html#domains-were-interested-in",
-    "href": "temp.html#domains-were-interested-in",
-    "title": "Data Analytics and Computational Social Science",
-    "section": "Domains we’re interested in",
-    "text": "Domains we’re interested in\n\n\n\n\n\n\n\n\n\n\n\nHealthcare\n\n\n\n\n\n\n\n\n\n\n\nFinance\n\n\n\n\n\n\n\n\n\n\n\nOperations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPolitical Science\n\n\n\n\n\n\n\n\n\n\n\nPsychology\n\n\n\n\n\n\n\n\n\n\n\nPsychology\n\n\n\n\n\n\n\n\n Previous\n\n\n Next"
-  },
-  {
-    "objectID": "temp.html#same-functionality-but-with-buttons",
-    "href": "temp.html#same-functionality-but-with-buttons",
-    "title": "Data Analytics and Computational Social Science",
-    "section": "Same functionality but with buttons",
-    "text": "Same functionality but with buttons\n\nHealthcare\n\n\nFinance\n\n\nOperations"
-  },
-  {
-    "objectID": "home.html#students-are-interested-in",
-    "href": "home.html#students-are-interested-in",
-    "title": "Data Analytics and Computational Social Science",
-    "section": "Students are interested in…",
-    "text": "Students are interested in…\n\nHealthcare\n\n\nFinance\n\n\nOperations"
-  },
-  {
-    "objectID": "home.html#contact-us",
-    "href": "home.html#contact-us",
-    "title": "Data Analytics and Computational Social Science",
-    "section": "Contact Us",
-    "text": "Contact Us"
-  },
-  {
-    "objectID": "home.html#storytelling-with-data",
-    "href": "home.html#storytelling-with-data",
-    "title": "Data Analytics and Computational Social Science",
-    "section": "Storytelling with Data",
-    "text": "Storytelling with Data\nStories and data are often depicted as sitting at opposite ends of the spectrum. Stories are gripping narratives told about a single person, organization, or event. Data is quantitative (and sort of boring) evidence scientifically gathered about a large group of observations. Computational analysis helps us bridge this traditional divide between qualitative and quantitative approaches to making sense of the world. Faculty involved with the Data Analytics and Computational Social Science (DACSS) Program believe that each observation tells a story. Our goal is to teach you how to tell stories with data."
-  },
-  {
-    "objectID": "home.html#student-projects",
-    "href": "home.html#student-projects",
-    "title": "Data Analytics and Computational Social Science",
-    "section": "Student projects",
-    "text": "Student projects\n\n\n\n\n\n\n  \n\n\n  \n\n\n  \n\n\n\n\n\n\n  \n\n\n  \n\n\n  \n\n\n\n\n\n Previous\n\n\n Next"
-  },
-  {
-    "objectID": "home.html#students-interests",
-    "href": "home.html#students-interests",
-    "title": "Data Analytics and Computational Social Science",
-    "section": "Students interests",
-    "text": "Students interests\n\nHealthcare\n\n\nFinance\n\n\nOperations"
-  },
-  {
-    "objectID": "index.html#storytelling-with-data",
-    "href": "index.html#storytelling-with-data",
-    "title": "Data Analytics and Computational Social Science",
-    "section": "Storytelling with Data",
-    "text": "Storytelling with Data\nStories and data are often depicted as sitting at opposite ends of the spectrum. Stories are gripping narratives told about a single person, organization, or event. Data is quantitative (and sort of boring) evidence scientifically gathered about a large group of observations. Computational analysis helps us bridge this traditional divide between qualitative and quantitative approaches to making sense of the world. Faculty involved with the Data Analytics and Computational Social Science (DACSS) Program believe that each observation tells a story. Our goal is to teach you how to tell stories with data."
-  },
-  {
-    "objectID": "index.html#student-projects",
-    "href": "index.html#student-projects",
-    "title": "Data Analytics and Computational Social Science",
-    "section": "Student projects",
-    "text": "Student projects\n\n\n\n\n\n\n  \n\n\n  \n\n\n  \n\n\n\n\n\n\n  \n\n\n  \n\n\n  \n\n\n\n\n\nPrevious\n\n\nNext"
-  },
-  {
-    "objectID": "index.html#students-interests",
-    "href": "index.html#students-interests",
-    "title": "Data Analytics and Computational Social Science",
-    "section": "Students interests",
-    "text": "Students interests\n\n\n\n\n\n\n\n\nHealthcare\n\n\n\n\nFinance\n\n\n\n\nOperations\n\n\n\n\nButton 4\n\n\n\n\nButton 5\n\n\n\n\n\n\n\nButton 6\n\n\n\n\nButton 7\n\n\n\n\nButton 8\n\n\n\n\nButton 9\n\n\n\n\nButton 10"
-  },
-  {
-    "objectID": "index.html#meet-our-professors",
-    "href": "index.html#meet-our-professors",
-    "title": "Data Analytics and Computational Social Science",
-    "section": "Meet our professors!",
-    "text": "Meet our professors!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrevious\n\n\nNext"
-  },
-  {
-    "objectID": "index.html#contact-us",
-    "href": "index.html#contact-us",
-    "title": "Data Analytics and Computational Social Science",
-    "section": "Contact Us",
-    "text": "Contact Us"
-  },
-  {
     "objectID": "people.html",
     "href": "people.html",
     "title": "Data Analytics and Computational Social Science",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

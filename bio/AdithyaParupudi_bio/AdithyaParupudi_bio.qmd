@@ -27,7 +27,7 @@ justify-content: space-evenly;
     font-size: medium;
 }
 .resume{
-font-size: large;
+font-size: large    ;
 }
 </style>
 

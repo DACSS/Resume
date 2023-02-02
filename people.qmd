@@ -6,7 +6,7 @@ listing:
   categories: true
   type: grid
   contents: bio # refers to the /bio folder
-  fields: [image, title, description]
+  fields: [image, title]
 page-layout: full
 title-block-banner: true
 format:
@@ -15,5 +15,3 @@ format:
     html-math-method: katex
     # css: temp.css
 ---
-
-

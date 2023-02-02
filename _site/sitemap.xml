@@ -1,63 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://dacss.github.io/Resume/bio/ManiShankerKamarapu_bio/ManiShankerKamarapu_bio.html</loc>
-    <lastmod>2023-01-31T21:58:09.585Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dacss.github.io/Resume/bio_template.html</loc>
-    <lastmod>2023-01-16T01:19:58.165Z</lastmod>
-  </url>
-  <url>
     <loc>https://dacss.github.io/Resume/index.html</loc>
-    <lastmod>2023-01-31T23:42:10.738Z</lastmod>
+    <lastmod>2023-02-02T20:12:54.540Z</lastmod>
   </url>
   <url>
     <loc>https://dacss.github.io/Resume/bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html</loc>
-    <lastmod>2023-01-31T23:40:10.350Z</lastmod>
+    <lastmod>2023-02-02T19:50:54.855Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dacss.github.io/Resume/bio/ManiShankerKamarapu_bio/ManiShankerKamarapu_bio.html</loc>
+    <lastmod>2023-02-02T19:50:10.136Z</lastmod>
   </url>
   <url>
     <loc>https://dacss.github.io/Resume/bio/NiyatiSharma/NiyatiSharma_bio.html</loc>
-    <lastmod>2023-01-04T00:41:45.242Z</lastmod>
+    <lastmod>2023-02-02T19:50:10.673Z</lastmod>
   </url>
   <url>
     <loc>https://dacss.github.io/Resume/bio/sample_Format/bio_template.html</loc>
-    <lastmod>2023-01-03T17:34:09.026Z</lastmod>
+    <lastmod>2023-02-02T19:50:11.166Z</lastmod>
   </url>
   <url>
-    <loc>https://dacss.github.io/Resume/bio/sathvik/bio_Sathvik.html</loc>
-    <lastmod>2022-11-16T19:32:09.648Z</lastmod>
+    <loc>https://dacss.github.io/Resume/bio_template.html</loc>
+    <lastmod>2023-02-02T19:50:11.583Z</lastmod>
   </url>
   <url>
-    <loc>https://dacss.github.io/Resume/home.html</loc>
-    <lastmod>2023-01-31T21:51:50.653Z</lastmod>
+    <loc>https://dacss.github.io/Resume/contact.html</loc>
+    <lastmod>2023-02-02T20:13:15.550Z</lastmod>
   </url>
   <url>
-    <loc>https://dacss.github.io/Resume/temp.html</loc>
-    <lastmod>2023-01-23T18:37:38.100Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dacss.github.io/Resume/sample.html</loc>
-    <lastmod>2023-01-16T00:22:19.024Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dacss.github.io/Resume/domainFiltering.html</loc>
-    <lastmod>2023-01-16T00:22:24.934Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dacss.github.io/Resume/read-sample.html</loc>
-    <lastmod>2023-01-16T00:37:11.331Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dacss.github.io/Resume/temp2.html</loc>
-    <lastmod>2023-01-18T17:08:40.842Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dacss.github.io/Resume/merge.html</loc>
-    <lastmod>2023-01-26T13:15:52.111Z</lastmod>
+    <loc>https://dacss.github.io/Resume/faculty.html</loc>
+    <lastmod>2023-02-02T20:13:07.161Z</lastmod>
   </url>
   <url>
     <loc>https://dacss.github.io/Resume/people.html</loc>
-    <lastmod>2023-01-31T22:52:36.551Z</lastmod>
+    <lastmod>2023-02-02T19:50:52.609Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dacss.github.io/Resume/projects.html</loc>
+    <lastmod>2023-02-02T20:13:11.969Z</lastmod>
   </url>
 </urlset>

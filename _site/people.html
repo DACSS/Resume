@@ -70,7 +70,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-image','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
@@ -129,14 +129,21 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="./index.html">Home</a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link active" href="./people.html" aria-current="page">People</a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-people" role="button" data-bs-toggle="dropdown" aria-expanded="false">People</a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-people">    
+        <li>
+    <a class="dropdown-item" href="./people.html">
+ <span class="dropdown-text">Students</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="https://umass.edu/sbs/dacss">DACSS</a>
+        <li>
+    <a class="dropdown-item" href="./faculty.html">
+ <span class="dropdown-text">Faculty</span></a>
   </li>  
+    </ul>
+  </li>
   <li class="nav-item">
-    <a class="nav-link" href="https://www.google.com">Projects</a>
+    <a class="nav-link" href="./contact.html">Contact Us</a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/DACSS"><i class="bi bi-github" role="img" aria-label="GitHub">
@@ -183,7 +190,7 @@ ul.task-list li input[type="checkbox"] {
     </div>
 </div>
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="fall22,healthcare,adithya" data-listing-file-modified-sort="1674142033131" data-listing-reading-time-sort="1.9">
+<div class="g-col-1" data-index="0" data-categories="fall22,healthcare,adithya" data-listing-file-modified-sort="1675361482806" data-listing-reading-time-sort="2.01">
 <a href="./bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -193,26 +200,20 @@ ul.task-list li input[type="checkbox"] {
 <h5 class="no-anchor card-title listing-title">
 Adithya Praneeth Parupudi
 </h5>
-<div class="card-text listing-description">
-<i class="bi bi-cloud-download"></i>  View Resume 
-</div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1668627053280" data-listing-reading-time-sort="0.055">
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1675361413246" data-listing-reading-time-sort="0.055">
 <a href="./bio/sample_Format/bio_template.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./bio/sample_Format/your_image" class="thumbnail-image card-img" style="height: 150px;">
+<img src="./bio/sample_Format/profile_placeholder.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-FirstName LastName
+Firstname Lastname
 </h5>
-<div class="card-text listing-description">
-
-</div>
 </div>
 </div>
 </a>
@@ -227,9 +228,6 @@ FirstName LastName
 <h5 class="no-anchor card-title listing-title">
 Mani Shanker Kamarapu
 </h5>
-<div class="card-text listing-description">
- Resume
-</div>
 </div>
 </div>
 </a>
@@ -244,9 +242,6 @@ Mani Shanker Kamarapu
 <h5 class="no-anchor card-title listing-title">
 Niyati Sharma
 </h5>
-<div class="card-text listing-description">
- Resume
-</div>
 </div>
 </div>
 </a>

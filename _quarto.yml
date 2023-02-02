@@ -34,13 +34,13 @@ website:
         href: index.qmd
         
       - text: "People"
-        href: people.qmd
-        
-      - text: "DACSS"
-        href: https://umass.edu/sbs/dacss
+        href: faculty.qmd
         
       - text: "Projects"
-        href: "https://www.google.com"
+        href: projects.qmd
+      
+      - text: "Contact Us"
+        href: contact.qmd
         
       - icon: github
         href: https://github.com/DACSS

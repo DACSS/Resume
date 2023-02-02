@@ -1,7 +1,7 @@
 ---
-title: "FirstName LastName"
+title: "Firstname Lastname"
 subtitle: "Postion"
-image: your_image
+image: profile_placeholder.jpg
 about:
   template: trestles
   links:
@@ -21,34 +21,19 @@ about:
       url: "cv.pdf"
 comments: false
 ---
-::: {.column-page}
 
+::: column-page
 ## Bio
-
-
-
-
-
 
 ## Education
 
-
 ## Technical Expertise
-
 
 ## Work Experience
 
-
 ## Research Interests
-
-
 
 ## Projects
 
-
-
 ## Publications
-
-
 :::
-
