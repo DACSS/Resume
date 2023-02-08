@@ -8,7 +8,7 @@ format:
 <!-- Center Align main image -->
 
 ::: {.d-flex .justify-content-center}
-<img src="images/DACSS_Round_Network.png" class="rounded" width="350" height="350"/>
+<img src="images/DACSS_People.png" class="rounded" width="700" height="350"/>
 :::
 
 
@@ -16,15 +16,12 @@ format:
 
 Filter students based on:
 
-To display a dropdown/list of things
-drop down
-
-- domain
+- Domain
 - CPT/OPT
-- fulltime.internship
-- graduation date
+- Fulltime/Internship
+- By graduation date
 
-## Filter buttons
+Please use the below dropdowns to select from a list of options.
 
 <!-- Include the CSS files -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
@@ -34,156 +31,56 @@ drop down
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
+<style>
+.dropdown {
+display: inline-block;
+}
+</style>
+
 <div class="dropdown">
-<button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-Dropdown button
+<button class="btn btn-secondary dropdown-toggle" type="button" id="domainDropdown" data-toggle="dropdown"
+aria-haspopup="true" aria-expanded="false">
+Domains
 </button>
 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-<a class="dropdown-item" href="#">Action</a>
-<a class="dropdown-item" href="#">Another action</a>
-<a class="dropdown-item" href="#">Something else here</a>
+<a class="dropdown-item" href="./people.html#category=healthcare" target="_blank">HealthCare</a>
+<a class="dropdown-item" href="./people.html#category=finance" target="_blank">Finance</a>
+<a class="dropdown-item" href="./people.html#category=operations" target="_blank">Operations</a>
+<a class="dropdown-item" href="./people.html#category=it" target="_blank">Information Technology</a>
+<a class="dropdown-item" href="./people.html#category=supply_chain" target="_blank">Supply Chain</a>
+<a class="dropdown-item" href="./people.html#category=political_science" target="_blank">Political
+science</a>
+<a class="dropdown-item" href="./people.html#category=public_policy" target="_blank">Public policy</a>
+<a class="dropdown-item" href="./people.html#category=psychology" target="_blank">psychology</a>
+</div>
+</div>
+
+<div class="dropdown">
+<button class="btn btn-secondary dropdown-toggle" type="button" id="otherDropdown" data-toggle="dropdown"
+aria-haspopup="true" aria-expanded="false">
+CPT/OPT
+</button>
+<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+<a class="dropdown-item" href="./people.html#category=cpt" target="_blank">CPT</a>
+<a class="dropdown-item" href="./people.html#category=opt" target="_blank">OPT</a>
+<a class="dropdown-item" href="./people.html#category=full_time" target="_blank">Full-time</a>
+<a class="dropdown-item" href="./people.html#category=internship" target="_blank">Internship</a>
 </div>
 </div>
 
 
-## Students interests
-
-<!-- <button id="healthcare">Healthcare</button> -->
-
-<!-- <button id="finance">Finance</button> -->
-
-<!-- <button id="operations">Operations</button> -->
-
-```{=html}
-<style>
-  .btn-light {
-    background: #f8f9fa;
-    border: none;
-    border-radius: 40px;
-    padding: 15px 40px;
-    font-size: 20px;
-    font-weight: bold;
-    color: #007bff;
-    text-transform: uppercase;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
-    transition: all 0.3s ease;
-    cursor: pointer;
-  }
-  .btn-light:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  }
-  .btn-light:active {
-    transform: translateY(3px);
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
-  }
-</style>
-```
-::: {.container .mt-5}
-::: row
-::: col-sm-2
-<button id="healthcare" class="btn btn-light btn-block">
-
-Healthcare
-
+<div class="dropdown">
+<button class="btn btn-secondary dropdown-toggle" type="button" id="graduationDropdown" data-toggle="dropdown"
+aria-haspopup="true" aria-expanded="false">
+Graduation
 </button>
-:::
-
-::: col-sm-2
-<button id="finance" class="btn btn-light btn-block">
-
-Finance
-
-</button>
-:::
-
-::: col-sm-2
-<button id="operations" class="btn btn-light btn-block">
-
-Operations
-
-</button>
-:::
-
-::: col-sm-2
-<button id class="btn btn-light btn-block">
-
-Button 4
-
-</button>
-:::
-
-::: col-sm-2
-<button id class="btn btn-light btn-block">
-
-Button 5
-
-</button>
-:::
-
-<br>
-:::
-
-::: row
-::: col-sm-2
-<button id class="btn btn-light btn-block">
-
-Button 6
-
-</button>
-:::
-
-::: col-sm-2
-<button id class="btn btn-light btn-block">
-
-Button 7
-
-</button>
-:::
-
-::: col-sm-2
-<button id class="btn btn-light btn-block">
-
-Button 8
-
-</button>
-:::
-
-::: col-sm-2
-<button id class="btn btn-light btn-block">
-
-Button 9
-
-</button>
-:::
-
-::: col-sm-2
-<button id class="btn btn-light btn-block">
-
-Button 10
-
-</button>
-:::
-:::
-:::
-
-```{=html}
-<script>
-    document.getElementById("healthcare").addEventListener("click", function(){
-        window.open("./people.html#category=healthcare", "_blank");
-    });
-    
-    
-    document.getElementById("finance").addEventListener("click", function(){
-        window.open("./people.html#category=finance", "_blank");
-    });
-    
-    document.getElementById("operations").addEventListener("click", function(){
-        window.open("./people.html#category=operations", "_blank");
-    });
-</script>
-```
-<br>
+<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+<a class="dropdown-item" href="./people.html#category=spring23" target="_blank">Spring'23</a>
+<a class="dropdown-item" href="./people.html#category=summer23" target="_blank">Summer'23</a>
+<a class="dropdown-item" href="./people.html#category=fall23" target="_blank">Fall'23</a>
+<a class="dropdown-item" href="./people.html#category=spring24" target="_blank">Spring'24</a>
+</div>
+</div>
 
 ## Student projects
 

@@ -4,7 +4,7 @@
     "href": "index.html#find-your-next-employee",
     "title": "Careers@DACSS",
     "section": "Find your next employee",
-    "text": "Find your next employee\nFilter students based on:\nTo display a dropdown/list of things drop down\n\ndomain\nCPT/OPT\nfulltime.internship\ngraduation date"
+    "text": "Find your next employee\nFilter students based on:\n\nDomain\nCPT/OPT\nFulltime/Internship\nBy graduation date\n\nPlease use the below dropdowns to select from a list of options.\n\n\n\n\n\n\n\n\n\nDomains\n\n\nHealthCare Finance Operations Information Technology Supply Chain Political science Public policy psychology\n\n\n\n\nCPT/OPT\n\n\nCPT OPT Full-time Internship\n\n\n\n\nGraduation\n\n\nSpring’23 Summer’23 Fall’23 Spring’24"
   },
   {
     "objectID": "index.html#students-interests",
@@ -149,7 +149,7 @@
   {
     "objectID": "for_employers.html",
     "href": "for_employers.html",
-    "title": "Data Analytics and Computational Social Science",
+    "title": "Careers@DACSS",
     "section": "",
     "text": "To post instructions on how to use this site."
   },
@@ -158,6 +158,13 @@
     "href": "index.html#filter-buttons",
     "title": "Careers@DACSS",
     "section": "Filter buttons",
-    "text": "Filter buttons\n\n\n\n\n\n\n\n\nDropdown button\n\n\nAction Another action Something else here"
+    "text": "Filter buttons\n\n\n\n\n\n\n\n\n\nDomains\n\n\nHealthCare Finance Operations Information Technology Supply Chain Political science Public policy psychology\n\n\n\n\nCPT/OPT\n\n\nCPT OPT Full-time Internship\n\n\n\n\nGraduation\n\n\nSpring’23 Summer’23 Fall’23 Spring’24"
+  },
+  {
+    "objectID": "index.html#drop-down-example",
+    "href": "index.html#drop-down-example",
+    "title": "Careers@DACSS",
+    "section": "drop down example",
+    "text": "drop down example\n\n\nWell\n\n\n\nTry this\n\n\n\nThe other one\n\n\n\nOk, try this\n\nYou got me 😂\n\n\n\n\n\n\nHeading1\n\nsome text +\n\n\nHeading1.1\n\nsome more text +\n\n\nHeading1.1.1\n\neven more text"
   }
 ]

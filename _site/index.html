@@ -134,8 +134,6 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#find-your-next-employee" id="toc-find-your-next-employee" class="nav-link active" data-scroll-target="#find-your-next-employee">Find your next employee</a></li>
-  <li><a href="#filter-buttons" id="toc-filter-buttons" class="nav-link" data-scroll-target="#filter-buttons">Filter buttons</a></li>
-  <li><a href="#students-interests" id="toc-students-interests" class="nav-link" data-scroll-target="#students-interests">Students interests</a></li>
   <li><a href="#student-projects" id="toc-student-projects" class="nav-link" data-scroll-target="#student-projects">Student projects</a></li>
   <li><a href="#contact-us" id="toc-contact-us" class="nav-link" data-scroll-target="#contact-us">Contact Us</a></li>
   </ul>
@@ -148,136 +146,53 @@ ul.task-list li input[type="checkbox"] {
 
 <!-- Center Align main image -->
 <div class="d-flex justify-content-center">
-<p><img src="images/DACSS_Round_Network.png" class="rounded" width="350" height="350"></p>
+<p><img src="images/DACSS_People.png" class="rounded" width="700" height="350"></p>
 </div>
 <section id="find-your-next-employee" class="level2">
 <h2 class="anchored" data-anchor-id="find-your-next-employee">Find your next employee</h2>
 <p>Filter students based on:</p>
-<p>To display a dropdown/list of things drop down</p>
 <ul>
-<li>domain</li>
+<li>Domain</li>
 <li>CPT/OPT</li>
-<li>fulltime.internship</li>
-<li>graduation date</li>
+<li>Fulltime/Internship</li>
+<li>By graduation date</li>
 </ul>
-</section>
-<section id="filter-buttons" class="level2">
-<h2 class="anchored" data-anchor-id="filter-buttons">Filter buttons</h2>
+<p>Please use the below dropdowns to select from a list of options.</p>
 <!-- Include the CSS files -->
 <p><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"></p>
 <!-- Include the JavaScript files -->
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<style>
+.dropdown {
+display: inline-block;
+}
+</style>
 <div class="dropdown">
-<button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-Dropdown button
+<button class="btn btn-secondary dropdown-toggle" type="button" id="domainDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+Domains
 </button>
 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-<p><a class="dropdown-item" href="#">Action</a> <a class="dropdown-item" href="#">Another action</a> <a class="dropdown-item" href="#">Something else here</a></p>
+<p><a class="dropdown-item" href="./people.html#category=healthcare" target="_blank">HealthCare</a> <a class="dropdown-item" href="./people.html#category=finance" target="_blank">Finance</a> <a class="dropdown-item" href="./people.html#category=operations" target="_blank">Operations</a> <a class="dropdown-item" href="./people.html#category=it" target="_blank">Information Technology</a> <a class="dropdown-item" href="./people.html#category=supply_chain" target="_blank">Supply Chain</a> <a class="dropdown-item" href="./people.html#category=political_science" target="_blank">Political science</a> <a class="dropdown-item" href="./people.html#category=public_policy" target="_blank">Public policy</a> <a class="dropdown-item" href="./people.html#category=psychology" target="_blank">psychology</a></p>
 </div>
 </div>
-</section>
-<section id="students-interests" class="level2">
-<h2 class="anchored" data-anchor-id="students-interests">Students interests</h2>
-<!-- <button id="healthcare">Healthcare</button> -->
-<!-- <button id="finance">Finance</button> -->
-<!-- <button id="operations">Operations</button> -->
-<style>
-  .btn-light {
-    background: #f8f9fa;
-    border: none;
-    border-radius: 40px;
-    padding: 15px 40px;
-    font-size: 20px;
-    font-weight: bold;
-    color: #007bff;
-    text-transform: uppercase;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
-    transition: all 0.3s ease;
-    cursor: pointer;
-  }
-  .btn-light:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  }
-  .btn-light:active {
-    transform: translateY(3px);
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
-  }
-</style>
-<div class="container mt-5">
-<div class="row">
-<div class="col-sm-2">
-<button id="healthcare" class="btn btn-light btn-block">
-<p>Healthcare</p>
+<div class="dropdown">
+<button class="btn btn-secondary dropdown-toggle" type="button" id="otherDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+CPT/OPT
 </button>
+<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+<p><a class="dropdown-item" href="./people.html#category=cpt" target="_blank">CPT</a> <a class="dropdown-item" href="./people.html#category=opt" target="_blank">OPT</a> <a class="dropdown-item" href="./people.html#category=full_time" target="_blank">Full-time</a> <a class="dropdown-item" href="./people.html#category=internship" target="_blank">Internship</a></p>
 </div>
-<div class="col-sm-2">
-<button id="finance" class="btn btn-light btn-block">
-<p>Finance</p>
+</div>
+<div class="dropdown">
+<button class="btn btn-secondary dropdown-toggle" type="button" id="graduationDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+Graduation
 </button>
-</div>
-<div class="col-sm-2">
-<button id="operations" class="btn btn-light btn-block">
-<p>Operations</p>
-</button>
-</div>
-<div class="col-sm-2">
-<button id="" class="btn btn-light btn-block">
-<p>Button 4</p>
-</button>
-</div>
-<div class="col-sm-2">
-<button id="" class="btn btn-light btn-block">
-<p>Button 5</p>
-</button>
-</div>
-<p><br></p>
-</div>
-<div class="row">
-<div class="col-sm-2">
-<button id="" class="btn btn-light btn-block">
-<p>Button 6</p>
-</button>
-</div>
-<div class="col-sm-2">
-<button id="" class="btn btn-light btn-block">
-<p>Button 7</p>
-</button>
-</div>
-<div class="col-sm-2">
-<button id="" class="btn btn-light btn-block">
-<p>Button 8</p>
-</button>
-</div>
-<div class="col-sm-2">
-<button id="" class="btn btn-light btn-block">
-<p>Button 9</p>
-</button>
-</div>
-<div class="col-sm-2">
-<button id="" class="btn btn-light btn-block">
-<p>Button 10</p>
-</button>
+<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+<p><a class="dropdown-item" href="./people.html#category=spring23" target="_blank">Spring’23</a> <a class="dropdown-item" href="./people.html#category=summer23" target="_blank">Summer’23</a> <a class="dropdown-item" href="./people.html#category=fall23" target="_blank">Fall’23</a> <a class="dropdown-item" href="./people.html#category=spring24" target="_blank">Spring’24</a></p>
 </div>
 </div>
-</div>
-<script>
-    document.getElementById("healthcare").addEventListener("click", function(){
-        window.open("./people.html#category=healthcare", "_blank");
-    });
-    
-    
-    document.getElementById("finance").addEventListener("click", function(){
-        window.open("./people.html#category=finance", "_blank");
-    });
-    
-    document.getElementById("operations").addEventListener("click", function(){
-        window.open("./people.html#category=operations", "_blank");
-    });
-</script>
-<p><br></p>
 </section>
 <section id="student-projects" class="level2">
 <h2 class="anchored" data-anchor-id="student-projects">Student projects</h2>
