@@ -2,8 +2,7 @@ project:
   type: website
 
 website:
-  title: "Data Analytics and Computational Social Science"
-  page-navigation: true # to navigate to other pages
+  title: "Careers@DACSS"
 
   # page footer
   page-footer: 
@@ -34,25 +33,31 @@ website:
         href: index.qmd
         
       - text: "People"
-        href: faculty.qmd
+        href: people.qmd
         
       - text: "Projects"
         href: projects.qmd
       
-      - text: "Contact Us"
+      - text: "Contact"
         href: contact.qmd
         
-      - icon: github
-        href: https://github.com/DACSS
-        aria-label: GitHub
-
+      - text: "For Employers"
+        href: for_employers.qmd
+      
+      - text: "Menu"
+        menu: 
+          - text: "student"
+            href: people.qmd
+          - text: "faculty"
+            href: faculty.qmd
+          - text: "contact"
+            href: contact.qmd
 format:
   html:
     smooth-scroll: true # enabled smooth scrolling
     mainfont: "Atkinson Hyperlegible" # defined a style in .scss and used the name here
     linkcolor: "#881c1c"
     toc: true
-    # theme: zephyr
     theme: litera
     code-copy: true
     code-overflow: wrap

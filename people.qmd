@@ -2,9 +2,9 @@
 # title: "Students of DACSS"
 listing:
   sort-ui: true # for sorting
-  filter-ui: true # for filtering
-  categories: true
-  type: grid
+  filter-ui: true # to find results by name
+  categories: numbered # displays category names, with count of each tag
+  type: grid # refers to grid view
   contents: bio # refers to the /bio folder
   fields: [image, title]
 page-layout: full

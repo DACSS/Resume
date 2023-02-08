@@ -1,1 +1,18 @@
-## Hello World!
+---
+title: "Al Simon"
+about:
+  template: trestles
+  image: images/image1.jpg
+  image-width: 15em
+  image-shape: round
+  links:
+    - text: LinkedIn
+      icon: linkedin
+      url: "https://linkedin.com"
+
+page-layout: full
+---
+
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+
+<div class="elfsight-app-8bc17fb7-0408-491a-8576-0f96ea7c486f"></div>
