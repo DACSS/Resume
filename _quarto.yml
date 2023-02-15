@@ -36,22 +36,22 @@ website:
         href: people.qmd
         
       - text: "Projects"
-        href: projects.qmd
+        href: pages/projects.qmd
       
       - text: "Contact"
-        href: contact.qmd
+        href: pages/contact.qmd
         
       - text: "For Employers"
-        href: for_employers.qmd
+        href: pages/for_employers.qmd
       
       - text: "Menu"
         menu: 
           - text: "student"
             href: people.qmd
           - text: "faculty"
-            href: faculty.qmd
+            href: pages/faculty.qmd
           - text: "contact"
-            href: contact.qmd
+            href: pages/contact.qmd
 format:
   html:
     smooth-scroll: true # enabled smooth scrolling

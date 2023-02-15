@@ -1,9 +1,8 @@
 ---
 title: "Adithya Praneeth Parupudi"
-# date: 2021-01-03
+description: "Email : aparupudi@umass.edu" 
 image: ProfilePhoto.jpg
 about:
-  template: trestles
   links:
     - text: LinkedIn
       icon: linkedin
@@ -15,8 +14,6 @@ about:
       icon: envelope
       url: "aparupudi@umass.edu"
 categories: [fall22, healthcare, adithya]
-comments: false
-page-layout: full
 ---
 
 <style>

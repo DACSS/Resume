@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://dacss.github.io/Resume/index.html</loc>
-    <lastmod>2023-02-08T20:25:32.259Z</lastmod>
+    <lastmod>2023-02-15T17:19:03.893Z</lastmod>
   </url>
   <url>
     <loc>https://dacss.github.io/Resume/bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html</loc>
-    <lastmod>2023-02-02T19:50:54.855Z</lastmod>
+    <lastmod>2023-02-14T17:15:53.654Z</lastmod>
   </url>
   <url>
     <loc>https://dacss.github.io/Resume/bio/ManiShankerKamarapu_bio/ManiShankerKamarapu_bio.html</loc>
-    <lastmod>2023-02-02T19:50:10.136Z</lastmod>
+    <lastmod>2023-02-10T23:37:54.691Z</lastmod>
   </url>
   <url>
     <loc>https://dacss.github.io/Resume/bio/NiyatiSharma/NiyatiSharma_bio.html</loc>
@@ -34,14 +34,50 @@
   </url>
   <url>
     <loc>https://dacss.github.io/Resume/people.html</loc>
-    <lastmod>2023-02-08T20:11:29.312Z</lastmod>
+    <lastmod>2023-02-14T17:15:49.712Z</lastmod>
   </url>
   <url>
     <loc>https://dacss.github.io/Resume/projects.html</loc>
-    <lastmod>2023-02-08T04:43:27.634Z</lastmod>
+    <lastmod>2023-02-11T05:24:50.259Z</lastmod>
   </url>
   <url>
     <loc>https://dacss.github.io/Resume/for_employers.html</loc>
     <lastmod>2023-02-08T17:08:55.608Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dacss.github.io/Resume/pages/contact.html</loc>
+    <lastmod>2023-02-11T05:37:47.716Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dacss.github.io/Resume/pages/people.html</loc>
+    <lastmod>2023-02-11T05:48:41.025Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dacss.github.io/Resume/pages/faculty.html</loc>
+    <lastmod>2023-02-11T05:41:02.737Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dacss.github.io/Resume/pages/for_employers.html</loc>
+    <lastmod>2023-02-11T05:41:03.162Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dacss.github.io/Resume/pages/projects.html</loc>
+    <lastmod>2023-02-15T17:19:45.544Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dacss.github.io/Resume/pages/bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html</loc>
+    <lastmod>2023-02-11T05:47:28.213Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dacss.github.io/Resume/pages/bio/ManiShankerKamarapu_bio/ManiShankerKamarapu_bio.html</loc>
+    <lastmod>2023-02-11T05:47:28.752Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dacss.github.io/Resume/pages/bio/NiyatiSharma/NiyatiSharma_bio.html</loc>
+    <lastmod>2023-02-11T05:47:29.263Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dacss.github.io/Resume/pages/bio/sample_Format/bio_template.html</loc>
+    <lastmod>2023-02-11T05:47:29.678Z</lastmod>
   </url>
 </urlset>

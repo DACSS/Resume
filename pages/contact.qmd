@@ -2,7 +2,7 @@
 title: "Al Simon"
 about:
   template: trestles
-  image: images/image1.jpg
+  image: ../images/image1.jpg
   image-width: 15em
   image-shape: round
   links:
@@ -13,6 +13,8 @@ about:
 page-layout: full
 ---
 
+```{=html}
 <script src="https://apps.elfsight.com/p/platform.js" defer></script>
-
-<div class="elfsight-app-8bc17fb7-0408-491a-8576-0f96ea7c486f"></div>
+```
+::: elfsight-app-8bc17fb7-0408-491a-8576-0f96ea7c486f
+:::
