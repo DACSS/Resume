@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "for_employers.html",
-    "href": "for_employers.html",
+    "objectID": "pages/for_employers.html",
+    "href": "pages/for_employers.html",
     "title": "Careers@DACSS",
     "section": "",
     "text": "Page for employers.\nTo post instructions on how to use this site."
+  },
+  {
+    "objectID": "pages/projects.html",
+    "href": "pages/projects.html",
+    "title": "Careers@DACSS",
+    "section": "",
+    "text": "Here are a list of projects from current students.\n\nEDA of NIFTY50 Dataset (Aug 2022) - Using R, analysed the stock trends of top 50 Indian stocks between 2000 and 2021, performed time series analysis of the stock performance; best and worst stocks; and observed stock trends in 2008 and 2019-2021\nStructural Topic Modeling of Celebrity Personality Trends- Conducted a comprehensive case study of 100 famous people, revealing patterns in personality traits and contextualizing findings through demographic, professional, and background characteristics. Built using R, topic modeling, and the tidyverse package."
   },
   {
     "objectID": "index.html#find-your-next-employee",
