@@ -5,38 +5,34 @@ format:
     toc: true
 ---
 
+## Welcome!
+
+```{=html}
+<p style={font-size: '13px'}>Welcome to Master's of Science in Data Analytics and Computational Social Science program. </p>
+```
 <!-- Center Align main image -->
 
 ::: {.d-flex .justify-content-center}
 <img src="images/DACSS_People.png" class="rounded" width="700" height="350"/>
 :::
 
+<br>
+
 ## Find your next employee
 
-Filter students based on:
+Please use the below dropdowns to filter students based on the following:
 
--   Domain
--   CPT/OPT
--   Fulltime/Internship
--   By graduation date
+-   Domains
+-   Job Type (Fulltime, Part time)
+-   By Graduation date
 
-Please use the below dropdowns to select from a list of options.
 
-<!-- Include the CSS files -->
+<head>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<script src="site_libs/bootstrap/bootstrap.min.js" crossorigin="anonymous"></script>
+</head>
 
-<!-- Include the JavaScript files -->
-
-```{=html}
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-```
-```{=html}
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-```
-```{=html}
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-```
 ```{=html}
 <style>
 .dropdown {
@@ -44,103 +40,133 @@ display: inline-block;
 }
 </style>
 ```
-::: dropdown
-<button class="btn btn-secondary dropdown-toggle" type="button" id="domainDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 
+
+<div class="dropdown">
+<button class="btn btn-danger dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
 Domains
-
 </button>
+<ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+<li><a class="dropdown-item" href="./people.html#category=healthcare" target="_blank">HealthCare</a></li>
+<li><a class="dropdown-item" href="./people.html#category=finance" target="_blank">Finance</a></li>
+<li><a class="dropdown-item" href="./people.html#category=operations" target="_blank">Operations</a></li>
+<li><a class="dropdown-item" href="./people.html#category=it" target="_blank">Information Technology</a></li>
+<li><a class="dropdown-item" href="./people.html#category=supply_chain" target="_blank">Supply Chain</a></li>
+<li><a class="dropdown-item" href="./people.html#category=political_science" target="_blank">Political science</a></li>
+<li><a class="dropdown-item" href="./people.html#category=public_policy" target="_blank">Public policy</a></li>
+<li><a class="dropdown-item" href="./people.html#category=psychology" target="_blank">Psychology</a></li>
+</ul>
+</div>
 
-::: {.dropdown-menu aria-labelledby="dropdownMenuButton"}
-<a class="dropdown-item" href="./people.html#category=healthcare" target="_blank">HealthCare</a> <a class="dropdown-item" href="./people.html#category=finance" target="_blank">Finance</a> <a class="dropdown-item" href="./people.html#category=operations" target="_blank">Operations</a> <a class="dropdown-item" href="./people.html#category=it" target="_blank">Information Technology</a> <a class="dropdown-item" href="./people.html#category=supply_chain" target="_blank">Supply Chain</a> <a class="dropdown-item" href="./people.html#category=political_science" target="_blank">Political science</a> <a class="dropdown-item" href="./people.html#category=public_policy" target="_blank">Public policy</a> <a class="dropdown-item" href="./people.html#category=psychology" target="_blank">psychology</a>
-:::
-:::
 
-::: dropdown
-<button class="btn btn-secondary dropdown-toggle" type="button" id="otherDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-
-CPT/OPT
-
+<div class="dropdown">
+<button class="btn btn-danger dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+Job Type
 </button>
+<ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+<li><a class="dropdown-item" href="./people.html#category=full_time" target="_blank">Full-time</a></li>
+<li><a class="dropdown-item" href="./people.html#category=internship" target="_blank">Internship</a></li>
+</ul>
+</div>
 
-::: {.dropdown-menu aria-labelledby="dropdownMenuButton"}
-<a class="dropdown-item" href="./people.html#category=cpt" target="_blank">CPT</a> <a class="dropdown-item" href="./people.html#category=opt" target="_blank">OPT</a> <a class="dropdown-item" href="./people.html#category=full_time" target="_blank">Full-time</a> <a class="dropdown-item" href="./people.html#category=internship" target="_blank">Internship</a>
-:::
-:::
-
-::: dropdown
-<button class="btn btn-secondary dropdown-toggle" type="button" id="graduationDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-
-Graduation
-
+<div class="dropdown">
+<button class="btn btn-danger dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+Graduation Date
 </button>
+<ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+<li><a class="dropdown-item" href="./people.html#category=spring23" target="_blank">Spring'23</a></li>
+<li><a class="dropdown-item" href="./people.html#category=summer23" target="_blank">Summer'23</a></li>
+<li><a class="dropdown-item" href="./people.html#category=fall23" target="_blank">Fall'23</a></li>
+<li><a class="dropdown-item" href="./people.html#category=spring24" target="_blank">Spring'24</a></li>
+</ul>
+</div>
 
-::: {.dropdown-menu aria-labelledby="dropdownMenuButton"}
-<a class="dropdown-item" href="./people.html#category=spring23" target="_blank">Spring'23</a> <a class="dropdown-item" href="./people.html#category=summer23" target="_blank">Summer'23</a> <a class="dropdown-item" href="./people.html#category=fall23" target="_blank">Fall'23</a> <a class="dropdown-item" href="./people.html#category=spring24" target="_blank">Spring'24</a>
-:::
-:::
 
-## Student projects
 
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
 
-::: {#studentProjects .carousel .slide .w-100 .d-flex .justify-content-center data-ride="carousel"}
-::: carousel-inner
-::: {.carousel-item .active}
-::: row
-::: col-4
-<a href="https://example1.com" target="_blank"> <img src="images/image1.jpg" alt="image1" class="img-fluid"/> </a>
-:::
+<br>
 
-::: col-4
-<a href="https://example2.com" target="_blank"> <img src="images/image2.jpg" alt="image2" class="img-fluid"/> </a>
-:::
+## From Classroom to Conference
 
-::: col-4
-<a href="https://example3.com" target="_blank"> <img src="images/image3.jpg" alt="image3" class="img-fluid"/> </a>
-:::
-:::
-:::
+Below are moments captured from DACSS Research Symposium where out students present their work through paper presentations! 
 
-::: carousel-item
-::: row
-::: col-4
-<a href="https://example4.com" target="_blank"> <img src="images/image4.jpg" alt="image4" class="img-fluid"/> </a>
-:::
 
-::: col-4
-<a href="https://example5.com" target="_blank"> <img src="images/image5.jpg" alt="image5" class="img-fluid"/> </a>
-:::
-
-::: col-4
-<a href="https://example6.com" target="_blank"> <img src="images/image6.jpg" alt="image6" class="img-fluid"/> </a>
-:::
-:::
-:::
-:::
-
-<button class="carousel-control-prev" type="button" data-bs-target="#studentProjects" data-bs-slide="prev">
-
-[Previous]{.visually-hidden}
-
+<div id="myCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="2500">
+<div class="carousel-inner">
+<div class="carousel-item active">
+<div class="row">
+<div class="col">
+<img src="images/image1.jpg" class="d-block w-100" alt="First slide">
+</div>
+<div class="col">
+<img src="images/image2.jpg" class="d-block w-100" alt="Second slide">
+</div>
+<div class="col">
+<img src="images/image3.jpg" class="d-block w-100" alt="Third slide">
+</div>
+</div>
+</div>
+<div class="carousel-item">
+<div class="row">
+<div class="col">
+<img src="images/image4.jpg" class="d-block w-100" alt="Fourth slide">
+</div>
+<div class="col">
+<img src="images/image5.jpg" class="d-block w-100" alt="Fifth slide">
+</div>
+<div class="col">
+<img src="images/image6.jpg" class="d-block w-100" alt="Sixth slide">
+</div>
+</div>
+</div>
+<div class="carousel-item">
+<div class="row">
+<div class="col">
+<img src="images/image7.jpg" class="d-block w-100" alt="Seventh slide">
+</div>
+<div class="col">
+<img src="images/image8.jpg" class="d-block w-100" alt="Eighth slide">
+</div>
+<div class="col">
+<img src="images/image9.jpg" class="d-block w-100" alt="Ninth slide">
+</div>
+</div>
+</div>
+</div>
+<button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
+<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+<span class="visually-hidden">Previous</span>
 </button>
-
-<button class="carousel-control-next" type="button" data-bs-target="#studentProjects" data-bs-slide="next">
-
-[Next]{.visually-hidden}
-
+<button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
+<span class="carousel-control-next-icon" aria-hidden="true"></span>
+<span class="visually-hidden">Next</span>
 </button>
-:::
+</div>
+
+
 
 ```{=html}
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
 ```
+
+To explore the full range of our students' talents and expertise, we invite you to visit the Projects section
+
 ## Contact Us
+<br>
+
 
 ::: container
 ::: row
 ::: {.col-sm-6 .d-flex .justify-content-center}
-<img src="images/DACSS_Round_Network.png" class="rounded" width="400" height="400"/><br>
+
+
+<div class="text-center">
+<img src="images/Al_Simon.png" class="img-fluid rounded" alt="Your Image" width="320" height="320">
+<h4 class="mt-3 mb-0">Alan Simon</h4>
+<p class="lead mt-3 mb-0">Asst. Director Career Services</p>
+</div>
+
+
 :::
 
 ::: col-sm-6

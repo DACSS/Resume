@@ -2,9 +2,9 @@
   {
     "objectID": "index.html#find-your-next-employee",
     "href": "index.html#find-your-next-employee",
-    "title": "Careers@DACSS",
+    "title": "Careers@ DACSS",
     "section": "Find your next employee",
-    "text": "Find your next employee\nFilter students based on:\n\nDomain\nCPT/OPT\nFulltime/Internship\nBy graduation date\n\nPlease use the below dropdowns to select from a list of options.\n\n\n\n\n\n\n\n\n\nDomains\n\n\nHealthCare Finance Operations Information Technology Supply Chain Political science Public policy psychology\n\n\n\n\nCPT/OPT\n\n\nCPT OPT Full-time Internship\n\n\n\n\nGraduation\n\n\nSpring’23 Summer’23 Fall’23 Spring’24"
+    "text": "Find your next employee\nPlease use the below dropdowns to filter students based on the following:\n\nDomains\nJob Type (Fulltime, Part time)\nBy Graduation date\n\n\n\n\n\n\n\n\nDomains\n\n\n\nHealthCare\n\n\nFinance\n\n\nOperations\n\n\nInformation Technology\n\n\nSupply Chain\n\n\nPolitical science\n\n\nPublic policy\n\n\nPsychology\n\n\n\n\n\nJob Type\n\n\n\nFull-time\n\n\nInternship\n\n\n\n\n\nGraduation Date\n\n\n\nSpring’23\n\n\nSummer’23\n\n\nFall’23\n\n\nSpring’24"
   },
   {
     "objectID": "index.html#students-interests",
@@ -23,9 +23,9 @@
   {
     "objectID": "index.html#contact-us",
     "href": "index.html#contact-us",
-    "title": "Careers@DACSS",
+    "title": "Careers@ DACSS",
     "section": "Contact Us",
-    "text": "Contact Us"
+    "text": "Contact Us\n\n\n\n\n\n\n\nAlan Simon\n\n\nAsst. Director Career Services"
   },
   {
     "objectID": "bio/NiyatiSharma/NiyatiSharma_bio.html",
@@ -79,7 +79,7 @@
   {
     "objectID": "people.html",
     "href": "people.html",
-    "title": "Careers@DACSS",
+    "title": "Careers@ DACSS",
     "section": "",
     "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
@@ -240,8 +240,64 @@
   {
     "objectID": "pages/projects.html",
     "href": "pages/projects.html",
-    "title": "Careers@DACSS",
+    "title": "Careers@ DACSS",
     "section": "",
     "text": "EDA of NIFTY50 Dataset (Aug 2022) - Using R, analysed the stock trends of top 50 Indian stocks between 2000 and 2021, performed time series analysis of the stock performance; best and worst stocks; and observed stock trends in 2008 and 2019-2021\nStructural Topic Modeling of Celebrity Personality Trends- Conducted a comprehensive case study of 100 famous people, revealing patterns in personality traits and contextualizing findings through demographic, professional, and background characteristics. Built using R, topic modeling, and the tidyverse package."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Careers@ DACSS",
+    "section": "",
+    "text": "Welcome to Master's of Science in Data Analytics and Computational Social Science program."
+  },
+  {
+    "objectID": "index.html#from-classroom-to-conference-celebrating-student-led-research",
+    "href": "index.html#from-classroom-to-conference-celebrating-student-led-research",
+    "title": "Careers@DACSS",
+    "section": "From Classroom to Conference: Celebrating Student-Led Research",
+    "text": "From Classroom to Conference: Celebrating Student-Led Research\n\n\n\n\n\n\n  \n\n\n  \n\n\n  \n\n\n\n\n\n\n  \n\n\n  \n\n\n  \n\n\n\n\n\nPrevious\n\n\nNext"
+  },
+  {
+    "objectID": "index.html#from-classroom-to-conference",
+    "href": "index.html#from-classroom-to-conference",
+    "title": "Careers@ DACSS",
+    "section": "From Classroom to Conference",
+    "text": "From Classroom to Conference\nBelow are moments captured from DACSS Research Symposium where out students present their work through paper presentations!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Previous\n\n\n Next\n\n\n\nTo explore the full range of our students’ talents and expertise, we invite you to visit the Projects section"
+  },
+  {
+    "objectID": "index1.html",
+    "href": "index1.html",
+    "title": "Careers@ DACSS",
+    "section": "",
+    "text": "Welcome to Master's of Science in Data Analytics and Computational Social Science program."
+  },
+  {
+    "objectID": "index1.html#find-your-next-employee",
+    "href": "index1.html#find-your-next-employee",
+    "title": "Careers@ DACSS",
+    "section": "Find your next employee",
+    "text": "Find your next employee\nPlease use the below dropdowns to filter students based on the following:\n\nDomains\nJob Type (Fulltime, Part time)\nBy Graduation date\n\n\n\n\n\nDomains\n\n\nHealthCare Finance Operations Information Technology Supply Chain Political science Public policy Psychology\n\n\n\n\nJob Type\n\n\nFull-time Internship\n\n\n\n\nGraduation\n\n\nSpring’23 Summer’23 Fall’23 Spring’24"
+  },
+  {
+    "objectID": "index1.html#from-classroom-to-conference",
+    "href": "index1.html#from-classroom-to-conference",
+    "title": "Careers@ DACSS",
+    "section": "From Classroom to Conference",
+    "text": "From Classroom to Conference\nBelow are moments captured from DACSS Research Symposium where out students present their work through paper presentations!\n\n\n\n\n\n\n  \n\n\n  \n\n\n  \n\n\n\n\n\n\n  \n\n\n  \n\n\n  \n\n\n\n\n\nPrevious\n\n\nNext\n\n\n\nTo explore the full range of our students’ talents and expertise, we invite you to visit the Projects section"
+  },
+  {
+    "objectID": "index1.html#contact-us",
+    "href": "index1.html#contact-us",
+    "title": "Careers@ DACSS",
+    "section": "Contact Us",
+    "text": "Contact Us\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlan Simon\n\n\nAsst. Director Career Services\n\n\n\n\n\n\n\n\n\n\n\n\n<script src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js\" integrity=\"sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13\" crossorigin=\"anonymous\"></script>"
+  },
+  {
+    "objectID": "pages/contact.html",
+    "href": "pages/contact.html",
+    "title": "Careers@ DACSS",
+    "section": "",
+    "text": "<img src=\"../images/image1.jpg\" class=\"img-fluid\" alt=\"Image 1\">\n\n\n<img src=\"../images/image2.jpg\" class=\"img-fluid\" alt=\"Image 2\">"
   }
 ]

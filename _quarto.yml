@@ -1,8 +1,19 @@
 project:
   type: website
+  
+  
+format:
+  html:
+    smooth-scroll: true # enabled smooth scrolling
+    mainfont: "Atkinson Hyperlegible" # defined a style in .scss and used the name here
+    linkcolor: "#881c1c"
+    toc: true
+    # theme: litera
+    code-copy: true
+    code-overflow: wrap
 
 website:
-  title: "Careers@DACSS"
+  title: "Careers@ DACSS"
 
   # page footer
   page-footer: 
@@ -12,7 +23,6 @@ website:
         href: https://github.com/
       - icon: twitter 
         href: https://twitter.com/ 
-        
         
   site-url: https://dacss.github.io/Resume/
   
@@ -33,8 +43,12 @@ website:
         href: index.qmd
         
       - text: "People"
-        href: people.qmd
-        
+        menu: 
+          - text: "Students"
+            href: people.qmd
+          - text: "Faculty"
+            href: pages/faculty.qmd
+
       - text: "Projects"
         href: pages/projects.qmd
       
@@ -44,25 +58,8 @@ website:
       - text: "For Employers"
         href: pages/for_employers.qmd
       
-      - text: "Menu"
-        menu: 
-          - text: "student"
-            href: people.qmd
-          - text: "faculty"
-            href: pages/faculty.qmd
-          - text: "contact"
-            href: pages/contact.qmd
-format:
-  html:
-    smooth-scroll: true # enabled smooth scrolling
-    mainfont: "Atkinson Hyperlegible" # defined a style in .scss and used the name here
-    linkcolor: "#881c1c"
-    toc: true
-    theme: litera
-    code-copy: true
-    code-overflow: wrap
 
-    
+
 
 editor: visual
 

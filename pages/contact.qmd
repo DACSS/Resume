@@ -1,10 +1,11 @@
 ---
-title: "Al Simon"
+title: "Alan Simon"
+description: "Asst. Director Career Services"
 about:
   template: trestles
-  image: ../images/image1.jpg
+  image: ../images/Al_Simon.png
   image-width: 15em
-  image-shape: round
+  image-shape: rounded
   links:
     - text: LinkedIn
       icon: linkedin
