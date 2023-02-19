@@ -1,38 +1,101 @@
 [
   {
-    "objectID": "pages/for_employers.html",
-    "href": "pages/for_employers.html",
-    "title": "Careers@DACSS",
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "Careers@ DACSS",
     "section": "",
-    "text": "Page for employers.\nTo post instructions on how to use this site."
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAdithya Praneeth Parupudi\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirstname Lastname\n\n\n\n\n\n\n\n\n\n\n\n\n\nMani Shanker Kamarapu\n\n\n\n\n\n\n\n\n\n\n\n\n\nNiyati Sharma\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "pages/projects.html",
     "href": "pages/projects.html",
-    "title": "Careers@DACSS",
+    "title": "Careers@ DACSS",
     "section": "",
     "text": "Here are a list of projects from current students.\n\nEDA of NIFTY50 Dataset (Aug 2022) - Using R, analysed the stock trends of top 50 Indian stocks between 2000 and 2021, performed time series analysis of the stock performance; best and worst stocks; and observed stock trends in 2008 and 2019-2021\nStructural Topic Modeling of Celebrity Personality Trends- Conducted a comprehensive case study of 100 famous people, revealing patterns in personality traits and contextualizing findings through demographic, professional, and background characteristics. Built using R, topic modeling, and the tidyverse package."
   },
   {
-    "objectID": "index.html#find-your-next-employee",
-    "href": "index.html#find-your-next-employee",
-    "title": "Careers@DACSS",
-    "section": "Find your next employee",
-    "text": "Find your next employee\nFilter students based on:\n\nDomain\nCPT/OPT\nFulltime/Internship\nBy graduation date\n\nPlease use the below dropdowns to select from a list of options.\n\n\n\n\n\n\n\n\n\nDomains\n\n\nHealthCare Finance Operations Information Technology Supply Chain Political science Public policy psychology\n\n\n\n\nCPT/OPT\n\n\nCPT OPT Full-time Internship\n\n\n\n\nGraduation\n\n\nSpring’23 Summer’23 Fall’23 Spring’24"
+    "objectID": "pages/for_employers.html",
+    "href": "pages/for_employers.html",
+    "title": "Careers@ DACSS",
+    "section": "",
+    "text": "Page for employers.\nTo post instructions on how to use this site."
   },
   {
-    "objectID": "index.html#student-projects",
-    "href": "index.html#student-projects",
-    "title": "Careers@DACSS",
-    "section": "Student projects",
-    "text": "Student projects\n\n\n\n\n\n\n  \n\n\n  \n\n\n  \n\n\n\n\n\n\n  \n\n\n  \n\n\n  \n\n\n\n\n\nPrevious\n\n\nNext"
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Careers@ DACSS",
+    "section": "",
+    "text": "Welcome to Master's of Science in Data Analytics and Computational Social Science program."
+  },
+  {
+    "objectID": "index.html#find-your-next-employee",
+    "href": "index.html#find-your-next-employee",
+    "title": "Careers@ DACSS",
+    "section": "Find your next employee",
+    "text": "Find your next employee\nPlease use the below dropdowns to filter students based on the following:\n\nDomains\nJob Type (Fulltime, Part time)\nBy Graduation date\n\n\n\n\n\n\n\n\nDomains\n\n\n\nHealthCare\n\n\nFinance\n\n\nOperations\n\n\nInformation Technology\n\n\nSupply Chain\n\n\nPolitical science\n\n\nPublic policy\n\n\nPsychology\n\n\n\n\n\nJob Type\n\n\n\nFull-time\n\n\nInternship\n\n\n\n\n\nGraduation Date\n\n\n\nSpring’23\n\n\nSummer’23\n\n\nFall’23\n\n\nSpring’24"
+  },
+  {
+    "objectID": "index.html#from-classroom-to-conference",
+    "href": "index.html#from-classroom-to-conference",
+    "title": "Careers@ DACSS",
+    "section": "From Classroom to Conference",
+    "text": "From Classroom to Conference\nBelow are moments captured from DACSS Research Symposium where out students present their work through paper presentations!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Previous\n\n\n Next\n\n\n\nTo explore the full range of our students’ talents and expertise, we invite you to visit the Projects section"
   },
   {
     "objectID": "index.html#contact-us",
     "href": "index.html#contact-us",
-    "title": "Careers@DACSS",
+    "title": "Careers@ DACSS",
     "section": "Contact Us",
-    "text": "Contact Us"
+    "text": "Contact Us\n\n\n\n\n\n\n\nAlan Simon\n\n\nAsst. Director Career Services"
+  },
+  {
+    "objectID": "bio/NiyatiSharma/NiyatiSharma_bio.html",
+    "href": "bio/NiyatiSharma/NiyatiSharma_bio.html",
+    "title": "Niyati Sharma",
+    "section": "",
+    "text": "Resume"
+  },
+  {
+    "objectID": "bio/NiyatiSharma/NiyatiSharma_bio.html#bio",
+    "href": "bio/NiyatiSharma/NiyatiSharma_bio.html#bio",
+    "title": "Niyati Sharma",
+    "section": "Bio",
+    "text": "Bio\nNiyati Sharma current graduate student in the University of Massachusetts, Amherst with Data Analytics as major, and a minor in Social Science. I completed my undergraduate in Electrical engineer with honors degree. I worked as an automation engineer for 7 years in the healthcare and finance domain."
+  },
+  {
+    "objectID": "bio/NiyatiSharma/NiyatiSharma_bio.html#education",
+    "href": "bio/NiyatiSharma/NiyatiSharma_bio.html#education",
+    "title": "Niyati Sharma",
+    "section": "Education",
+    "text": "Education\nMaster of Science in Data Analytics and Computation Social Sciences Sept 2022 – Exp. Dec 2023 University of Massachusetts, Amherst, MA Relevant Coursework: Introduction to Data Science, Text as Data, Quantitative Analysis\nBachelor of Technology in Electrical | Rajasthan College of Engineering for Women, Rajasthan Aug 2009 – July 2013 CGPA: 7.90 Relevant Coursework: Data structures in C, Database Management System, Microprocessors & Computer Architecture and Computer Programming"
+  },
+  {
+    "objectID": "bio/NiyatiSharma/NiyatiSharma_bio.html#technical-expertise",
+    "href": "bio/NiyatiSharma/NiyatiSharma_bio.html#technical-expertise",
+    "title": "Niyati Sharma",
+    "section": "Technical Expertise",
+    "text": "Technical Expertise\n Programming Languages: R, SQL, Python, Java, OOPs  Project Management Tools: Jira, Confluence, Mavenlink  Tools/Technologies: Tableau, GitHub, Google Analytics, APIs, Microsoft Office, Microsoft Outlook, Putty, Appium, Eclipse, Android Studio, XCode, Selenium Webdriver  Operating Systems: Windows 8, 8.1, 10, 11, macOS, Linux  Databases: MySQL"
+  },
+  {
+    "objectID": "bio/NiyatiSharma/NiyatiSharma_bio.html#work-experience",
+    "href": "bio/NiyatiSharma/NiyatiSharma_bio.html#work-experience",
+    "title": "Niyati Sharma",
+    "section": "Work Experience",
+    "text": "Work Experience\nSenior AutomaƟon Engineer | Punchh Tech India Pvt Ltd, India Aug 2019 – Jul 2022  Key member of the Data Engineering team that handled guest booking data migration from PostgreSQL to a document based Couchbase server which helped reduce the application response time by 50%.  Automate regression and functional test suites by developing test cases, test suites using Appium.  Collaborated with cross-functional teams to analyze the major issues in currently running apps.  Deployed a Sentiment Analysis framework to classify user feedback into positive, negative or neutral with 80% accuracy.  Collaborated with the internaƟonal team for new feature integraƟon and performed User Acceptance Testing (UAT) and System Acceptance Testing with multiple test criteria. Quality engineer | Salucro Healthcare Solutions, India Jul 2015 – Aug 2019  Extensively automated regression and functional test suites by developing test cases, test suites using Selenium WebDriver, JAVA, JUnit.  Used stored procedures, views, and functions in SQL to extract Data from Tables and to verify the output Data of the reports.  Monitored issues on Jira and used MS Excel to categorize issues and further implemented standard procedures that helped in improving the QA process by 60%.  Monitored and tested payment portal performance to identify potenƟal bottlenecks, developed solutions, and collaborated with developers on solution implementation"
+  },
+  {
+    "objectID": "bio/NiyatiSharma/NiyatiSharma_bio.html#research-interests",
+    "href": "bio/NiyatiSharma/NiyatiSharma_bio.html#research-interests",
+    "title": "Niyati Sharma",
+    "section": "Research Interests",
+    "text": "Research Interests\nAnalytics, visualization, statistics, Finance"
+  },
+  {
+    "objectID": "bio/NiyatiSharma/NiyatiSharma_bio.html#projects",
+    "href": "bio/NiyatiSharma/NiyatiSharma_bio.html#projects",
+    "title": "Niyati Sharma",
+    "section": "Projects",
+    "text": "Projects\nCredit Risk Analysis\nThe project finds the probability of a borrower defaulting on debt obligaƟons and factors credit risk can be calculated through regression modelling. Used libraries such as library(tidyverse), library(dplyr), library(ggplot2) in R language.\nAnalyzing Customer Reviews for improvement of Uber experience In this research, we are analyzing huge user-generated content which can be used by organizations for their customer engagement strategies. The purpose of this study is to derive insights using app reviews and social media reviews to understand how businesses use feedback for customer engagement strategies. For this project we are using topic modelling in python language."
   },
   {
     "objectID": "bio/ManiShankerKamarapu_bio/ManiShankerKamarapu_bio.html",
@@ -89,61 +152,5 @@
     "title": "Adithya Praneeth Parupudi",
     "section": "",
     "text": "Resume  \n\n\nSummaryEducationTechnical SkillsWork ExperienceProjects\n\n\nInterested in Data Scientist roles in Healthcare, Finance, and Operations. I have a 2.7 yr work experience in the IT industry.\n\n\nUniversity Of Massachusetts Amherst Amherst, MA\nM.S in Data Analytics and Computational Social Science | August 2022 - Present (Expected 2023)\nJawaharlal Nehru Technological University Hyderabad, Telangana, India\nB. Tech in Computer Science and Engineering | Aug 2022 – Exp. Dec 2023\n\n\nProficient in - R - Python : numpy, pandas, sklearn - Git - Machine Learning - Webscraping - SQL\n\n\nUniversity Of Massachusetts Amherst Role: Member of tech team • Developed website to showcase 50 student portfolio pages to potential employers • Maintained official department websites and student blogs • Provided online and offline support to instructor in Zoom and Slack. • Fixed python code used for web-scraping • Documented class notes for curriculum development\nTech Mahindra, Hyderabad • Worked with a team of 5 and addressed high priority issues through ServiceNow, ensured smooth flow of business in a DevOps model • Designed and implemented SCA, OSB components; Used Jenkins for code builds; deployed using Myst tool; and committed code using SVN • Created change requests, documented each step of development and deployment, thus accelerating future code enhancements. • Performed extensive unit testing and regression testing through SOAPUI and in dev, qa and uat environments, and ensured the code meet the business standards • Maintained an integrated connectivity dashboard which runs on python, shell-scripts, and Oracle database. • Maintained the backend, reported and resolved integration failures, and performed weekly clean-up activities. • Participated in weekend deployments and supported various business outages.\n\n\nContent Analysis of famous people’s biographies - Analysed 126 celebrity biographies to find similarities in terms of profession, notable achievements, era, early life, place of birth and cause of death.\n\nEDA of NIFTY50 Dataset (Aug 2022) Using R, analysed the stock trends of top 50 Indian stocks between 2000 and 2021, performed time series analysis of the stock performance; best and worst stocks; and observed stock trends in 2008 and 2019-2021\nAnalysis of Enron email dataset for detecting suspicious behaviour (2018 - 2019) Measured email exchange frequency and employee’s frequently used words, and traced that word to its users."
-  },
-  {
-    "objectID": "bio/NiyatiSharma/NiyatiSharma_bio.html",
-    "href": "bio/NiyatiSharma/NiyatiSharma_bio.html",
-    "title": "Niyati Sharma",
-    "section": "",
-    "text": "Resume"
-  },
-  {
-    "objectID": "bio/NiyatiSharma/NiyatiSharma_bio.html#bio",
-    "href": "bio/NiyatiSharma/NiyatiSharma_bio.html#bio",
-    "title": "Niyati Sharma",
-    "section": "Bio",
-    "text": "Bio\nNiyati Sharma current graduate student in the University of Massachusetts, Amherst with Data Analytics as major, and a minor in Social Science. I completed my undergraduate in Electrical engineer with honors degree. I worked as an automation engineer for 7 years in the healthcare and finance domain."
-  },
-  {
-    "objectID": "bio/NiyatiSharma/NiyatiSharma_bio.html#education",
-    "href": "bio/NiyatiSharma/NiyatiSharma_bio.html#education",
-    "title": "Niyati Sharma",
-    "section": "Education",
-    "text": "Education\nMaster of Science in Data Analytics and Computation Social Sciences Sept 2022 – Exp. Dec 2023 University of Massachusetts, Amherst, MA Relevant Coursework: Introduction to Data Science, Text as Data, Quantitative Analysis\nBachelor of Technology in Electrical | Rajasthan College of Engineering for Women, Rajasthan Aug 2009 – July 2013 CGPA: 7.90 Relevant Coursework: Data structures in C, Database Management System, Microprocessors & Computer Architecture and Computer Programming"
-  },
-  {
-    "objectID": "bio/NiyatiSharma/NiyatiSharma_bio.html#technical-expertise",
-    "href": "bio/NiyatiSharma/NiyatiSharma_bio.html#technical-expertise",
-    "title": "Niyati Sharma",
-    "section": "Technical Expertise",
-    "text": "Technical Expertise\n Programming Languages: R, SQL, Python, Java, OOPs  Project Management Tools: Jira, Confluence, Mavenlink  Tools/Technologies: Tableau, GitHub, Google Analytics, APIs, Microsoft Office, Microsoft Outlook, Putty, Appium, Eclipse, Android Studio, XCode, Selenium Webdriver  Operating Systems: Windows 8, 8.1, 10, 11, macOS, Linux  Databases: MySQL"
-  },
-  {
-    "objectID": "bio/NiyatiSharma/NiyatiSharma_bio.html#work-experience",
-    "href": "bio/NiyatiSharma/NiyatiSharma_bio.html#work-experience",
-    "title": "Niyati Sharma",
-    "section": "Work Experience",
-    "text": "Work Experience\nSenior AutomaƟon Engineer | Punchh Tech India Pvt Ltd, India Aug 2019 – Jul 2022  Key member of the Data Engineering team that handled guest booking data migration from PostgreSQL to a document based Couchbase server which helped reduce the application response time by 50%.  Automate regression and functional test suites by developing test cases, test suites using Appium.  Collaborated with cross-functional teams to analyze the major issues in currently running apps.  Deployed a Sentiment Analysis framework to classify user feedback into positive, negative or neutral with 80% accuracy.  Collaborated with the internaƟonal team for new feature integraƟon and performed User Acceptance Testing (UAT) and System Acceptance Testing with multiple test criteria. Quality engineer | Salucro Healthcare Solutions, India Jul 2015 – Aug 2019  Extensively automated regression and functional test suites by developing test cases, test suites using Selenium WebDriver, JAVA, JUnit.  Used stored procedures, views, and functions in SQL to extract Data from Tables and to verify the output Data of the reports.  Monitored issues on Jira and used MS Excel to categorize issues and further implemented standard procedures that helped in improving the QA process by 60%.  Monitored and tested payment portal performance to identify potenƟal bottlenecks, developed solutions, and collaborated with developers on solution implementation"
-  },
-  {
-    "objectID": "bio/NiyatiSharma/NiyatiSharma_bio.html#research-interests",
-    "href": "bio/NiyatiSharma/NiyatiSharma_bio.html#research-interests",
-    "title": "Niyati Sharma",
-    "section": "Research Interests",
-    "text": "Research Interests\nAnalytics, visualization, statistics, Finance"
-  },
-  {
-    "objectID": "bio/NiyatiSharma/NiyatiSharma_bio.html#projects",
-    "href": "bio/NiyatiSharma/NiyatiSharma_bio.html#projects",
-    "title": "Niyati Sharma",
-    "section": "Projects",
-    "text": "Projects\nCredit Risk Analysis\nThe project finds the probability of a borrower defaulting on debt obligaƟons and factors credit risk can be calculated through regression modelling. Used libraries such as library(tidyverse), library(dplyr), library(ggplot2) in R language.\nAnalyzing Customer Reviews for improvement of Uber experience In this research, we are analyzing huge user-generated content which can be used by organizations for their customer engagement strategies. The purpose of this study is to derive insights using app reviews and social media reviews to understand how businesses use feedback for customer engagement strategies. For this project we are using topic modelling in python language."
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "Careers@DACSS",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAdithya Praneeth Parupudi\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirstname Lastname\n\n\n\n\n\n\n\n\n\n\n\n\n\nMani Shanker Kamarapu\n\n\n\n\n\n\n\n\n\n\n\n\n\nNiyati Sharma\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
