@@ -40,6 +40,7 @@ vignettes/*.pdf
 
 #quarto
 /.quarto/
+<<<<<<< HEAD
 /_site/
 _freeze/site_libs/
 _quarto.yml
@@ -50,3 +51,10 @@ posts/_metadata.yml
 *.Rproj
 .DS_Store
 
+=======
+
+_site/listings.json
+_site/people.html
+_site/search.json
+_site/sitemap.xml
+>>>>>>> 68b6eb4c2737d3cb1c35b7cd3814f6cb56a81ead
