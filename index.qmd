@@ -26,6 +26,8 @@ Please use the below dropdowns to filter students based on the following:
 -   Job Type (Fulltime, Part time)
 -   By Graduation date
 
+<!-- Bootstrap tags  -->
+
 <head>
 
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
@@ -35,13 +37,6 @@ Please use the below dropdowns to filter students based on the following:
 ```
 </head>
 
-```{=html}
-<style>
-.dropdown {
-display: inline-block;
-}
-</style>
-```
 ::: dropdown
 <button class="btn btn-danger dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
 Domains
@@ -61,7 +56,7 @@ Domains
 
 <li><a class="dropdown-item" href="./people.html#category=political_science" target="_blank">Political science</a></li>
 
-<li><a class="dropdown-item" href="./people.html#category=public_policy" target="_blank">Public policy</a></li>
+<li><a class="dropdown-item" href="./people.html#category=public-policy" target="_blank">Public policy</a></li>
 
 <li><a class="dropdown-item" href="./people.html#category=psychology" target="_blank">Psychology</a></li>
 
@@ -69,7 +64,8 @@ Domains
 :::
 
 ::: dropdown
-<button class="btn btn-danger dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">Job Type
+<button class="btn btn-danger dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+Job Type
 </button>
 
 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
@@ -101,7 +97,7 @@ Graduation Date
 
 <br>
 
-## From Classroom to Conference
+## See our work!
 
 Below are moments captured from DACSS Research Symposium where out students present their work through paper presentations!
 
@@ -179,30 +175,24 @@ To explore the full range of our students' talents and expertise, we invite you 
 <br>
 
 ::: container
-::: row
-::: {.col-sm-6 .d-flex .justify-content-center}
-::: text-center
-<img src="images/Al_Simon.png" alt="Your Image" class="img-fluid rounded" width="320" height="320"/>
+::: row ::: {.col-sm-6 .d-flex .justify-content-center} ::: text-center <img src="images/Al_Simon.png" alt="Your Image" class="img-fluid rounded" width="320" height="320"/>
 
 <h4 class="mt-3 mb-0">
+
 Al Simon
+
 </h4>
 
 <p class="lead mt-3 mb-0">
-Asst. Director Career Services
+
+Assistant Director for Career Services and External Engagement
+
 </p>
 :::
+
 :::
 
-::: col-sm-6
-```{=html}
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>
-```
-::: elfsight-app-8bc17fb7-0408-491a-8576-0f96ea7c486f
-:::
-:::
-:::
-:::
+::: col-sm-6 `{=html}  <script src="https://apps.elfsight.com/p/platform.js" defer></script>` ::: elfsight-app-8bc17fb7-0408-491a-8576-0f96ea7c486f ::: ::: :::
 
 <!-- <script src="https://apps.elfsight.com/p/platform.js" defer></script> -->
 

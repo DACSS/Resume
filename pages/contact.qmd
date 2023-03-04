@@ -1,6 +1,6 @@
 ---
 title: "Al Simon"
-description: "Asst. Director Career Services"
+description: "Assistant Director for Career Services and External Engagement"
 about:
   template: trestles
   image: ../images/Al_Simon.png
