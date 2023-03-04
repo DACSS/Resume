@@ -3,8 +3,8 @@ project:
   
 format:
   html:
-    # css:
-    #   - styles.css
+    css:
+      - styles.css
     smooth-scroll: true # enabled smooth scrolling
     mainfont: "Atkinson Hyperlegible" # defined a style in .scss and used the name here
     linkcolor: "#881c1c"
@@ -43,6 +43,25 @@ website:
     right:
       - text: "Home"
         href: index.qmd
+        
+      - text: "People"
+        menu: 
+          - text: "Students"
+            href: people.qmd
+          - text: "Faculty"
+            href: pages/faculty.qmd
+
+      - text: "Projects"
+        href: pages/projects.qmd
+      
+      - text: "Contact"
+        href: pages/contact.qmd
+        
+      - text: "For Employers"
+        href: pages/for_employers.qmd
+      
+
+
 
 editor: visual
 
