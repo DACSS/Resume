@@ -8,3 +8,7 @@
 .quarto
 
 /.quarto/
+_site/listings.json
+_site/people.html
+_site/search.json
+_site/sitemap.xml
