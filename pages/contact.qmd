@@ -1,5 +1,5 @@
 ---
-title: "Alan Simon"
+title: "Al Simon"
 description: "Asst. Director Career Services"
 about:
   template: trestles
