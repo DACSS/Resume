@@ -1,0 +1,46 @@
+---
+title: "Firstname Lastname"
+description: "Email : email@umass.edu" 
+image: profile_placeholder.jpg
+about:
+  links:
+    - text: LinkedIn
+      icon: linkedin
+      url: "https://linkedin.com/in/" # add your linkedin
+    - text: GitHub
+      icon: github
+      url: "https://github.com/" # add your github link
+---
+
+```{=html}
+<style>
+.quarto-categories {
+justify-content: space-evenly;
+}
+.tab-content {
+    font-size: medium;
+}
+.resume{
+font-size: large    ;
+}
+</style>
+```
+<!-- Resume download button -->
+
+<a href = "cv.pdf" title = "Replace_with_unique_name"> <button type="button" class="resume btn bg-success btn-lg w-100"> <i class="bi bi-cloud-download"></i> Resume </button> </a>
+
+<!-- ::: column-page -->
+
+::: panel-tabset
+# Summary
+
+# Education
+
+# Technical Skills
+
+# Work Experience
+
+# Projects
+
+# Volunteering
+:::
