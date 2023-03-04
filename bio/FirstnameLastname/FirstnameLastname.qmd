@@ -1,0 +1,47 @@
+---
+title: "Firstname Lastname"
+description: "Email : aparupudi@umass.edu" 
+image: profile_placeholder.jpg
+about:
+  links:
+    - text: LinkedIn
+      icon: linkedin
+      url: "https://linkedin.com/in/adithya-parupudi"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/Adithya1243"
+categories: [fall23, part-time, healthcare, finance, public-policy]
+---
+
+```{=html}
+<style>
+.quarto-categories {
+justify-content: space-evenly;
+}
+.tab-content {
+    font-size: medium;
+}
+.resume{
+font-size: large    ;
+}
+</style>
+```
+<!-- Resume download button -->
+
+<!-- <a href = "cv.pdf" title = "Adithya_Resume"> <button type="button" class="resume btn bg-success btn-lg w-100"> <i class="bi bi-cloud-download"></i> Resume </button> </a> -->
+
+<!-- ::: column-page -->
+
+::: panel-tabset
+# Summary
+
+# Education
+
+# Technical Skills
+
+# Work Experience
+
+# Projects
+
+# Volunteering
+:::
