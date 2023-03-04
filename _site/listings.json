@@ -1,0 +1,12 @@
+[
+  {
+    "listing": "/people.html",
+    "items": [
+      "/bio/FirstnameLastname/FirstLast.html"
+    ]
+  },
+  {
+    "listing": "/pages/people.html",
+    "items": []
+  }
+]

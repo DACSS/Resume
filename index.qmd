@@ -39,7 +39,9 @@ Please use the below dropdowns to filter students based on the following:
 
 ::: dropdown
 <button class="btn btn-danger dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+
 Domains
+
 </button>
 
 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
@@ -196,15 +198,7 @@ Assistant Director for Career Services and External Engagement
 
 :::
 
- ::: col-sm-6 
- ```{=html} 
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>
- ``` 
- ::: elfsight-app-8bc17fb7-0408-491a-8576-0f96ea7c486f 
- ::: 
- ::: 
- ::: 
-
+::: col-sm-6 `{=html}  <script src="https://apps.elfsight.com/p/platform.js" defer></script>` ::: elfsight-app-8bc17fb7-0408-491a-8576-0f96ea7c486f ::: ::: :::
 
 <!-- <script src="https://apps.elfsight.com/p/platform.js" defer></script> -->
 
