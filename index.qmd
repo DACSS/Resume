@@ -39,9 +39,7 @@ Please use the below dropdowns to filter students based on the following:
 
 ::: dropdown
 <button class="btn btn-danger dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
-
 Domains
-
 </button>
 
 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
@@ -67,9 +65,7 @@ Domains
 
 ::: dropdown
 <button class="btn btn-danger dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
-
 Job Type
-
 </button>
 
 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
@@ -83,9 +79,7 @@ Job Type
 
 ::: dropdown
 <button class="btn btn-danger dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
-
 Graduation Date
-
 </button>
 
 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
