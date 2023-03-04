@@ -16,6 +16,7 @@ about:
       url: "Mani_Resume_analyst.pdf"
 comments: false
 ---
+
 ::: panel-tabsets
 ## Bio
 
