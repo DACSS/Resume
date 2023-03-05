@@ -35,32 +35,18 @@
     "text": "No matching items"
   },
   {
-    "objectID": "bio/FirstnameLastname/FirstLast.html",
-    "href": "bio/FirstnameLastname/FirstLast.html",
-    "title": "Firstname Lastname",
-    "section": "",
-    "text": "SummaryEducationTechnical SkillsWork ExperienceProjectsVolunteering\n\n\nPaste your content here\n\n\nPaste your content here\n\n\nPaste your content here\n\n\nPaste your content here\n\n\nPaste your content here\n\n\nPaste your content here"
-  },
-  {
-    "objectID": "pages/projects.html",
-    "href": "pages/projects.html",
-    "title": "Careers@DACSS",
-    "section": "",
-    "text": "EDA of NIFTY50 Dataset (Aug 2022) - Using R, analysed the stock trends of top 50 Indian stocks between 2000 and 2021, performed time series analysis of the stock performance; best and worst stocks; and observed stock trends in 2008 and 2019-2021\nStructural Topic Modeling of Celebrity Personality Trends- Conducted a comprehensive case study of 100 famous people, revealing patterns in personality traits and contextualizing findings through demographic, professional, and background characteristics. Built using R, topic modeling, and the tidyverse package."
-  },
-  {
-    "objectID": "pages/for_employers.html",
-    "href": "pages/for_employers.html",
-    "title": "Careers@DACSS",
-    "section": "",
-    "text": "To post instructions on how to use this site.\nPlease refer to this guide on how to navigate through this website."
-  },
-  {
     "objectID": "bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html",
     "href": "bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html",
     "title": "Adithya Praneeth Parupudi",
     "section": "",
     "text": "SummaryEducationTechnical SkillsWork ExperienceProjects\n\n\nInterested in Data Scientist roles in Healthcare, Finance, and Operations. I have a 2.7 yr work experience in the IT industry.\n\n\nUniversity Of Massachusetts Amherst Amherst, MA\nM.S in Data Analytics and Computational Social Science | August 2022 - Present (Expected 2023)\nJawaharlal Nehru Technological University Hyderabad, Telangana, India\nB. Tech in Computer Science and Engineering | Aug 2022 – Exp. Dec 2023\n\n\nProficient in - R - Python : numpy, pandas, sklearn - Git - Machine Learning - Webscraping - SQL\n\n\nUniversity Of Massachusetts Amherst Role: Member of tech team • Developed website to showcase 50 student portfolio pages to potential employers • Maintained official department websites and student blogs • Provided online and offline support to instructor in Zoom and Slack. • Fixed python code used for web-scraping • Documented class notes for curriculum development\nTech Mahindra, Hyderabad • Worked with a team of 5 and addressed high priority issues through ServiceNow, ensured smooth flow of business in a DevOps model • Designed and implemented SCA, OSB components; Used Jenkins for code builds; deployed using Myst tool; and committed code using SVN • Created change requests, documented each step of development and deployment, thus accelerating future code enhancements. • Performed extensive unit testing and regression testing through SOAPUI and in dev, qa and uat environments, and ensured the code meet the business standards • Maintained an integrated connectivity dashboard which runs on python, shell-scripts, and Oracle database. • Maintained the backend, reported and resolved integration failures, and performed weekly clean-up activities. • Participated in weekend deployments and supported various business outages.\n\n\nContent Analysis of famous people’s biographies - Analysed 126 celebrity biographies to find similarities in terms of profession, notable achievements, era, early life, place of birth and cause of death.\n\nEDA of NIFTY50 Dataset (Aug 2022) Using R, analysed the stock trends of top 50 Indian stocks between 2000 and 2021, performed time series analysis of the stock performance; best and worst stocks; and observed stock trends in 2008 and 2019-2021\nAnalysis of Enron email dataset for detecting suspicious behaviour (2018 - 2019) Measured email exchange frequency and employee’s frequently used words, and traced that word to its users."
+  },
+  {
+    "objectID": "bio/FirstnameLastname/FirstLast.html",
+    "href": "bio/FirstnameLastname/FirstLast.html",
+    "title": "Firstname Lastname",
+    "section": "",
+    "text": "SummaryEducationTechnical SkillsWork ExperienceProjectsVolunteering\n\n\nPaste your content here\n\n\nPaste your content here\n\n\nPaste your content here\n\n\nPaste your content here\n\n\nPaste your content here\n\n\nPaste your content here"
   },
   {
     "objectID": "bio/ManiShankerKamarapu_bio/ManiShankerKamarapu_bio.html",
@@ -159,5 +145,19 @@
     "title": "Niyati Sharma",
     "section": "Projects",
     "text": "Projects\nCredit Risk Analysis\nThe project finds the probability of a borrower defaulting on debt obligaƟons and factors credit risk can be calculated through regression modelling. Used libraries such as library(tidyverse), library(dplyr), library(ggplot2) in R language.\nAnalyzing Customer Reviews for improvement of Uber experience In this research, we are analyzing huge user-generated content which can be used by organizations for their customer engagement strategies. The purpose of this study is to derive insights using app reviews and social media reviews to understand how businesses use feedback for customer engagement strategies. For this project we are using topic modelling in python language."
+  },
+  {
+    "objectID": "pages/for_employers.html",
+    "href": "pages/for_employers.html",
+    "title": "Careers@DACSS",
+    "section": "",
+    "text": "To post instructions on how to use this site.\nPlease refer to this guide on how to navigate through this website."
+  },
+  {
+    "objectID": "pages/projects.html",
+    "href": "pages/projects.html",
+    "title": "Careers@DACSS",
+    "section": "",
+    "text": "EDA of NIFTY50 Dataset (Aug 2022) - Using R, analysed the stock trends of top 50 Indian stocks between 2000 and 2021, performed time series analysis of the stock performance; best and worst stocks; and observed stock trends in 2008 and 2019-2021\nStructural Topic Modeling of Celebrity Personality Trends- Conducted a comprehensive case study of 100 famous people, revealing patterns in personality traits and contextualizing findings through demographic, professional, and background characteristics. Built using R, topic modeling, and the tidyverse package."
   }
 ]
