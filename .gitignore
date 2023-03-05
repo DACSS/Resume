@@ -50,11 +50,6 @@ _quarto.yml
 .DS_Store
 
 #standard files
-index.qmd
-people.qmd
-/images
-/pages
 /_site
-styles.css
-styles.scss
+
 
