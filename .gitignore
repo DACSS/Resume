@@ -40,18 +40,9 @@ vignettes/*.pdf
 
 #quarto
 /.quarto/
-<<<<<<< HEAD
 /_site/
-=======
->>>>>>> 2d3522c97e80faad1165d8f7a28ceefbeebfa89d
 _freeze/site_libs/
-_quarto.yml
 
 #student files
 *.Rproj
 .DS_Store
-
-<<<<<<< HEAD
-=======
-
->>>>>>> 2d3522c97e80faad1165d8f7a28ceefbeebfa89d
