@@ -47,6 +47,4 @@ _quarto.yml
 *.Rproj
 .DS_Store
 
-#standard files
-/_site
 
