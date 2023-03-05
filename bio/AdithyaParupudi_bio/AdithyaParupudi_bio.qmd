@@ -16,6 +16,7 @@ about:
 categories: [fall22, healthcare, adithya]
 ---
 
+```{=html}
 <style>
 .quarto-categories {
 justify-content: space-evenly;
@@ -27,13 +28,10 @@ justify-content: space-evenly;
 font-size: large    ;
 }
 </style>
-
+```
 <!-- Resume download button -->
 
-<a href = "cv.pdf" title = "Adithya_Resume"> 
-<button type="button" class="resume btn bg-success btn-lg w-100">
-<i class="bi bi-cloud-download"></i> Resume </button>
-</a>
+<a href = "cv.pdf" title = "Adithya_Resume" target="_blank" > <button type="button" class="resume btn bg-success btn-lg w-100"> <i class="bi bi-cloud-download"></i> Resume </button> </a>
 
 <!-- ::: column-page -->
 
@@ -70,6 +68,3 @@ Proficient in - R - Python : numpy, pandas, sklearn - Git - Machine Learning - W
 
 -   **Analysis of Enron email dataset for detecting suspicious behaviour** (2018 - 2019) Measured email exchange frequency and employee's frequently used words, and traced that word to its users.
 :::
-
-
-
