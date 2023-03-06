@@ -1,0 +1,21 @@
+---
+title: "Al Simon"
+description: "Assistant Director for Career Services and External Engagement"
+about:
+  template: trestles
+  image: ../images/Al_Simon.png
+  image-width: 15em
+  image-shape: rounded
+  links:
+    - text: LinkedIn
+      icon: linkedin
+      url: "https://linkedin.com"
+
+page-layout: full
+---
+
+```{=html}
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+```
+::: elfsight-app-8bc17fb7-0408-491a-8576-0f96ea7c486f
+:::
