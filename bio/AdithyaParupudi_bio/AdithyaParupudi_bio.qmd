@@ -1,65 +1,109 @@
 ---
 title: "Adithya Praneeth Parupudi"
+description: "Email : aparupudi@umass.edu" 
 image: ProfilePhoto.jpg
 about:
-  template: trestles
   links:
     - text: LinkedIn
+      icon: linkedin
       url: "https://linkedin.com/in/adithya-parupudi"
     - text: GitHub
       icon: github
       url: "https://github.com/Adithya1243"
     - text: Email
+      icon: envelope
       url: "aparupudi@umass.edu"
-    - text: CV
-      url: "cv.pdf"
-comments: false
+categories: [fall23, internship, healthcare, finance, it-services]
 ---
-::: {.column-page}
 
-## Bio
+```{=html}
+<style>
+.quarto-categories {
+justify-content: space-evenly;
+}
+.tab-content {
+    font-size: medium;
+}
+.resume{
+font-size: large    ;
+}
+</style>
+```
+<!-- Resume download button -->
 
-Interested in Data Scientist roles in Healthcare, Finance, and Operations. I have a 2.7 yr work experience in the IT industry.
+<a href = "cv.pdf" title = "Adithya_Resume" target="_blank" > <button type="button" class="resume btn bg-success btn-lg w-100"> <i class="bi bi-cloud-download"></i> Resume </button> </a>
 
+<!-- ::: column-page -->
 
-## Education
-**University Of Massachusetts Amherst**
-Amherst, MA
+::: panel-tabset
+# Summary
 
-M.S in Data Analytics and Computational Social Science | August 2022 - Present (Expected 2023)
+Hi, I'm **Adithya Parupudi**. I'm passionate about leveraging data to drive business decisions and solve real-world problems. My ultimate goal is to help organizations become more data-driven, efficient, and effective.\
+\
+As a **Google Data Analytics Certified Professional**, I have experience working with a variety of data analysis tools, including SQL, Python, R programming, Tableau, Power BI, Google Analytics, and Excel. I am comfortable working with large datasets and using statistical and machine learning techniques to extract insights.\
+\
+In addition to my academic work, I am an active member of the data science community at UMass Amherst, where I attend regular meetups to stay up-to-date with the latest trends and network with other professionals in the field.\
+\
+I am actively seeking summer 2023 internships in the data analytics or data engineering fields. With my skill set and experience in data wrangling, data visualization, and data modeling, I am confident that I would be an asset to any organization looking for a dedicated and hardworking individual to help with their data analytics needs.\
+\
+Please feel free to connect with me to discuss potential opportunities!
+
+# Education
+
+**University Of Massachusetts Amherst,** Amherst, MA
+
+M.S in Data Analytics \| August 2022 - Dec 2023
+
+Coursework: Data Science in R, Text-As-Data, Machine Learning, Quantitative Analysis, Analysis of Discrete Data, Research Lab
 
 **Jawaharlal Nehru Technological University** Hyderabad, Telangana, India
 
-B. Tech in Computer Science and Engineering | Aug 2022 -- Exp. Dec 2023
+B. Tech in Computer Science and Engineering \| Aug 2015 - May 2019
 
-## Technical Expertise
+Coursework: Introduction to Analytics, Big Data Analytics, Database Management Systems, Probability & Statistics, Data Warehousing and Data Mining, Mathematical Methods
 
-Proficient in 
- -    R
- -    Python : numpy, pandas, sklearn
- -    Git
- -    Machine Learning
- -    Webscraping
- -    SQL
+# Skills
 
+-   Programming Languages : Python (Pandas, NumPy, Scikit-learn), R, Shell Scripting, SQL, Amazon Athena
+-   Databases : MySQL, PostgreSQL, Amazon S3, MongoDB
+-   Business Intelligence Tools : Tableau, MS Office, Looker, AWS QuickSight
+-   Tools : Git, Google Big Query, SQL Server, AWS Glue, AWS Lambda, Airflow, Docker, Redshift
 
-## Work Experience
+# Work Experience
 
-**University Of Massachusetts Amherst** Role: Member of tech team • Developed website to showcase 50 student portfolio pages to potential employers • Maintained official department websites and student blogs • Provided online and offline support to instructor in Zoom and Slack. • Fixed python code used for web-scraping • Documented class notes for curriculum development
+University of Massachusetts Amherst, Amherst (Sept 2022 - Present)
 
-**Tech Mahindra**, Hyderabad 
-• Worked with a team of 5 and addressed high priority issues through ServiceNow, ensured smooth flow of business in a DevOps model • Designed and implemented SCA, OSB components; Used Jenkins for code builds; deployed using Myst tool; and committed code using SVN • Created change requests, documented each step of development and deployment, thus accelerating future code enhancements. • Performed extensive unit testing and regression testing through SOAPUI and in dev, qa and uat environments, and ensured the code meet the business standards • Maintained an integrated connectivity dashboard which runs on python, shell-scripts, and Oracle database. • Maintained the backend, reported and resolved integration failures, and performed weekly clean-up activities. • Participated in weekend deployments and supported various business outages.
+**Role**: Developer
 
+- Created DACSS careers website site to showcase 50+ student portfolios using Quarto, Bootstrap, HTML, CSS
+-	Enabled workflows and site deployment using Github Pages and Git
+-	Automated resume creation using R's "vitae" package
+-	Classroom assistant for Text-As-Data, managed Slack channels and Zoom
+-	Fixed python web-scraping code absed on "beautifulsoup" package
 
-## Projects
+**Tech Mahindra**, Hyderabad (Dec 2019 -- July 2022)
 
-**Content Analysis of famous people's biographies** - Analysed 126 celebrity biographies to find similarities in terms of profession, notable achievements, era, early life, place of birth and cause of death.
+**Role**: Software Engineer \| **Project**: GE Healthcare \| **Technology**: Oracle SOA 12c
 
--   **EDA of NIFTY50 Dataset (Aug 2022)** Using R, analysed the stock trends of top 50 Indian stocks between 2000 and 2021, performed time series analysis of the stock performance; best and worst stocks; and observed stock trends in 2008 and 2019-2021
+-	Utilized the Python-based Dash framework, Flask, Plotly.js to create an interactive web application that displayed real-time ticket status data from ServiceNow, including SLA vs time-elapsed metric for high-priority tickets.
+-	Presented actionable insights into the performance of 40+ teams to leadership, empowering them to optimize business processes through data-driven decision-making.
+-	Reduced data integration time by 50% by developing 10+ reusable integration services in Oracle SOA software, resulting in a more efficient and streamlined data integration process.
+-	Collaborated with cross-functional teams to gather and analyse data requirements, and developed data models and data mapping documents to support data integration initiatives.
+-	Ensured code efficiency and reusability by utilizing SVN for version control, Jenkins for builds and MYST for integration deployment.
+-	Improved system throughput by 25% by optimizing SOA infrastructure, including tuning the database, web server, and application server settings, resulting in faster data processing times and improved user experience.
+-	Reduced overall integration downtime by 60% by implementing effective error handling and reporting, resulting in improved system uptime and minimized business interruptions.
+-	Maintained a complex dashboard using Python, shell scripts, and SQL which showed health of 200+ integrations in lower environments
+-	Trained in Oracle Integration Cloud (OIC) to assist in future platform upgrades
 
--     **Analysis of Enron email dataset for detecting suspicious behaviour** (2018 - 2019) Measured email exchange frequency and employee's frequently used words, and traced that word to its users.
+# Projects
 
+-	**Youtube Trend Analysis** -- This project aims to uncover insights about popular videos on YouTube. The data is extracted, transformed and loaded using Python, AWS (S3, Glue, Athena, Lambda, QuickSight), and SQL for analysis.
 
+-	**Twitter Data Analysis** -- Built a data pipeline to extract data from Twitter using Python and storing the data on Amazon S3 buckets using Airflow.
 
+-	**Credit Card Approval Predictions** - Developed a machine learning model using logistic regression to predict credit card approval rates. Utilized Python, numpy, pandas, sklearn, and machine learning techniques to increase accuracy by 10%.
+
+-	**Structural Topic Modeling of Celebrity Personality Trends** - Conducted a comprehensive case study of 100 famous people, revealing patterns in personality traits and contextualizing findings through demographic, professional, and background characteristics. Built using R, topic modeling, and the tidyverse package.
+
+-	**Uncovering Trends in the NIFTY50: An EDA Case Study** - Conducted a comprehensive analysis of the stock trends for the top 50 Indian stocks between 2000 and 2021, utilizing time series analysis to identify the best and worst performing stocks and observing market trends. Utilized R, ggplot, and the tidyverse package.
 :::
-
