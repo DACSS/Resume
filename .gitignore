@@ -90,11 +90,6 @@ bio/_metadata.yml
 *.Rproj
 .DS_Store
 
-/.quarto/
-
-_freeze/site_libs/
-_quarto.yml
-
 
 #student files
 *.Rproj
