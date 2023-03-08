@@ -1,0 +1,161 @@
+---
+title: "Jerin Jacob"
+description: "Email : jjacob@umass.edu" 
+image: headshot_jerin.jpg
+# about:
+#   links:
+#     - text: LinkedIn
+#       icon: linkedin
+#       url: "https://linkedin.com/in/jerin-jacob-here"
+#     - text: GitHub
+#       icon: github
+#       url: "https://github.com/jerin248486"
+categories: [fall23, full-time, marketing-data-scientist, strategy, Geographic Information Science(GIS)]
+---
+
+```{=html}
+<style>
+.quarto-categories {
+justify-content: space-evenly;
+}
+.tab-content {
+    font-size: medium;
+}
+.resume{
+font-size: large    ;
+}
+</style>
+```
+<!-- Resume download button -->
+
+<a href = "cv.pdf" title = "unique_name"> <button type="button" class="resume btn bg-success btn-lg w-100"> <i class="bi bi-cloud-download"></i> Resume </button> </a>
+
+<!-- ::: column-page -->
+
+::: panel-tabset
+# Summary
+
+<div>
+
+I am an MS Data Analytics and Computational Social Science student at the University of Massachusetts Amherst with a focus on Research Design, Network Analysis, Geographical Information Science and Public Opinion in Politics. I earned my MBA with a specialization in Marketing from the University of Kerala, Thiruvananthapuram and my Bachelor of Science degree in Physics from Mahatma Gandhi University, Kottayam. I have 11 years of work experience, including 5 years of entrepreneurship. I am proficient in R programming language, python, MS Office, Tableue, Github, HTML & CSS.
+
+# 
+
+</div>
+
+# Education
+
+**Master of Science in Data Analytics and Computational Social Science \|AUG 2022- EXPECTED DEC 2023 \|** University of Massachusetts, Amherst, MA \| GPA: 4
+
+*Relevant Coursework*: Introduction to Data Science, Research Design, Network Analysis, Geographic Information Science(GIS), Intro to Quantitative Analysis, Public Opinion in Politics
+
+**MBA (Marketing)\|*MAY 2011*** University of Kerala\|*CGPA: 6.9*
+
+*Relevant Coursework**:*** Marketing Management, Business Communication, Advertising & Sales Promotion, Brand Management
+
+**Bachelor of Science in Physics \| *MAR 2008*** Mahatma Gandhi University \| *CCPA: 6.3*
+
+# Technical Skills
+
+-   ***Programming Languages***:
+
+    -   R
+
+    -   SQL
+
+    -   Python
+
+    -   HTML
+
+    -   CSS
+
+-   ***Reporting and Analytical tools***:
+
+    -   Tableau
+
+    -   ArcGIS Pro
+
+    -   Advanced MS Excel
+
+# Work Experience
+
+**Career Ambassador** \| *Data Analytics and Computational Social Science, Amherst, MA* **SEP 2022- PRESENT**
+
+-   Manage and promote LinkedIn Page
+
+-   Curate Handshake content for the biweekly newsletter
+
+-   Develop and deploy student surveys
+
+-   Manage the 'Minute Fund' and 'UMass Gives' fundraising eﬀorts for DACSS program at University of Massachusetts, Amherst.
+
+**Business Consultant\|***Freelance **MAR 2020- JUL 2022***
+
+-   Helped the clients to build and execute a marketing strategy for monthly, quarterly, and annual plans to achieve a 35% increase in the annual revenue growth.
+
+-   Designed and implemented a brand management program for clients to increase brand recognition and brand loyalty.
+
+**Managing Director \|** Eazyshopy by Cresoul Trading & Logistics Pvt Ltd, INDIA ***NOV 2014-DEC 2019***
+
+-   Headed the business development and operations of the startup to achieve more than 80% annual growth in revenue in 4 consecutive years
+
+-   Developed the brand identities and created a strong brand consciousness among the target population
+
+-   Built and improved the infrastructure and resources for the startup
+
+-   Headed the recruitment and HR development
+
+-   Identified new market channels and executed the market penetration
+
+-   Strategic Consulting, including business plan & sales strategy development.
+
+**Marketing Specialist** \|Eastern Hazar, Saudi Arabia ***OCT 2012-OCT 2014***
+
+-   Developed Marketing materials and updated at regular intervals
+
+-   Managed the social media accounts and communities
+
+-   Developed and executed the digital marketing campaigns for the company
+
+-   Constantly interacted with the shop ﬂoor managers and the technical team to make sure the customer gets delighted
+
+-   Headed the sales and marketing for the Eastern province, Saudi Arabia
+
+**Marketing Manager** \|Sookshmatech Integral Techno Solutions Pvt Ltd, India ***MAY 2011-APR 2012***
+
+-   Key responsibilities included Ad making, Media Management, Social Media Marketing, Prepare Marketing Collaterals, Market Research, Identifying Target Customers, Sales Presentation & Closing the deal
+
+**Assistant Store Manager** \|PJ Electronics & Home Appliance shop, India ***JUN 2008-MAY 2009***
+
+-   Assisted in day-to-day operations of the store and actively participated in the merchandising
+
+# Projects
+
+-   **Data Science project** for the University of Massachusetts Donahue Institute of Research (UMDI) on the **casino operators' data** in Massachusetts
+
+-   **Data Analysis project** on the **crime data of Massachusetts** state: Analysis and Visualization in R
+
+-   Research Design project on 'How the **gender and race of a professor affects their perceived competency** by students
+
+-   Analysis of **Public Opinion about the climate change**
+
+-   Data Analytics and Visualization project on **global pollution data**
+
+-   Data Analytics and Visualization project on **global terrorism data**
+
+-   Study on the **effect of embedded marketing in movies** of regional language in Kerala, India
+
+# Achievements
+
+-   **Co-chairing as President**, Social Data Science Network, University of Massachusetts Amherst \| **2022-2023**
+
+-   **Chaired as the Joint Secretary**, Core Executive Commi2ee for MBA department \| **2010-2011**
+
+-   **Chaired the position of Secretary**, KCYM at the parish for one year \| **2006 - 2007**
+
+# Volunteering
+
+-   Worked in the organizing team of multiple inter-collegiate events \| **2009-2011**
+
+-   Worked as a member of Kerala Catholic Youth Movement \| **2005-2008**
+:::
