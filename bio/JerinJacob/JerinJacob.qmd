@@ -10,7 +10,7 @@ image: headshot_jerin.jpg
 #     - text: GitHub
 #       icon: github
 #       url: "https://github.com/jerin248486"
-categories: [fall23, full-time, marketing-data-scientist, strategy, Geographic Information Science(GIS)]
+categories: [fall23, internship, full-time, marketing-data-scientist, strategy, Geographic Information Science(GIS)]
 ---
 
 ```{=html}
