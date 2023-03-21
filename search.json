@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "people.html",
-    "href": "people.html",
+    "objectID": "pages/for_employers.html",
+    "href": "pages/for_employers.html",
     "title": "Careers@DACSS",
     "section": "",
-    "text": "Adithya Praneeth Parupudi\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirstname Lastname\n\n\n\n\n\n\n\n\n\n\n\n\n\nMani Shanker Kamarapu\n\n\n\n\n\n\n\n\n\n\n\n\n\nNiyati Sharma\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Page for employers.\nTo post instructions on how to use this site.\nPlease refer to this guide on how to navigate through this website."
   },
   {
     "objectID": "pages/projects.html",
@@ -14,39 +14,11 @@
     "text": "Here are a list of projects from current students.\n\nEDA of NIFTY50 Dataset (Aug 2022) - Using R, analysed the stock trends of top 50 Indian stocks between 2000 and 2021, performed time series analysis of the stock performance; best and worst stocks; and observed stock trends in 2008 and 2019-2021\nStructural Topic Modeling of Celebrity Personality Trends- Conducted a comprehensive case study of 100 famous people, revealing patterns in personality traits and contextualizing findings through demographic, professional, and background characteristics. Built using R, topic modeling, and the tidyverse package."
   },
   {
-    "objectID": "pages/for_employers.html",
-    "href": "pages/for_employers.html",
+    "objectID": "people.html",
+    "href": "people.html",
     "title": "Careers@DACSS",
     "section": "",
-    "text": "Page for employers.\nTo post instructions on how to use this site.\nPlease refer to this guide on how to navigate through this website."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Careers@DACSS",
-    "section": "",
-    "text": "Welcome to Master's of Science in Data Analytics and Computational Social Science program."
-  },
-  {
-    "objectID": "index.html#find-your-next-employee",
-    "href": "index.html#find-your-next-employee",
-    "title": "Careers@DACSS",
-    "section": "Find your next employee",
-    "text": "Find your next employee\nPlease use the below dropdowns to filter students based on the following:\n\nDomains\nJob Type (Fulltime, Part time)\nBy Graduation date\n\n\n\n\n\n\n\n\nDomains\n\n\n\nHealthCare\n\n\nFinance\n\n\nOperations\n\n\nInformation Technology\n\n\nSupply Chain\n\n\nPolitical science\n\n\nPublic policy\n\n\nPsychology\n\n\n\n\n\nJob Type\n\n\n\nFull-time\n\n\nInternship\n\n\n\n\n\nGraduation Date\n\n\n\nSpring’23\n\n\nSummer’23\n\n\nFall’23\n\n\nSpring’24"
-  },
-  {
-    "objectID": "index.html#see-our-work",
-    "href": "index.html#see-our-work",
-    "title": "Careers@DACSS",
-    "section": "See our work!",
-    "text": "See our work!\nBelow are moments captured from DACSS Research Symposium where out students present their work through paper presentations!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrevious\n\n\nNext\n\n\n\nTo explore the full range of our students’ talents and expertise, we invite you to visit the Projects section"
-  },
-  {
-    "objectID": "index.html#contact-us",
-    "href": "index.html#contact-us",
-    "title": "Careers@DACSS",
-    "section": "Contact Us",
-    "text": "Contact Us\n\n\n\n\n\n\n\nAl Simon\n\n\nAssistant Director for Career Services and External Engagement"
+    "text": "Adithya Praneeth Parupudi\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirstname Lastname\n\n\n\n\n\n\n\n\n\n\n\n\n\nJerin Jacob\n\n\n\n\n\n\n\n\n\n\n\n\n\nLindsay J.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMani Shanker Kamarapu\n\n\n\n\n\n\n\n\n\n\n\n\n\nNiyati Sharma\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "bio/NiyatiSharma/NiyatiSharma_bio.html",
@@ -98,6 +70,34 @@
     "text": "Projects\nCredit Risk Analysis\nThe project finds the probability of a borrower defaulting on debt obligaƟons and factors credit risk can be calculated through regression modelling. Used libraries such as library(tidyverse), library(dplyr), library(ggplot2) in R language.\nAnalyzing Customer Reviews for improvement of Uber experience In this research, we are analyzing huge user-generated content which can be used by organizations for their customer engagement strategies. The purpose of this study is to derive insights using app reviews and social media reviews to understand how businesses use feedback for customer engagement strategies. For this project we are using topic modelling in python language."
   },
   {
+    "objectID": "bio/JerinJacob/JerinJacob.html",
+    "href": "bio/JerinJacob/JerinJacob.html",
+    "title": "Jerin Jacob",
+    "section": "",
+    "text": "Resume  \n\n\nSummaryEducationTechnical SkillsWork ExperienceProjectsAchievementsVolunteering\n\n\n\nI am an MS Data Analytics and Computational Social Science student at the University of Massachusetts Amherst with a focus on Research Design, Network Analysis, Geographical Information Science and Public Opinion in Politics. I earned my MBA with a specialization in Marketing from the University of Kerala, Thiruvananthapuram and my Bachelor of Science degree in Physics from Mahatma Gandhi University, Kottayam. I have 11 years of work experience, including 5 years of entrepreneurship. I am proficient in R programming language, python, MS Office, Tableue, Github, HTML & CSS.\n\n\n\n\n\n\nMaster of Science in Data Analytics and Computational Social Science |AUG 2022- EXPECTED DEC 2023 | University of Massachusetts, Amherst, MA | GPA: 4\nRelevant Coursework: Introduction to Data Science, Research Design, Network Analysis, Geographic Information Science(GIS), Intro to Quantitative Analysis, Public Opinion in Politics\nMBA (Marketing)|MAY 2011 University of Kerala|CGPA: 6.9\nRelevant Coursework: Marketing Management, Business Communication, Advertising & Sales Promotion, Brand Management\nBachelor of Science in Physics | MAR 2008 Mahatma Gandhi University | CCPA: 6.3\n\n\n\nProgramming Languages:\n\nR\nSQL\nPython\nHTML\nCSS\n\nReporting and Analytical tools:\n\nTableau\nArcGIS Pro\nAdvanced MS Excel\n\n\n\n\nCareer Ambassador | Data Analytics and Computational Social Science, Amherst, MA SEP 2022- PRESENT\n\nManage and promote LinkedIn Page\nCurate Handshake content for the biweekly newsletter\nDevelop and deploy student surveys\nManage the ‘Minute Fund’ and ‘UMass Gives’ fundraising eﬀorts for DACSS program at University of Massachusetts, Amherst.\n\nBusiness Consultant|Freelance MAR 2020- JUL 2022\n\nHelped the clients to build and execute a marketing strategy for monthly, quarterly, and annual plans to achieve a 35% increase in the annual revenue growth.\nDesigned and implemented a brand management program for clients to increase brand recognition and brand loyalty.\n\nManaging Director | Eazyshopy by Cresoul Trading & Logistics Pvt Ltd, INDIA NOV 2014-DEC 2019\n\nHeaded the business development and operations of the startup to achieve more than 80% annual growth in revenue in 4 consecutive years\nDeveloped the brand identities and created a strong brand consciousness among the target population\nBuilt and improved the infrastructure and resources for the startup\nHeaded the recruitment and HR development\nIdentified new market channels and executed the market penetration\nStrategic Consulting, including business plan & sales strategy development.\n\nMarketing Specialist |Eastern Hazar, Saudi Arabia OCT 2012-OCT 2014\n\nDeveloped Marketing materials and updated at regular intervals\nManaged the social media accounts and communities\nDeveloped and executed the digital marketing campaigns for the company\nConstantly interacted with the shop ﬂoor managers and the technical team to make sure the customer gets delighted\nHeaded the sales and marketing for the Eastern province, Saudi Arabia\n\nMarketing Manager |Sookshmatech Integral Techno Solutions Pvt Ltd, India MAY 2011-APR 2012\n\nKey responsibilities included Ad making, Media Management, Social Media Marketing, Prepare Marketing Collaterals, Market Research, Identifying Target Customers, Sales Presentation & Closing the deal\n\nAssistant Store Manager |PJ Electronics & Home Appliance shop, India JUN 2008-MAY 2009\n\nAssisted in day-to-day operations of the store and actively participated in the merchandising\n\n\n\n\nData Science project for the University of Massachusetts Donahue Institute of Research (UMDI) on the casino operators’ data in Massachusetts\nData Analysis project on the crime data of Massachusetts state: Analysis and Visualization in R\nResearch Design project on ’How the gender and race of a professor affects their perceived competency by students\nAnalysis of Public Opinion about the climate change\nData Analytics and Visualization project on global pollution data\nData Analytics and Visualization project on global terrorism data\nStudy on the effect of embedded marketing in movies of regional language in Kerala, India\n\n\n\n\nCo-chairing as President, Social Data Science Network, University of Massachusetts Amherst | 2022-2023\nChaired as the Joint Secretary, Core Executive Commi2ee for MBA department | 2010-2011\nChaired the position of Secretary, KCYM at the parish for one year | 2006 - 2007\n\n\n\n\nWorked in the organizing team of multiple inter-collegiate events | 2009-2011\nWorked as a member of Kerala Catholic Youth Movement | 2005-2008"
+  },
+  {
+    "objectID": "bio/FirstnameLastname/FirstLast.html",
+    "href": "bio/FirstnameLastname/FirstLast.html",
+    "title": "Firstname Lastname",
+    "section": "",
+    "text": "Resume  \n\n\nSummaryEducationTechnical SkillsWork ExperienceProjectsVolunteering\n\n\nPaste your content here\n\n\nPaste your content here\n\n\nPaste your content here\n\n\nPaste your content here\n\n\nPaste your content here\n\n\nPaste your content here"
+  },
+  {
+    "objectID": "bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html",
+    "href": "bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html",
+    "title": "Adithya Praneeth Parupudi",
+    "section": "",
+    "text": "Resume  \n\n\nSummaryEducationTechnical SkillsWork ExperienceProjects\n\n\nInterested in Data Scientist roles in Healthcare, Finance, and Operations. I have a 2.7 yr work experience in the IT industry.\n\n\nUniversity Of Massachusetts Amherst Amherst, MA\nM.S in Data Analytics and Computational Social Science | August 2022 - Present (Expected 2023)\nJawaharlal Nehru Technological University Hyderabad, Telangana, India\nB. Tech in Computer Science and Engineering | Aug 2022 – Exp. Dec 2023\n\n\nProficient in - R - Python : numpy, pandas, sklearn - Git - Machine Learning - Webscraping - SQL\n\n\nUniversity Of Massachusetts Amherst Role: Member of tech team • Developed website to showcase 50 student portfolio pages to potential employers • Maintained official department websites and student blogs • Provided online and offline support to instructor in Zoom and Slack. • Fixed python code used for web-scraping • Documented class notes for curriculum development\nTech Mahindra, Hyderabad • Worked with a team of 5 and addressed high priority issues through ServiceNow, ensured smooth flow of business in a DevOps model • Designed and implemented SCA, OSB components; Used Jenkins for code builds; deployed using Myst tool; and committed code using SVN • Created change requests, documented each step of development and deployment, thus accelerating future code enhancements. • Performed extensive unit testing and regression testing through SOAPUI and in dev, qa and uat environments, and ensured the code meet the business standards • Maintained an integrated connectivity dashboard which runs on python, shell-scripts, and Oracle database. • Maintained the backend, reported and resolved integration failures, and performed weekly clean-up activities. • Participated in weekend deployments and supported various business outages.\n\n\nContent Analysis of famous people’s biographies - Analysed 126 celebrity biographies to find similarities in terms of profession, notable achievements, era, early life, place of birth and cause of death.\n\nEDA of NIFTY50 Dataset (Aug 2022) Using R, analysed the stock trends of top 50 Indian stocks between 2000 and 2021, performed time series analysis of the stock performance; best and worst stocks; and observed stock trends in 2008 and 2019-2021\nAnalysis of Enron email dataset for detecting suspicious behaviour (2018 - 2019) Measured email exchange frequency and employee’s frequently used words, and traced that word to its users."
+  },
+  {
+    "objectID": "bio/LindsayJones/LindsayJ.html",
+    "href": "bio/LindsayJones/LindsayJ.html",
+    "title": "Lindsay J.",
+    "section": "",
+    "text": "Resume  \n\n\nEducationTechnical Skills\n\n\nUniversity of Massachusetts Amherst\nMS Data Analytics and Computational Social Science (Expected completion December 2023)\nUniversity of California, San Diego\nBA Sociology; Minor in Communication\nMagna Cum Laude & Honors with High Distinction\n\n\n\nR (programming language)\nArcGIS Pro\nStatistical/data analysis\nMachine learning\nQuantitative & qualitative research"
+  },
+  {
     "objectID": "bio/ManiShankerKamarapu_bio/ManiShankerKamarapu_bio.html",
     "href": "bio/ManiShankerKamarapu_bio/ManiShankerKamarapu_bio.html",
     "title": "Mani Shanker Kamarapu",
@@ -147,17 +147,31 @@
     "text": "Projects\n\nBank Customer Churn Prediction and Factor Classification: Implemented exploratory data analysis, manipulation to predict the churn factors using numpy, pandas and matplotlib. Accomplished comparative Analysis between KNN & Matrix Factorization and obtained 91% efficiency.\nSymptom Diagnosis and Disease Prediction Analysis: Gathered data using web-scrapping methods by rvest. Tokenized, assembled and encoded the data into algorithms, achieving 78% accuracy. Categorized the algorithms and accumulated the disease prediction from symptoms.\nQuantitative Analysis of Olympics data: Mined and analyzed Olympics data to classify category specific using the regression to achieve a model accuracy of 84% performed data wrangling techniques, combining multiple flat files using SQL joins, imputing missing values and statistical analysis.\nThe Smart Helmet: Cleansed and transformed unstructured data using SQL procedures, Python & descriptive statistical methods. Interpreted daily accident rate data and preventive procedures. Provided recommendations on a micro controller connected GSM and GPS module known enough to find accident location if it occurs and a message enable device and achieved 80% accuracy"
   },
   {
-    "objectID": "bio/FirstnameLastname/FirstLast.html",
-    "href": "bio/FirstnameLastname/FirstLast.html",
-    "title": "Firstname Lastname",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Careers@DACSS",
     "section": "",
-    "text": "Resume  \n\n\nSummaryEducationTechnical SkillsWork ExperienceProjectsVolunteering\n\n\nPaste your content here\n\n\nPaste your content here\n\n\nPaste your content here\n\n\nPaste your content here\n\n\nPaste your content here\n\n\nPaste your content here"
+    "text": "Welcome to Master's of Science in Data Analytics and Computational Social Science program."
   },
   {
-    "objectID": "bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html",
-    "href": "bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html",
-    "title": "Adithya Praneeth Parupudi",
-    "section": "",
-    "text": "Resume  \n\n\nSummaryEducationTechnical SkillsWork ExperienceProjects\n\n\nInterested in Data Scientist roles in Healthcare, Finance, and Operations. I have a 2.7 yr work experience in the IT industry.\n\n\nUniversity Of Massachusetts Amherst Amherst, MA\nM.S in Data Analytics and Computational Social Science | August 2022 - Present (Expected 2023)\nJawaharlal Nehru Technological University Hyderabad, Telangana, India\nB. Tech in Computer Science and Engineering | Aug 2022 – Exp. Dec 2023\n\n\nProficient in - R - Python : numpy, pandas, sklearn - Git - Machine Learning - Webscraping - SQL\n\n\nUniversity Of Massachusetts Amherst Role: Member of tech team • Developed website to showcase 50 student portfolio pages to potential employers • Maintained official department websites and student blogs • Provided online and offline support to instructor in Zoom and Slack. • Fixed python code used for web-scraping • Documented class notes for curriculum development\nTech Mahindra, Hyderabad • Worked with a team of 5 and addressed high priority issues through ServiceNow, ensured smooth flow of business in a DevOps model • Designed and implemented SCA, OSB components; Used Jenkins for code builds; deployed using Myst tool; and committed code using SVN • Created change requests, documented each step of development and deployment, thus accelerating future code enhancements. • Performed extensive unit testing and regression testing through SOAPUI and in dev, qa and uat environments, and ensured the code meet the business standards • Maintained an integrated connectivity dashboard which runs on python, shell-scripts, and Oracle database. • Maintained the backend, reported and resolved integration failures, and performed weekly clean-up activities. • Participated in weekend deployments and supported various business outages.\n\n\nContent Analysis of famous people’s biographies - Analysed 126 celebrity biographies to find similarities in terms of profession, notable achievements, era, early life, place of birth and cause of death.\n\nEDA of NIFTY50 Dataset (Aug 2022) Using R, analysed the stock trends of top 50 Indian stocks between 2000 and 2021, performed time series analysis of the stock performance; best and worst stocks; and observed stock trends in 2008 and 2019-2021\nAnalysis of Enron email dataset for detecting suspicious behaviour (2018 - 2019) Measured email exchange frequency and employee’s frequently used words, and traced that word to its users."
+    "objectID": "index.html#find-your-next-employee",
+    "href": "index.html#find-your-next-employee",
+    "title": "Careers@DACSS",
+    "section": "Find your next employee",
+    "text": "Find your next employee\nPlease use the below dropdowns to filter students based on the following:\n\nDomains\nJob Type (Fulltime, Part time)\nBy Graduation date\n\n\n\n\n\n\n\n\nDomains\n\n\n\nHealthCare\n\n\nFinance\n\n\nOperations\n\n\nInformation Technology\n\n\nSupply Chain\n\n\nPolitical science\n\n\nPublic policy\n\n\nPsychology\n\n\n\n\n\nJob Type\n\n\n\nFull-time\n\n\nInternship\n\n\n\n\n\nGraduation Date\n\n\n\nSpring’23\n\n\nSummer’23\n\n\nFall’23\n\n\nSpring’24"
+  },
+  {
+    "objectID": "index.html#see-our-work",
+    "href": "index.html#see-our-work",
+    "title": "Careers@DACSS",
+    "section": "See our work!",
+    "text": "See our work!\nBelow are moments captured from DACSS Research Symposium where out students present their work through paper presentations!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrevious\n\n\nNext\n\n\n\nTo explore the full range of our students’ talents and expertise, we invite you to visit the Projects section"
+  },
+  {
+    "objectID": "index.html#contact-us",
+    "href": "index.html#contact-us",
+    "title": "Careers@DACSS",
+    "section": "Contact Us",
+    "text": "Contact Us\n\n\n\n\n\n\n\nAl Simon\n\n\nAssistant Director for Career Services and External Engagement"
   }
 ]
