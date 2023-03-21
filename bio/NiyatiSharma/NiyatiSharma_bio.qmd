@@ -1,0 +1,85 @@
+---
+title: "Niyati Sharma"
+subtitle: "Graduate Student"
+image: "Niyati.jpg"
+categories: [summer22, finance, niyati, wonder-woman]
+about:
+  template: trestles
+  links:
+    - text: LinkedIn
+      url: "https://www.linkedin.com/in/niyatisharma78/"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/Niyatiumass"
+    - text: Email
+      url: "niyatisharma@umass.edu"
+    - text: CV
+      url: "Niyati_resume_new.pdf"
+comments: false
+---
+<a href = "Niyati_resume_new.pdf" title = "Niyati_Resume"> Resume</a>
+
+
+::: {.column-page}
+
+## Bio
+
+Niyati Sharma current graduate student in the University of Massachusetts, Amherst with Data Analytics as major, and a minor in Social Science. I completed my undergraduate in Electrical engineer with honors degree. I worked as an automation engineer for 7 years in the healthcare and finance domain.
+
+## Education
+Master of Science in Data Analytics and Computation Social Sciences         Sept 2022 – Exp. Dec 2023 
+University of Massachusetts, Amherst, MA 
+Relevant Coursework: Introduction to Data Science, Text as Data, Quantitative Analysis 
+
+Bachelor of Technology in Electrical | Rajasthan College of Engineering for Women, Rajasthan                                      Aug 2009 – July 2013 
+CGPA: 7.90 
+Relevant Coursework: Data structures in C, Database Management System, Microprocessors & Computer Architecture and Computer Programming 
+
+## Technical Expertise
+
+ Programming Languages: R, SQL, Python, Java, OOPs 
+ Project Management Tools: Jira, Confluence, Mavenlink 
+ Tools/Technologies: Tableau, GitHub, Google Analytics, APIs, Microsoft     Office, Microsoft Outlook, Putty, Appium, Eclipse, 
+Android Studio, XCode, Selenium Webdriver 
+ Operating Systems: Windows 8, 8.1, 10, 11, macOS, Linux 
+ Databases: MySQL 
+
+
+## Work Experience
+Senior AutomaƟon Engineer | Punchh Tech India Pvt Ltd, India Aug 2019 – Jul 2022 
+ Key member of the Data Engineering team that handled guest booking data migration from PostgreSQL to a document based 
+Couchbase server which helped reduce the application response time by 50%. 
+ Automate regression and functional test suites by developing test cases, test suites using Appium. 
+ Collaborated with cross-functional teams to analyze the major issues in currently running apps. 
+ Deployed a Sentiment Analysis framework to classify user feedback into positive, negative or neutral with 80% accuracy. 
+ Collaborated with the internaƟonal team for new feature integraƟon and performed User Acceptance Testing (UAT) and 
+System Acceptance Testing with multiple test criteria. 
+Quality engineer | Salucro Healthcare Solutions, India Jul 2015 – Aug 2019 
+ Extensively automated regression and functional test suites by developing test cases, test suites using Selenium WebDriver, 
+JAVA, JUnit. 
+ Used stored procedures, views, and functions in SQL to extract Data from Tables and to verify the output Data of the reports. 
+ Monitored issues on Jira and used MS Excel to categorize issues and further implemented standard procedures that helped in 
+improving the QA process by 60%. 
+ Monitored and tested payment portal performance to identify potenƟal bottlenecks, developed solutions, and collaborated 
+with developers on solution implementation
+
+## Research Interests
+
+Analytics, visualization, statistics, Finance 
+
+## Projects
+
+*Credit Risk Analysis*
+
+The project finds the probability of a borrower defaulting on debt obligaƟons and factors credit risk can be calculated through 
+regression modelling. Used libraries such as library(tidyverse), library(dplyr), library(ggplot2) in R language. 
+
+*Analyzing Customer Reviews for improvement of Uber experience*
+In this research, we are analyzing huge user-generated content which can be used by organizations for their customer engagement 
+strategies. The purpose of this study is to derive insights using app reviews and social media reviews to understand how businesses 
+use feedback for customer engagement strategies. For this project we are using topic modelling in python language.
+
+
+
+:::
+

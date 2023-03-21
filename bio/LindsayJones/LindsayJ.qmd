@@ -1,0 +1,60 @@
+---
+title: "Lindsay J."
+description: "Email : lejones@umass.edu" 
+image: Lj_photo.jpg
+about:
+  links:
+    - text: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/lehj/"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/cbjamz"
+categories: [fall23, full-time, healthcare, public-policy]
+---
+
+```{=html}
+<style>
+.quarto-categories {
+justify-content: space-evenly;
+}
+.tab-content {
+    font-size: medium;
+}
+.resume{
+font-size: large    ;
+}
+</style>
+```
+<!-- Resume download button -->
+
+<a href = "LJ_Resume2.pdf" title = "unique_name" target="_blank"> <button type="button" class="resume btn bg-success btn-lg w-100"> <i class="bi bi-cloud-download"></i> Resume </button> </a>
+
+<!-- ::: column-page -->
+
+::: panel-tabset
+# Education
+
+**University of Massachusetts Amherst**
+
+MS Data Analytics and Computational Social Science (Expected completion December 2023)
+
+**University of California, San Diego**
+
+BA Sociology; Minor in Communication
+
+Magna Cum Laude & Honors with High Distinction
+
+# Technical Skills
+
+-   R (programming language)
+
+-   ArcGIS Pro
+
+-   Statistical/data analysis
+
+-   Machine learning
+
+-   Quantitative & qualitative research
+:::
+

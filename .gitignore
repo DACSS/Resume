@@ -82,17 +82,7 @@ vignettes/*.pdf
 /.quarto/
 /_site/
 _freeze/site_libs/
-_quarto.yml
-bio/_metadata.yml
-/*.*
 
 #student files
 *.Rproj
 .DS_Store
-
-
-#student files
-*.Rproj
-.DS_Store
-
-
