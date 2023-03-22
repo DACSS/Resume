@@ -4,14 +4,42 @@
     "href": "pages/for_employers.html",
     "title": "Careers@DACSS",
     "section": "",
-    "text": "Page for employers.\nTo post instructions on how to use this site.\nPlease refer to this guide on how to navigate through this website."
+    "text": "Welcome to DACSS Careers Portal!\nBelow, you will find a simple guide on how to make the most of this website.\n\n\n1 - Navigation Bar : One can click here to open People’s page to find student profiles, Projects page to see list of student projects, Contact Page to reach out to DACSS Career director.\n2 - Table of Contents : This is a table of contents section. One can see a list of sections in the homepage and navitage to them quickly.\n3 - Find your next employee - The three dropdown shown here contains multiple options to filter student profiles. One can find potential employees based on their domain interest, job type and graduation date"
+  },
+  {
+    "objectID": "pages/for_employers.html#by-domain-of-interest",
+    "href": "pages/for_employers.html#by-domain-of-interest",
+    "title": "Careers@DACSS",
+    "section": "By Domain of interest",
+    "text": "By Domain of interest\nThe domain names shown here are the areas of interest where the student wants to work. In the domains section, please select one of the option shown in the dropdown, which will open student profiles in another page"
+  },
+  {
+    "objectID": "pages/for_employers.html#by-job-type",
+    "href": "pages/for_employers.html#by-job-type",
+    "title": "Careers@DACSS",
+    "section": "By Job type",
+    "text": "By Job type\nJob Type filter shows a list of students looking for full-time and internship roles."
+  },
+  {
+    "objectID": "pages/for_employers.html#by-graduation-date",
+    "href": "pages/for_employers.html#by-graduation-date",
+    "title": "Careers@DACSS",
+    "section": "By Graduation date",
+    "text": "By Graduation date\nFind students based on their graduation date."
+  },
+  {
+    "objectID": "pages/for_employers.html#students-page",
+    "href": "pages/for_employers.html#students-page",
+    "title": "Careers@DACSS",
+    "section": "Students page",
+    "text": "Students page\nBased on the option selected from the dropdown, a new page is opened showing students under that tag. Lets see an example where full-time is selected from the Job-Type dropdown\n\n\n1 - List of keywords to filter student profiles\n2 - Student profiles looking for full-time as selected\n3 - A filter button to search directly search with the names."
   },
   {
     "objectID": "pages/projects.html",
     "href": "pages/projects.html",
     "title": "Careers@DACSS",
     "section": "",
-    "text": "Here are a list of projects from current students.\n\nEDA of NIFTY50 Dataset (Aug 2022) - Using R, analysed the stock trends of top 50 Indian stocks between 2000 and 2021, performed time series analysis of the stock performance; best and worst stocks; and observed stock trends in 2008 and 2019-2021\nStructural Topic Modeling of Celebrity Personality Trends- Conducted a comprehensive case study of 100 famous people, revealing patterns in personality traits and contextualizing findings through demographic, professional, and background characteristics. Built using R, topic modeling, and the tidyverse package."
+    "text": "Here are a list of projects from current students.\n\nEDA of NIFTY50 Dataset (Aug 2022) - Using R, analysed the stock trends of top 50 Indian stocks between 2000 and 2021, performed time series analysis of the stock performance; best and worst stocks; and observed stock trends in 2008 and 2019-2021\nStructural Topic Modeling of Celebrity Personality Trends- Conducted a comprehensive case study of 100 famous people, revealing patterns in personality traits and contextualizing findings through demographic, professional, and background characteristics. Built using R, topic modeling, and the tidyverse package.\n\n<!DOCTYPE html>\n\n\n\n\n\nStudent Projects"
   },
   {
     "objectID": "people.html",
