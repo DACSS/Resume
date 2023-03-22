@@ -1,5 +1,81 @@
-# Page for employers.
+# Guide to navigate the DACSS career portal
 
-To post instructions on how to use this site.
+Welcome to DACSS Careers Portal!
 
-Please refer to this guide on how to navigate through this website. 
+Below, you will find a simple guide on how to make the most of this website.
+
+![](../images/for_emp/img1.png)
+
+-   **1 - Navigation Bar** : One can click here to open People's page to find student profiles, Projects page to see list of student projects, Contact Page to reach out to DACSS Career director.
+
+-   **2 - Table of Contents** : This is a table of contents section. One can see a list of sections in the homepage and navitage to them quickly.
+
+-   **3 - Find your next employee** - The three dropdown shown here contains multiple options to filter student profiles. One can find potential employees based on their domain interest, job type and graduation date
+
+# Find your next employee
+
+## By Domain of interest
+
+The domain names shown here are the areas of interest where the student wants to work. In the domains section, please select one of the option shown in the dropdown, which will open student profiles in another page
+
+![](../images/for_emp/domain.png)
+
+## By Job type
+
+Job Type filter shows a list of students looking for full-time and internship roles.
+
+![](../images/for_emp/jtype.png)
+
+## By Graduation date
+
+Find students based on their graduation date.
+
+![](../images/for_emp/gdate.png){width="503"}
+
+## Students page
+
+Based on the option selected from the dropdown, a new page is opened showing students under that tag. Lets see an example where **full-time** is selected from the Job-Type dropdown
+
+![](../images/for_emp/example.png){width="509"}
+
+-   1 - List of keywords to filter student profiles
+
+-   2 - Student profiles looking for **full-time** as selected
+
+-   3 - A filter button to search directly search with the names.
+
+![](../images/for_emp/student1.png){width="792"}
+
+# Exploring a student profile
+
+![](../images/for_emp/student_profile.png){width="693"}
+
+-   1 - Student name
+
+-   2 - Student's email address
+
+-   3 - Links to their GitHub and LinkedIn profiles
+
+-   4 - At a glance, one can see a student's quick Summary, Education details, Work Experience, Technologies, Work Experience, and Projects
+
+-   5 - A button to **download** a student's resume in .pdf format
+
+# Contact page
+
+One can use either the homepage or the dedicated Contact page to communicate with DACSS.
+
+-   1 - Use the form in the homepage to compose an email to **Al Simon**, Assistant Director for Career Services and External Engagement
+
+-   2 - In the navigation bar, click on the Contact to find the same interface to reach out to us.
+
+![](../images/for_emp/contact.png){width="653"}
+
+# Global Search
+
+If the recruiter is unable to find a student profile from the options given, there is a global search option in the **top-right corner of the navigation bar** which searches through all the profiles in the website. Below is an example where 'healthcare" is searched and it is showing all student profiles where the word exists.
+
+![](../images/for_emp/global-search.png)
+
+# Terminology
+
+**GitHub** - An online platform for version control and collaboration, enabling developers to work on projects and share code. By clicking on the project links, recruiters can view and assess the students' work, explore their code repositories, and gain insights into their programming skills and experience
