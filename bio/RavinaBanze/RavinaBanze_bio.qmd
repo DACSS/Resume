@@ -1,0 +1,128 @@
+---
+title: "Ravina Marilyn Banze"
+description: "Email : rbanze@umass.edu" 
+image: Ravina_profile.jpg
+about:
+  links:
+    - text: LinkedIn
+      icon: linkedin
+      url: "https://linkedin.com/in/ravina-marilyn-banze-056b88125"
+
+categories: [fall23]
+---
+
+```{=html}
+<style>
+.quarto-categories {
+justify-content: space-evenly;
+}
+.tab-content {
+    font-size: medium;
+}
+.resume{
+font-size: large    ;
+}
+</style>
+```
+<!-- Resume download button -->
+
+<a href = "Ravina_CV.pdf" title = "Ravina_Resume" target="_blank" > <button type="button" class="resume btn bg-success btn-lg w-100"> <i class="bi bi-cloud-download"></i> Resume </button> </a>
+
+<!-- ::: column-page -->
+
+::: panel-tabset
+# Publications
+
+"**Crowdfunding: The Story of People**," Project Nile, Banze, R., & Bashir, I. (2020) ISBN- 978-93-5426-611-9 Description: 'Crowdfunding: The Story of People' uses a data-driven storytelling approach to capture the impact and potential of crowdfunding in a world governed by inequality. The book takes into account both the micro and macro perspectives of collective giving, social collaboration, and financial inclusion through robust data and in-depth research.
+
+# Education
+
+-   **University of Massachusetts, Amherst** \| (August 2022 - Present)
+
+    -   Masters in Data Analytics and Computational Social Sciences
+
+-   **Mumbai School of Economics and Public Policy** \|(January 2019 - April 2020)
+
+    -   Majors: Healthcare Analytics & Public Policy Analytics
+
+    -   Post Graduate Diploma in Analytics
+
+-   **St.Xavier's College** \| (June 2013 - June 2016)
+
+    -   Bachelor of Arts
+
+    -   Majors: Sociology and Anthropology; Minor: Economics
+
+# Work Experience
+
+**Co-founder and CEO, CrowdHive** \| (December 2020- December 2022)
+
+-   Built CrowdHive, a reward-based crowdfunding platform catering to social impact startups and small businesses
+
+-   Overlook strategy, partnerships, research, community building, hiring, and management functions at CrowdHive
+
+**Co-founder and CEO, Project Nile** \| (December 2020- December 2022)
+
+-   Co-founded and built Project Nile, a bootstrapped startup that provides research and crowdfunding consulting to nonprofits and social impact startups
+
+```{=html}
+<!-- -->
+```
+-   Conceptualizing and developing curriculum for Project Nile's crowdfunding fellowship that has trained 200 fellows in nonprofit fundraising
+
+-    Advised over 50 NGOs on their volunteering, fundraising, and digital transformation strategies - Created ProjectNile's YouTube channel for data-driven content that has registered 100,000+ views
+
+-   Lead multi-stakeholder collaborations between local governments, educational institutes, and corporates for various NGO programs
+
+-   Supervising research initiatives at Project Nile and training the research team.
+
+-   Spearheading primary and secondary research initiatives for clients like Times Group (TSW- The Ed-tech wing) and Global Parli.
+
+-   Consulting nonprofits on implementing digital strategies for fundraising, tracking campaign performance, and risk mitigation.
+
+-   Automating data collection methods and creating resource depositories for research interns.
+
+-   Implementing data-driven storytelling strategies for digital marketing campaigns of clients. - Interviewing, hiring and onboarding of the tech and research team at Project Nile.
+
+-   Developing the company's strategy for adopting technological resources like AI and Deep Learning.
+
+-   Created a comprehensive five-year growth plan for Project Nile, including potential future verticals. Primary Data Analyst (Consultant), SEWA (March 2021-August 2021)
+
+-   Delivering a comprehensive Data Strategy Framework by conducting a need Assessment through qualitative research to understand the data flow and process mechanisms of the organisation.
+
+-   Upgrading and redesigning existing digital and mobile tools used for data collection.
+
+-   Cleaning, pre-processing, tagging, and categorizing data on a central database to improve machine- and user-readability.
+
+-   Performing exploratory and descriptive analysis in combination with robust data visualization.
+
+-   Identifying key trends and correlations in the data using tools like R, Stata and Python.
+
+-   Deploying machine learning algorithms to perform predictive analytics and insight generation from agriculture data.
+
+-   Preparing consumable data analysis report with useful insights in interactive html using D3.js
+
+# Leadership & Mentoring
+
+-   Volunteer Manager, **Art Paathshaala** \| (September 2018-November 2018)
+
+    -   Organized a volunteering program with multi-stakeholder participation across 180 government schools, benefitting 10,000+ children by educating them about the environment through the deployment of 600 volunteers
+
+-   Summer Intern, **Pratham NGO** \| (May 2015-June 2015)
+
+    -   Collected Data from government schools in Maharashtra on administration, teaching staff and operations.
+    -   Drafted proposals and program implementation reports.
+    -   Monitored and documented the pilot summer school program at Pratham schools across the state of Maharashtra.
+
+-   Summer Intern, **Akanksha NGO** \| (April 2014-May 2014)
+
+    -   Recruited, screened, and conducted preliminary interviews of teachers for 'Akanksha' & 'Teach for India'schools.
+    -   Held various workshops for the workforce of Akanksha.
+
+# Certificates
+
+-   Graduate certificate program in public policy from The Takshashila Institution, Bengaluru (completed a Policy Brief on Adoption of Electric Vehicles & Hybrid Vehicles in India)
+-   Completed the certification course held by UNICEF and University of Pennsylvania on Social Norms and Social Changes (part 1 and 2)
+-   Completed courses on Computational Social Science Methods, Big Data, Artificial Intelligence and Ethics and Social Network Analysis offered by UC Davis and Coursera.
+-   Diplôme d'études en langue française (DELF) A1 & A2 in 2016
+:::
