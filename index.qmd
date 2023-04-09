@@ -22,7 +22,7 @@ format:
 
 Please use the below dropdowns to filter students based on the following:
 
--   Domains
+-   Areas of Expertise
 -   Job Type (Fulltime, Part time)
 -   By Graduation date
 
@@ -39,7 +39,7 @@ Please use the below dropdowns to filter students based on the following:
 
 ::: dropdown
 <button class="btn btn-danger dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
-Domains
+Areas of Expertise
 </button>
 
 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
@@ -181,10 +181,15 @@ To explore the full range of our students' talents and expertise, we invite you 
 <img src="images/Al_Simon.png" alt="Your Image" class="img-fluid rounded" width="320" height="320"/>
 
 <h4 class="mt-3 mb-0">
+
 Al Simon
+
 </h4>
+
 <p class="lead mt-3 mb-0">
+
 Assistant Director for Career Services and External Engagement
+
 </p>
 :::
 :::

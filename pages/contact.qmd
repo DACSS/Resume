@@ -13,9 +13,23 @@ about:
 
 page-layout: full
 ---
+<head>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+```{=html}
+<script src="site_libs/bootstrap/bootstrap.min.js" crossorigin="anonymous"></script>
+```
+</head>
+
+
 
 ```{=html}
 <script src="https://apps.elfsight.com/p/platform.js" defer></script>
 ```
 ::: elfsight-app-8bc17fb7-0408-491a-8576-0f96ea7c486f
 :::
+
+
+
+

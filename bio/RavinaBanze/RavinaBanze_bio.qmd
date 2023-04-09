@@ -8,7 +8,7 @@ about:
       icon: linkedin
       url: "https://linkedin.com/in/ravina-marilyn-banze-056b88125"
 
-categories: [fall23]
+categories: [fall23, healthcare, public-policy]
 ---
 
 ```{=html}
@@ -65,12 +65,11 @@ font-size: large    ;
 
 -   Co-founded and built Project Nile, a bootstrapped startup that provides research and crowdfunding consulting to nonprofits and social impact startups
 
-```{=html}
 <!-- -->
-```
+
 -   Conceptualizing and developing curriculum for Project Nile's crowdfunding fellowship that has trained 200 fellows in nonprofit fundraising
 
--    Advised over 50 NGOs on their volunteering, fundraising, and digital transformation strategies - Created ProjectNile's YouTube channel for data-driven content that has registered 100,000+ views
+-   Advised over 50 NGOs on their volunteering, fundraising, and digital transformation strategies - Created ProjectNile's YouTube channel for data-driven content that has registered 100,000+ views
 
 -   Lead multi-stakeholder collaborations between local governments, educational institutes, and corporates for various NGO programs
 

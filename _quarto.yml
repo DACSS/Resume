@@ -16,6 +16,8 @@ format:
     
 website:
   title: "Careers@DACSS"
+  
+  cookie-consent: true
 
   # page footer
   page-footer: 
@@ -41,6 +43,9 @@ website:
     pinned: true
     search: true
     right:
+      - text: "For Employers"
+        href: pages/for_employers.qmd
+        
       - text: "Home"
         href: index.qmd
         
@@ -56,12 +61,6 @@ website:
       
       - text: "Contact"
         href: pages/contact.qmd
-        
-      - text: "For Employers"
-        href: pages/for_employers.qmd
-      
-
-
 
 editor: visual
 

@@ -1,0 +1,8 @@
+format:
+  html:
+    css:
+      - custom.css
+
+comments: false
+page-layout: full
+
