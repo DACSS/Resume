@@ -1,52 +1,38 @@
 [
   {
-    "objectID": "pages/for_employers.html",
-    "href": "pages/for_employers.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Careers@DACSS",
     "section": "",
-    "text": "Welcome to DACSS Careers Portal!\nBelow, you will find a simple guide on how to make the most of this website.\n\n\n1 - Navigation Bar : One can click here to open People’s page to find student profiles, Projects page to see list of student projects, Contact Page to reach out to DACSS Career director.\n2 - Table of Contents : This is a table of contents section. One can see a list of sections in the homepage and navitage to them quickly.\n3 - Find your next employee - The three dropdown shown here contains multiple options to filter student profiles. One can find potential employees based on their domain interest, job type and graduation date"
+    "text": "Welcome to Master's of Science in Data Analytics and Computational Social Science program."
   },
   {
-    "objectID": "pages/for_employers.html#by-domain-of-interest",
-    "href": "pages/for_employers.html#by-domain-of-interest",
+    "objectID": "index.html#find-your-next-employee",
+    "href": "index.html#find-your-next-employee",
     "title": "Careers@DACSS",
-    "section": "By Domain of interest",
-    "text": "By Domain of interest\nThe domain names shown here are the areas of interest where the student wants to work. In the domains section, please select one of the option shown in the dropdown, which will open student profiles in another page"
+    "section": "Find your next employee",
+    "text": "Find your next employee\nPlease use the below dropdowns to filter students based on the following:\n\nAreas of Expertise\nJob Type (Fulltime, Part time)\nBy Graduation date\n\n\n\n\n\n\n\n\nAreas of Expertise\n\n\n\nHealthCare\n\n\nFinance\n\n\nOperations\n\n\nInformation Technology\n\n\nSupply Chain\n\n\nPolitical science\n\n\nPublic policy\n\n\nPsychology\n\n\n\n\n\nJob Type\n\n\n\nFull-time\n\n\nInternship\n\n\n\n\n\nGraduation Date\n\n\n\nSpring’23\n\n\nSummer’23\n\n\nFall’23\n\n\nSpring’24"
   },
   {
-    "objectID": "pages/for_employers.html#by-job-type",
-    "href": "pages/for_employers.html#by-job-type",
+    "objectID": "index.html#see-our-work",
+    "href": "index.html#see-our-work",
     "title": "Careers@DACSS",
-    "section": "By Job type",
-    "text": "By Job type\nJob Type filter shows a list of students looking for full-time and internship roles."
+    "section": "See our work!",
+    "text": "See our work!\nBelow are moments captured from DACSS Research Symposium where out students present their work through paper presentations!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrevious\n\n\nNext\n\n\n\nTo explore the full range of our students’ talents and expertise, we invite you to visit the Projects section"
   },
   {
-    "objectID": "pages/for_employers.html#by-graduation-date",
-    "href": "pages/for_employers.html#by-graduation-date",
+    "objectID": "index.html#contact-us",
+    "href": "index.html#contact-us",
     "title": "Careers@DACSS",
-    "section": "By Graduation date",
-    "text": "By Graduation date\nFind students based on their graduation date."
+    "section": "Contact Us",
+    "text": "Contact Us\n\n\n\n\n\n\n\nAl Simon\n\n\nAssistant Director for Career Services and External Engagement"
   },
   {
-    "objectID": "pages/for_employers.html#students-page",
-    "href": "pages/for_employers.html#students-page",
-    "title": "Careers@DACSS",
-    "section": "Students page",
-    "text": "Students page\nBased on the option selected from the dropdown, a new page is opened showing students under that tag. Lets see an example where full-time is selected from the Job-Type dropdown\n\n\n1 - List of keywords to filter student profiles\n2 - Student profiles looking for full-time as selected\n3 - A filter button to search directly search with the names."
-  },
-  {
-    "objectID": "pages/projects.html",
-    "href": "pages/projects.html",
-    "title": "Careers@DACSS",
+    "objectID": "bio/JerinJacob/JerinJacob.html",
+    "href": "bio/JerinJacob/JerinJacob.html",
+    "title": "Jerin Jacob",
     "section": "",
-    "text": "Here are a list of projects from current students.\n\nEDA of NIFTY50 Dataset (Aug 2022) - Using R, analysed the stock trends of top 50 Indian stocks between 2000 and 2021, performed time series analysis of the stock performance; best and worst stocks; and observed stock trends in 2008 and 2019-2021\nStructural Topic Modeling of Celebrity Personality Trends- Conducted a comprehensive case study of 100 famous people, revealing patterns in personality traits and contextualizing findings through demographic, professional, and background characteristics. Built using R, topic modeling, and the tidyverse package.\n\n<!DOCTYPE html>\n\n\n\n\n\nStudent Projects"
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "Careers@DACSS",
-    "section": "",
-    "text": "Adithya Praneeth Parupudi\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirstname Lastname\n\n\n\n\n\n\n\n\n\n\n\n\n\nJerin Jacob\n\n\n\n\n\n\n\n\n\n\n\n\n\nLindsay J.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMani Shanker Kamarapu\n\n\n\n\n\n\n\n\n\n\n\n\n\nNiyati Sharma\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Resume  \n\n\nSummaryEducationTechnical SkillsWork ExperienceProjectsAchievementsVolunteering\n\n\n\nI am an MS Data Analytics and Computational Social Science student at the University of Massachusetts Amherst with a focus on Research Design, Network Analysis, Geographical Information Science and Public Opinion in Politics. I earned my MBA with a specialization in Marketing from the University of Kerala, Thiruvananthapuram and my Bachelor of Science degree in Physics from Mahatma Gandhi University, Kottayam. I have 11 years of work experience, including 5 years of entrepreneurship. I am proficient in R programming language, python, MS Office, Tableue, Github, HTML & CSS.\n\n\n\n\n\n\nMaster of Science in Data Analytics and Computational Social Science |AUG 2022- EXPECTED DEC 2023 | University of Massachusetts, Amherst, MA | GPA: 4\nRelevant Coursework: Introduction to Data Science, Research Design, Network Analysis, Geographic Information Science(GIS), Intro to Quantitative Analysis, Public Opinion in Politics\nMBA (Marketing)|MAY 2011 University of Kerala|CGPA: 6.9\nRelevant Coursework: Marketing Management, Business Communication, Advertising & Sales Promotion, Brand Management\nBachelor of Science in Physics | MAR 2008 Mahatma Gandhi University | CCPA: 6.3\n\n\n\nProgramming Languages:\n\nR\nSQL\nPython\nHTML\nCSS\n\nReporting and Analytical tools:\n\nTableau\nArcGIS Pro\nAdvanced MS Excel\n\n\n\n\nCareer Ambassador | Data Analytics and Computational Social Science, Amherst, MA SEP 2022- PRESENT\n\nManage and promote LinkedIn Page\nCurate Handshake content for the biweekly newsletter\nDevelop and deploy student surveys\nManage the ‘Minute Fund’ and ‘UMass Gives’ fundraising eﬀorts for DACSS program at University of Massachusetts, Amherst.\n\nBusiness Consultant|Freelance MAR 2020- JUL 2022\n\nHelped the clients to build and execute a marketing strategy for monthly, quarterly, and annual plans to achieve a 35% increase in the annual revenue growth.\nDesigned and implemented a brand management program for clients to increase brand recognition and brand loyalty.\n\nManaging Director | Eazyshopy by Cresoul Trading & Logistics Pvt Ltd, INDIA NOV 2014-DEC 2019\n\nHeaded the business development and operations of the startup to achieve more than 80% annual growth in revenue in 4 consecutive years\nDeveloped the brand identities and created a strong brand consciousness among the target population\nBuilt and improved the infrastructure and resources for the startup\nHeaded the recruitment and HR development\nIdentified new market channels and executed the market penetration\nStrategic Consulting, including business plan & sales strategy development.\n\nMarketing Specialist |Eastern Hazar, Saudi Arabia OCT 2012-OCT 2014\n\nDeveloped Marketing materials and updated at regular intervals\nManaged the social media accounts and communities\nDeveloped and executed the digital marketing campaigns for the company\nConstantly interacted with the shop ﬂoor managers and the technical team to make sure the customer gets delighted\nHeaded the sales and marketing for the Eastern province, Saudi Arabia\n\nMarketing Manager |Sookshmatech Integral Techno Solutions Pvt Ltd, India MAY 2011-APR 2012\n\nKey responsibilities included Ad making, Media Management, Social Media Marketing, Prepare Marketing Collaterals, Market Research, Identifying Target Customers, Sales Presentation & Closing the deal\n\nAssistant Store Manager |PJ Electronics & Home Appliance shop, India JUN 2008-MAY 2009\n\nAssisted in day-to-day operations of the store and actively participated in the merchandising\n\n\n\n\nData Science project for the University of Massachusetts Donahue Institute of Research (UMDI) on the casino operators’ data in Massachusetts\nData Analysis project on the crime data of Massachusetts state: Analysis and Visualization in R\nResearch Design project on ’How the gender and race of a professor affects their perceived competency by students\nAnalysis of Public Opinion about the climate change\nData Analytics and Visualization project on global pollution data\nData Analytics and Visualization project on global terrorism data\nStudy on the effect of embedded marketing in movies of regional language in Kerala, India\n\n\n\n\nCo-chairing as President, Social Data Science Network, University of Massachusetts Amherst | 2022-2023\nChaired as the Joint Secretary, Core Executive Commi2ee for MBA department | 2010-2011\nChaired the position of Secretary, KCYM at the parish for one year | 2006 - 2007\n\n\n\n\nWorked in the organizing team of multiple inter-collegiate events | 2009-2011\nWorked as a member of Kerala Catholic Youth Movement | 2005-2008"
   },
   {
     "objectID": "bio/NiyatiSharma/NiyatiSharma_bio.html",
@@ -96,20 +82,6 @@
     "title": "Niyati Sharma",
     "section": "Projects",
     "text": "Projects\nCredit Risk Analysis\nThe project finds the probability of a borrower defaulting on debt obligaƟons and factors credit risk can be calculated through regression modelling. Used libraries such as library(tidyverse), library(dplyr), library(ggplot2) in R language.\nAnalyzing Customer Reviews for improvement of Uber experience In this research, we are analyzing huge user-generated content which can be used by organizations for their customer engagement strategies. The purpose of this study is to derive insights using app reviews and social media reviews to understand how businesses use feedback for customer engagement strategies. For this project we are using topic modelling in python language."
-  },
-  {
-    "objectID": "bio/JerinJacob/JerinJacob.html",
-    "href": "bio/JerinJacob/JerinJacob.html",
-    "title": "Jerin Jacob",
-    "section": "",
-    "text": "Resume  \n\n\nSummaryEducationTechnical SkillsWork ExperienceProjectsAchievementsVolunteering\n\n\n\nI am an MS Data Analytics and Computational Social Science student at the University of Massachusetts Amherst with a focus on Research Design, Network Analysis, Geographical Information Science and Public Opinion in Politics. I earned my MBA with a specialization in Marketing from the University of Kerala, Thiruvananthapuram and my Bachelor of Science degree in Physics from Mahatma Gandhi University, Kottayam. I have 11 years of work experience, including 5 years of entrepreneurship. I am proficient in R programming language, python, MS Office, Tableue, Github, HTML & CSS.\n\n\n\n\n\n\nMaster of Science in Data Analytics and Computational Social Science |AUG 2022- EXPECTED DEC 2023 | University of Massachusetts, Amherst, MA | GPA: 4\nRelevant Coursework: Introduction to Data Science, Research Design, Network Analysis, Geographic Information Science(GIS), Intro to Quantitative Analysis, Public Opinion in Politics\nMBA (Marketing)|MAY 2011 University of Kerala|CGPA: 6.9\nRelevant Coursework: Marketing Management, Business Communication, Advertising & Sales Promotion, Brand Management\nBachelor of Science in Physics | MAR 2008 Mahatma Gandhi University | CCPA: 6.3\n\n\n\nProgramming Languages:\n\nR\nSQL\nPython\nHTML\nCSS\n\nReporting and Analytical tools:\n\nTableau\nArcGIS Pro\nAdvanced MS Excel\n\n\n\n\nCareer Ambassador | Data Analytics and Computational Social Science, Amherst, MA SEP 2022- PRESENT\n\nManage and promote LinkedIn Page\nCurate Handshake content for the biweekly newsletter\nDevelop and deploy student surveys\nManage the ‘Minute Fund’ and ‘UMass Gives’ fundraising eﬀorts for DACSS program at University of Massachusetts, Amherst.\n\nBusiness Consultant|Freelance MAR 2020- JUL 2022\n\nHelped the clients to build and execute a marketing strategy for monthly, quarterly, and annual plans to achieve a 35% increase in the annual revenue growth.\nDesigned and implemented a brand management program for clients to increase brand recognition and brand loyalty.\n\nManaging Director | Eazyshopy by Cresoul Trading & Logistics Pvt Ltd, INDIA NOV 2014-DEC 2019\n\nHeaded the business development and operations of the startup to achieve more than 80% annual growth in revenue in 4 consecutive years\nDeveloped the brand identities and created a strong brand consciousness among the target population\nBuilt and improved the infrastructure and resources for the startup\nHeaded the recruitment and HR development\nIdentified new market channels and executed the market penetration\nStrategic Consulting, including business plan & sales strategy development.\n\nMarketing Specialist |Eastern Hazar, Saudi Arabia OCT 2012-OCT 2014\n\nDeveloped Marketing materials and updated at regular intervals\nManaged the social media accounts and communities\nDeveloped and executed the digital marketing campaigns for the company\nConstantly interacted with the shop ﬂoor managers and the technical team to make sure the customer gets delighted\nHeaded the sales and marketing for the Eastern province, Saudi Arabia\n\nMarketing Manager |Sookshmatech Integral Techno Solutions Pvt Ltd, India MAY 2011-APR 2012\n\nKey responsibilities included Ad making, Media Management, Social Media Marketing, Prepare Marketing Collaterals, Market Research, Identifying Target Customers, Sales Presentation & Closing the deal\n\nAssistant Store Manager |PJ Electronics & Home Appliance shop, India JUN 2008-MAY 2009\n\nAssisted in day-to-day operations of the store and actively participated in the merchandising\n\n\n\n\nData Science project for the University of Massachusetts Donahue Institute of Research (UMDI) on the casino operators’ data in Massachusetts\nData Analysis project on the crime data of Massachusetts state: Analysis and Visualization in R\nResearch Design project on ’How the gender and race of a professor affects their perceived competency by students\nAnalysis of Public Opinion about the climate change\nData Analytics and Visualization project on global pollution data\nData Analytics and Visualization project on global terrorism data\nStudy on the effect of embedded marketing in movies of regional language in Kerala, India\n\n\n\n\nCo-chairing as President, Social Data Science Network, University of Massachusetts Amherst | 2022-2023\nChaired as the Joint Secretary, Core Executive Commi2ee for MBA department | 2010-2011\nChaired the position of Secretary, KCYM at the parish for one year | 2006 - 2007\n\n\n\n\nWorked in the organizing team of multiple inter-collegiate events | 2009-2011\nWorked as a member of Kerala Catholic Youth Movement | 2005-2008"
-  },
-  {
-    "objectID": "bio/FirstnameLastname/FirstLast.html",
-    "href": "bio/FirstnameLastname/FirstLast.html",
-    "title": "Firstname Lastname",
-    "section": "",
-    "text": "Resume  \n\n\nSummaryEducationTechnical SkillsWork ExperienceProjectsVolunteering\n\n\nPaste your content here\n\n\nPaste your content here\n\n\nPaste your content here\n\n\nPaste your content here\n\n\nPaste your content here\n\n\nPaste your content here"
   },
   {
     "objectID": "bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html",
@@ -175,31 +147,59 @@
     "text": "Projects\n\nBank Customer Churn Prediction and Factor Classification: Implemented exploratory data analysis, manipulation to predict the churn factors using numpy, pandas and matplotlib. Accomplished comparative Analysis between KNN & Matrix Factorization and obtained 91% efficiency.\nSymptom Diagnosis and Disease Prediction Analysis: Gathered data using web-scrapping methods by rvest. Tokenized, assembled and encoded the data into algorithms, achieving 78% accuracy. Categorized the algorithms and accumulated the disease prediction from symptoms.\nQuantitative Analysis of Olympics data: Mined and analyzed Olympics data to classify category specific using the regression to achieve a model accuracy of 84% performed data wrangling techniques, combining multiple flat files using SQL joins, imputing missing values and statistical analysis.\nThe Smart Helmet: Cleansed and transformed unstructured data using SQL procedures, Python & descriptive statistical methods. Interpreted daily accident rate data and preventive procedures. Provided recommendations on a micro controller connected GSM and GPS module known enough to find accident location if it occurs and a message enable device and achieved 80% accuracy"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "bio/FirstnameLastname/FirstLast.html",
+    "href": "bio/FirstnameLastname/FirstLast.html",
+    "title": "Firstname Lastname",
+    "section": "",
+    "text": "Resume  \n\n\nSummaryEducationTechnical SkillsWork ExperienceProjectsVolunteering\n\n\nPaste your content here\n\n\nPaste your content here\n\n\nPaste your content here\n\n\nPaste your content here\n\n\nPaste your content here\n\n\nPaste your content here"
+  },
+  {
+    "objectID": "bio/RavinaBanze/RavinaBanze_bio.html",
+    "href": "bio/RavinaBanze/RavinaBanze_bio.html",
+    "title": "Ravina Marilyn Banze",
+    "section": "",
+    "text": "Resume  \n\n\nPublicationsEducationWork ExperienceLeadership & MentoringCertificates\n\n\n“Crowdfunding: The Story of People,” Project Nile, Banze, R., & Bashir, I. (2020) ISBN- 978-93-5426-611-9 Description: ‘Crowdfunding: The Story of People’ uses a data-driven storytelling approach to capture the impact and potential of crowdfunding in a world governed by inequality. The book takes into account both the micro and macro perspectives of collective giving, social collaboration, and financial inclusion through robust data and in-depth research.\n\n\n\nUniversity of Massachusetts, Amherst | (August 2022 - Present)\n\nMasters in Data Analytics and Computational Social Sciences\n\nMumbai School of Economics and Public Policy |(January 2019 - April 2020)\n\nMajors: Healthcare Analytics & Public Policy Analytics\nPost Graduate Diploma in Analytics\n\nSt.Xavier’s College | (June 2013 - June 2016)\n\nBachelor of Arts\nMajors: Sociology and Anthropology; Minor: Economics\n\n\n\n\nCo-founder and CEO, CrowdHive | (December 2020- December 2022)\n\nBuilt CrowdHive, a reward-based crowdfunding platform catering to social impact startups and small businesses\nOverlook strategy, partnerships, research, community building, hiring, and management functions at CrowdHive\n\nCo-founder and CEO, Project Nile | (December 2020- December 2022)\n\nCo-founded and built Project Nile, a bootstrapped startup that provides research and crowdfunding consulting to nonprofits and social impact startups\n\n\n\nConceptualizing and developing curriculum for Project Nile’s crowdfunding fellowship that has trained 200 fellows in nonprofit fundraising\nAdvised over 50 NGOs on their volunteering, fundraising, and digital transformation strategies - Created ProjectNile’s YouTube channel for data-driven content that has registered 100,000+ views\nLead multi-stakeholder collaborations between local governments, educational institutes, and corporates for various NGO programs\nSupervising research initiatives at Project Nile and training the research team.\nSpearheading primary and secondary research initiatives for clients like Times Group (TSW- The Ed-tech wing) and Global Parli.\nConsulting nonprofits on implementing digital strategies for fundraising, tracking campaign performance, and risk mitigation.\nAutomating data collection methods and creating resource depositories for research interns.\nImplementing data-driven storytelling strategies for digital marketing campaigns of clients. - Interviewing, hiring and onboarding of the tech and research team at Project Nile.\nDeveloping the company’s strategy for adopting technological resources like AI and Deep Learning.\nCreated a comprehensive five-year growth plan for Project Nile, including potential future verticals. Primary Data Analyst (Consultant), SEWA (March 2021-August 2021)\nDelivering a comprehensive Data Strategy Framework by conducting a need Assessment through qualitative research to understand the data flow and process mechanisms of the organisation.\nUpgrading and redesigning existing digital and mobile tools used for data collection.\nCleaning, pre-processing, tagging, and categorizing data on a central database to improve machine- and user-readability.\nPerforming exploratory and descriptive analysis in combination with robust data visualization.\nIdentifying key trends and correlations in the data using tools like R, Stata and Python.\nDeploying machine learning algorithms to perform predictive analytics and insight generation from agriculture data.\nPreparing consumable data analysis report with useful insights in interactive html using D3.js\n\n\n\n\nVolunteer Manager, Art Paathshaala | (September 2018-November 2018)\n\nOrganized a volunteering program with multi-stakeholder participation across 180 government schools, benefitting 10,000+ children by educating them about the environment through the deployment of 600 volunteers\n\nSummer Intern, Pratham NGO | (May 2015-June 2015)\n\nCollected Data from government schools in Maharashtra on administration, teaching staff and operations.\nDrafted proposals and program implementation reports.\nMonitored and documented the pilot summer school program at Pratham schools across the state of Maharashtra.\n\nSummer Intern, Akanksha NGO | (April 2014-May 2014)\n\nRecruited, screened, and conducted preliminary interviews of teachers for ‘Akanksha’ & ’Teach for India’schools.\nHeld various workshops for the workforce of Akanksha.\n\n\n\n\n\nGraduate certificate program in public policy from The Takshashila Institution, Bengaluru (completed a Policy Brief on Adoption of Electric Vehicles & Hybrid Vehicles in India)\nCompleted the certification course held by UNICEF and University of Pennsylvania on Social Norms and Social Changes (part 1 and 2)\nCompleted courses on Computational Social Science Methods, Big Data, Artificial Intelligence and Ethics and Social Network Analysis offered by UC Davis and Coursera.\nDiplôme d’études en langue française (DELF) A1 & A2 in 2016"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
     "title": "Careers@DACSS",
     "section": "",
-    "text": "Welcome to Master's of Science in Data Analytics and Computational Social Science program."
+    "text": "Adithya Praneeth Parupudi\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirstname Lastname\n\n\n\n\n\n\n\n\n\n\n\n\n\nJerin Jacob\n\n\n\n\n\n\n\n\n\n\n\n\n\nLindsay J.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMani Shanker Kamarapu\n\n\n\n\n\n\n\n\n\n\n\n\n\nNiyati Sharma\n\n\n\n\n\n\n\n\n\n\n\n\n\nRavina Marilyn Banze\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "index.html#find-your-next-employee",
-    "href": "index.html#find-your-next-employee",
+    "objectID": "pages/projects.html",
+    "href": "pages/projects.html",
     "title": "Careers@DACSS",
-    "section": "Find your next employee",
-    "text": "Find your next employee\nPlease use the below dropdowns to filter students based on the following:\n\nDomains\nJob Type (Fulltime, Part time)\nBy Graduation date\n\n\n\n\n\n\n\n\nDomains\n\n\n\nHealthCare\n\n\nFinance\n\n\nOperations\n\n\nInformation Technology\n\n\nSupply Chain\n\n\nPolitical science\n\n\nPublic policy\n\n\nPsychology\n\n\n\n\n\nJob Type\n\n\n\nFull-time\n\n\nInternship\n\n\n\n\n\nGraduation Date\n\n\n\nSpring’23\n\n\nSummer’23\n\n\nFall’23\n\n\nSpring’24"
+    "section": "",
+    "text": "Here are a list of projects from current students.\n\n\n Tag 1  Tag 2  Tag 3 \n\n\n\n\n\n \n\nProject 1\n\n  \n\nProject 2\n\n  \n\nProject 3"
   },
   {
-    "objectID": "index.html#see-our-work",
-    "href": "index.html#see-our-work",
+    "objectID": "pages/for_employers.html#by-domain-of-interest",
+    "href": "pages/for_employers.html#by-domain-of-interest",
     "title": "Careers@DACSS",
-    "section": "See our work!",
-    "text": "See our work!\nBelow are moments captured from DACSS Research Symposium where out students present their work through paper presentations!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrevious\n\n\nNext\n\n\n\nTo explore the full range of our students’ talents and expertise, we invite you to visit the Projects section"
+    "section": "By Domain of interest",
+    "text": "By Domain of interest\nThe domain names shown here are the areas of interest where the student wants to work. In the domains section, please select one of the option shown in the dropdown, which will open student profiles in another page"
   },
   {
-    "objectID": "index.html#contact-us",
-    "href": "index.html#contact-us",
+    "objectID": "pages/for_employers.html#by-job-type",
+    "href": "pages/for_employers.html#by-job-type",
     "title": "Careers@DACSS",
-    "section": "Contact Us",
-    "text": "Contact Us\n\n\n\n\n\n\n\nAl Simon\n\n\nAssistant Director for Career Services and External Engagement"
+    "section": "By Job type",
+    "text": "By Job type\nJob Type filter shows a list of students looking for full-time and internship roles."
+  },
+  {
+    "objectID": "pages/for_employers.html#by-graduation-date",
+    "href": "pages/for_employers.html#by-graduation-date",
+    "title": "Careers@DACSS",
+    "section": "By Graduation date",
+    "text": "By Graduation date\nFind students based on their graduation date."
+  },
+  {
+    "objectID": "pages/for_employers.html#students-page",
+    "href": "pages/for_employers.html#students-page",
+    "title": "Careers@DACSS",
+    "section": "Students page",
+    "text": "Students page\nBased on the option selected from the dropdown, a new page is opened showing students under that tag. Lets see an example where full-time is selected from the Job-Type dropdown\n\n\n1 - List of keywords to filter student profiles\n2 - Student profiles looking for full-time as selected\n3 - A filter button to search directly search with the names."
   }
 ]

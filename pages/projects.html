@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.335">
+<meta name="generator" content="quarto-1.2.475">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
 <link href="../images/DACSS_Round_Network.png" rel="icon" type="image/png">
+<script src="../site_libs/cookie-consent/cookie-consent.js"></script>
+<link href="../site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -58,10 +60,27 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+
+<script type="text/javascript" charset="UTF-8">
+document.addEventListener('DOMContentLoaded', function () {
+cookieconsent.run({
+  "notice_banner_type":"simple",
+  "consent_type":"implied",
+  "palette":"light",
+  "language":"en",
+  "page_load_consent_levels":["strictly-necessary","functionality","tracking","targeting"],
+  "notice_banner_reject_button_hide":false,
+  "preferences_center_close_button_hide":false,
+  "website_name":""
+  });
+});
+</script> 
+  
 <style>html{ scroll-behavior: smooth; }</style>
 
 
 <link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="custom.css">
 </head>
 
 <body class="nav-fixed">
@@ -80,6 +99,10 @@ ul.task-list li input[type="checkbox"] {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../pages/for_employers.html">
+ <span class="menu-text">For Employers</span></a>
+  </li>  
   <li class="nav-item">
     <a class="nav-link" href="../index.html">
  <span class="menu-text">Home</span></a>
@@ -107,10 +130,6 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="../pages/contact.html">
  <span class="menu-text">Contact</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../pages/for_employers.html">
- <span class="menu-text">For Employers</span></a>
-  </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
@@ -129,61 +148,62 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+
+<p><link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous"></p>
+<script src="site_libs/bootstrap/bootstrap.min.js" crossorigin="anonymous"></script>
+
 <p>Here are a list of projects from current students.</p>
-<ul>
-<li><p><a href="https://github.com/Adithya1243/DACSS_601_August2022_v2/blob/template/posts/FinalProject_AdithyaParupudi.qmd">EDA of NIFTY50 Dataset (Aug 2022)</a> - Using R, analysed the stock trends of top 50 Indian stocks between 2000 and 2021, performed time series analysis of the stock performance; best and worst stocks; and observed stock trends in 2008 and 2019-2021</p></li>
-<li><p><a href="https://github.com/Adithya1243/Text_as_Data_Fall_2022/tree/template/posts">Structural Topic Modeling of Celebrity Personality Trends</a>- Conducted a comprehensive case study of 100 famous people, revealing patterns in personality traits and contextualizing findings through demographic, professional, and background characteristics. Built using R, topic modeling, and the tidyverse package.</p></li>
-</ul>
-&lt;!DOCTYPE html&gt;
+<div class="grid-container">
+<div id="filterOptions">
+<p><label><input type="checkbox" name="tag" value="tag1" onclick="filterProjects()"> Tag 1</label> <label><input type="checkbox" name="tag" value="tag2" onclick="filterProjects()"> Tag 2</label> <label><input type="checkbox" name="tag" value="tag3" onclick="filterProjects()"> Tag 3</label> <!-- Add more checkboxes for additional tags --></p>
+</div>
+</div>
+<!-- Your project cards go here -->
+<div class="grid-container">
+<!-- Filter checkboxes go here -->
+<a href="https://www.google.com/" target="_blank" class="card" data-tags="tag3"> <img src="../images/DACSS_Logo.png" alt="Project 1" class="card-image">
+<h3 class="card-title anchored">
+Project 1
+</h3>
+</a> <a href="https://www.google.com/" target="_blank" class="card" data-tags="tag1"> <img src="../images/DACSS_Logo.png" alt="Project 2" class="card-image">
+<h3 class="card-title anchored">
+Project 2
+</h3>
+</a> <a href="https://www.google.com/" target="_blank" class="card" data-tags="tag2"> <img src="../images/DACSS_Logo.png" alt="Project 3" class="card-image">
+<h3 class="card-title anchored">
+Project 3
+</h3>
+</a><p><a href="https://www.google.com/" target="_blank" class="card" data-tags="tag2"></a> <!-- More project cards go here --></p>
+</div>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+window.filterProjects = function () {
+let checkboxes = document.getElementsByName("tag");
+let checkedTags = [];
+for (let i = 0; i < checkboxes.length; i++) {
+if (checkboxes[i].checked) {
+checkedTags.push(checkboxes[i].value.toUpperCase());
+}
+}
 
+let cards = document.getElementsByClassName("card");
+let tags;
 
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>
-Student Projects
-</title>
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-  }
+for (let i = 0; i < cards.length; i++) {
+tags = cards[i].getAttribute("data-tags").toUpperCase().split(" ");
+if (
+checkedTags.length === 0 ||
+checkedTags.some((tag) => tags.includes(tag))
+) {
+cards[i].style.display = "";
+} else {
+cards[i].style.display = "none";
+}
+}
+};
+});
 
-  .project-card {
-    background-color: #f8f8f8;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    padding: 20px;
-    margin: 20px;
-    display: inline-block;
-    width: calc(50% - 40px);
-    box-sizing: border-box;
-    vertical-align: top;
-  }
-
-  .project-title {
-    font-size: 1.3em;
-    font-weight: bold;
-    margin-bottom: 10px;
-  }
-
-  .project-title a {
-    text-decoration: none;
-    color: #333;
-  }
-
-  .project-description {
-    font-size: 1em;
-    margin-bottom: 10px;
-  }
-
-  .author-name {
-    font-size: 0.9em;
-    color: #666;
-  }
-</style>
-
-
+</script>
 
 
 
@@ -325,6 +345,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">Copyright @ DACSS</div>   
+      <div class="nav-footer-center"><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">

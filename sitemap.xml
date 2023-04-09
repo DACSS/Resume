@@ -1,51 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://dacss.github.io/Resume/pages/faculty.html</loc>
-    <lastmod>2023-03-22T15:17:28.461Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dacss.github.io/Resume/pages/for_employers.html</loc>
-    <lastmod>2023-03-22T15:17:29.273Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dacss.github.io/Resume/pages/contact.html</loc>
-    <lastmod>2023-03-22T15:17:29.661Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dacss.github.io/Resume/pages/projects.html</loc>
-    <lastmod>2023-03-22T15:17:30.021Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dacss.github.io/Resume/people.html</loc>
-    <lastmod>2023-03-22T15:17:30.517Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dacss.github.io/Resume/bio/NiyatiSharma/NiyatiSharma_bio.html</loc>
-    <lastmod>2023-03-22T15:17:30.961Z</lastmod>
+    <loc>https://dacss.github.io/Resume/index.html</loc>
+    <lastmod>2023-04-09T01:35:43.792Z</lastmod>
   </url>
   <url>
     <loc>https://dacss.github.io/Resume/bio/JerinJacob/JerinJacob.html</loc>
-    <lastmod>2023-03-22T15:17:31.433Z</lastmod>
+    <lastmod>2023-04-09T01:35:44.528Z</lastmod>
   </url>
   <url>
-    <loc>https://dacss.github.io/Resume/bio/FirstnameLastname/FirstLast.html</loc>
-    <lastmod>2023-03-22T15:17:31.789Z</lastmod>
+    <loc>https://dacss.github.io/Resume/bio/NiyatiSharma/NiyatiSharma_bio.html</loc>
+    <lastmod>2023-04-09T01:35:44.860Z</lastmod>
   </url>
   <url>
     <loc>https://dacss.github.io/Resume/bio/AdithyaParupudi_bio/AdithyaParupudi_bio.html</loc>
-    <lastmod>2023-03-22T15:17:32.189Z</lastmod>
+    <lastmod>2023-04-09T01:35:45.216Z</lastmod>
   </url>
   <url>
     <loc>https://dacss.github.io/Resume/bio/LindsayJones/LindsayJ.html</loc>
-    <lastmod>2023-03-22T15:17:32.593Z</lastmod>
+    <lastmod>2023-04-09T01:35:45.520Z</lastmod>
   </url>
   <url>
     <loc>https://dacss.github.io/Resume/bio/ManiShankerKamarapu_bio/ManiShankerKamarapu_bio.html</loc>
-    <lastmod>2023-03-22T15:17:33.077Z</lastmod>
+    <lastmod>2023-04-09T01:35:45.868Z</lastmod>
   </url>
   <url>
-    <loc>https://dacss.github.io/Resume/index.html</loc>
-    <lastmod>2023-03-22T15:17:33.497Z</lastmod>
+    <loc>https://dacss.github.io/Resume/bio/FirstnameLastname/FirstLast.html</loc>
+    <lastmod>2023-04-09T01:35:46.160Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dacss.github.io/Resume/bio/RavinaBanze/RavinaBanze_bio.html</loc>
+    <lastmod>2023-04-09T01:35:46.528Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dacss.github.io/Resume/people.html</loc>
+    <lastmod>2023-04-09T01:35:46.880Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dacss.github.io/Resume/pages/projects.html</loc>
+    <lastmod>2023-04-09T01:35:47.164Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dacss.github.io/Resume/pages/contact.html</loc>
+    <lastmod>2023-04-09T01:35:47.452Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dacss.github.io/Resume/pages/for_employers.html</loc>
+    <lastmod>2023-04-09T01:35:47.780Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dacss.github.io/Resume/pages/faculty.html</loc>
+    <lastmod>2023-04-09T01:35:48.076Z</lastmod>
   </url>
 </urlset>
