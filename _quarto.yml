@@ -12,10 +12,11 @@ format:
     theme: litera
     code-copy: true
     code-overflow: wrap
-    
+    include-in-header: assets/bootstrap_dependencies.html
     
 website:
   title: "Careers@DACSS"
+  google-analytics: "G-77VWHC41RC"
   
   cookie-consent: true
 

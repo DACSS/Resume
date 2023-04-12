@@ -7,7 +7,6 @@
 ```
 </head>
 
-
 # Guide to navigate the DACSS career portal
 
 Welcome to DACSS Careers Portal!
@@ -89,4 +88,3 @@ If the recruiter is unable to find a student profile from the options given, the
 # Terminology
 
 **GitHub** - An online platform for version control and collaboration, enabling developers to work on projects and share code. By clicking on the project links, recruiters can view and assess the students' work, explore their code repositories, and gain insights into their programming skills and experience
-
