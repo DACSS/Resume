@@ -164,25 +164,51 @@ cookieconsent.run({
 <p>Here are a list of projects from current students.</p>
 <div class="grid-container">
 <div id="filterOptions">
-<p><label><input type="checkbox" name="tag" value="tag1" onclick="filterProjects()"> Tag 1</label> <label><input type="checkbox" name="tag" value="tag2" onclick="filterProjects()"> Tag 2</label> <label><input type="checkbox" name="tag" value="tag3" onclick="filterProjects()"> Tag 3</label> <!-- Add more checkboxes for additional tags --></p>
+<p><label><input type="checkbox" name="tag" value="healthcare" onclick="filterProjects()"> Healthcare </label> <label><input type="checkbox" name="tag" value="finance" onclick="filterProjects()"> Finance </label> <label><input type="checkbox" name="tag" value="operations" onclick="filterProjects()"> Operations </label> <label><input type="checkbox" name="tag" value="sports-analytics" onclick="filterProjects()"> Sports-Analytics </label> <label><input type="checkbox" name="tag" value="criminology" onclick="filterProjects()"> Criminology</label> <!-- Add more checkboxes for additional tags --></p>
 </div>
 </div>
-<!-- Your project cards go here -->
 <div class="grid-container">
-<!-- Filter checkboxes go here -->
-<a href="https://www.google.com/" target="_blank" class="card" data-tags="tag3"> <img src="../images/DACSS_Logo.png" alt="Project 1" class="card-image">
-<h3 class="card-title anchored">
-Project 1
-</h3>
-</a> <a href="https://www.google.com/" target="_blank" class="card" data-tags="tag1"> <img src="../images/DACSS_Logo.png" alt="Project 2" class="card-image">
-<h3 class="card-title anchored">
-Project 2
-</h3>
-</a> <a href="https://www.google.com/" target="_blank" class="card" data-tags="tag2"> <img src="../images/DACSS_Logo.png" alt="Project 3" class="card-image">
-<h3 class="card-title anchored">
-Project 3
-</h3>
-</a><p><a href="https://www.google.com/" target="_blank" class="card" data-tags="tag2"></a> <!-- More project cards go here --></p>
+<!-- <a href="https://dacss.github.io/DACSS_601_August2022_v2/posts/FinalProject_AdithyaParupudi.html" target="_blank" class="card" data-tags="finance"> <img src="../images/DACSS_Logo.png" alt="Project 1" class="card-image"/> -->
+<!-- <p class="card-title"> -->
+<!-- EDA of NIFTY50 Dataset -->
+<!-- </p> -->
+<!-- </a> -->
+<!-- <a href="https://dacss.github.io/DACSS_601_August2022_v2/posts/FinalProject_ManiShankerKamarapu.html" target="_blank" class="card" data-tags="sports-analytics"> <img src="../images/DACSS_Logo.png" alt="Project 2" class="card-image"/> -->
+<!-- <p class="card-title"> -->
+<!-- Quantitative Analysis of Olympic Data -->
+<!-- </p> -->
+<!-- </a> -->
+<!-- <a href="https://dacss.github.io/DACSS_601_August2022_v2/posts/FinalProject_EmmaRasmussen.html" target="_blank" class="card" data-tags="criminology">  -->
+<!-- <img src="../images/DACSS_Logo.png" alt="Project 3" class="card-image"/> -->
+<!-- <p class="card-title"> -->
+<!-- An Analysis of Seasonality on Mass Shootings -->
+<!-- </p> -->
+<!-- </a> -->
+<a href="https://dacss.github.io/DACSS_601_August2022_v2/posts/FinalProject_AdithyaParupudi.html" target="_blank" class="card" data-tags="finance"> <img src="../images/projects/Adithya_NIFTY.png" alt="Project 1" class="card-image">
+<p class="card-title">
+EDA of NIFTY50 Dataset
+</p>
+<p class="card-author">
+Adithya Parupudi
+</p>
+</a> <a href="https://dacss.github.io/DACSS_601_August2022_v2/posts/FinalProject_ManiShankerKamarapu.html" target="_blank" class="card" data-tags="sports-analytics"> <img src="../images/projects/Mani_Olympics.png" alt="Project 2" class="card-image">
+<p class="card-title">
+Quantitative Analysis of Olympic Data
+</p>
+<p class="card-author">
+Mani Shanker Kamarapu
+</p>
+</a> <a href="https://dacss.github.io/DACSS_601_August2022_v2/posts/FinalProject_EmmaRasmussen.html" target="_blank" class="card" data-tags="criminology"> <img src="../images/projects/Emma_Shootings.png" alt="Project 3" class="card-image">
+<p class="card-title">
+An Analysis of Seasonality on Mass Shootings
+</p>
+<p class="card-author">
+Emma Rasmussen
+</p>
+</a>
+<p>
+You’ve reached the bottom of the list
+</p>
 </div>
 <script>
 document.addEventListener("DOMContentLoaded", function () {
