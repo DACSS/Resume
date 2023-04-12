@@ -2,57 +2,46 @@
 title: "Firstname Lastname"
 description: "Email : email@umass.edu" 
 image: profile_placeholder.jpg
-# about:
-#   links:
-#     - text: LinkedIn
-#       icon: linkedin
-#       url: "https://linkedin.com/in/adithya-parupudi"
-#     - text: GitHub
-#       icon: github
-#       url: "https://github.com/Adithya1243"
+about:
+  links:
+    - text: LinkedIn
+      icon: linkedin
+      url: "https://linkedin.com/in/adithya-parupudi"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/Adithya1243"
 categories: [fall23, part-time, healthcare, finance, public-policy]
 ---
 
-```{=html}
-<style>
-.quarto-categories {
-justify-content: space-evenly;
-}
-.tab-content {
-    font-size: medium;
-}
-.resume{
-font-size: large    ;
-}
-</style>
-```
+
 <!-- Resume download button -->
 
-<a href = "cv.pdf" title = "unique_name"> <button type="button" class="resume btn bg-success btn-lg w-100"> <i class="bi bi-cloud-download"></i> Resume </button> </a>
+<a href = "cv.pdf" title = "unique_name"> <button type="button" class="resume btn rounded-pill bg-light-success btn-lg w-100"> <i class="bi bi-cloud-download"></i> Resume </button> </a>
 
 <!-- ::: column-page -->
 
 ::: panel-tabset
 # Summary
+
 Paste your content here
 
 # Education
+
 Paste your content here
 
 # Technical Skills
-Paste your content here
 
+Paste your content here
 
 # Work Experience
-Paste your content here
 
+Paste your content here
 
 # Projects
-Paste your content here
 
+Paste your content here
 
 # Volunteering
+
 Paste your content here
-
-
 :::

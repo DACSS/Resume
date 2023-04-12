@@ -2,9 +2,15 @@
 .quarto-categories {
 justify-content: space-evenly;
 }
+
 .tab-content {
     font-size: medium;
 }
+
 .resume{
-font-size: large    ;
+font-size: large;
+}
+
+.bg-light-success {
+  background-color: #19cf4c; /* You can adjust the color to your desired light green */
 }
