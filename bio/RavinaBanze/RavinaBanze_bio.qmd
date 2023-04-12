@@ -11,22 +11,9 @@ about:
 categories: [fall23, healthcare, public-policy]
 ---
 
-```{=html}
-<style>
-.quarto-categories {
-justify-content: space-evenly;
-}
-.tab-content {
-    font-size: medium;
-}
-.resume{
-font-size: large    ;
-}
-</style>
-```
 <!-- Resume download button -->
 
-<a href = "Ravina_CV.pdf" title = "Ravina_Resume" target="_blank" > <button type="button" class="resume btn bg-success btn-lg w-100"> <i class="bi bi-cloud-download"></i> Resume </button> </a>
+<a href = "Ravina_CV.pdf" title = "Ravina_Resume" target="_blank" > <button type="button" class="resume btn rounded-pill bg-light-success btn-lg w-100"> <i class="bi bi-cloud-download"></i> Resume </button> </a>
 
 <!-- ::: column-page -->
 
