@@ -4,7 +4,14 @@
     "href": "index.html",
     "title": "Careers@DACSS",
     "section": "",
-    "text": "Welcome to Master's of Science in Data Analytics and Computational Social Science program."
+    "text": "Welcome to Master’s of Science in Data Analytics and Computational Social Science. Click here to know more about the DACSS program."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Careers@DACSS",
+    "section": "",
+    "text": "Welcome to Master’s of Science in Data Analytics and Computational Social Science. Click here to know more about the DACSS program."
   },
   {
     "objectID": "index.html#find-your-next-employee",
@@ -81,33 +88,33 @@
     "href": "pages/projects.html",
     "title": "Careers@DACSS",
     "section": "",
-    "text": "Here are a list of projects from current students.\n\n\n Healthcare   Finance   Operations   Sports-Analytics   Criminology \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\nEDA of NIFTY50 Dataset\n\n\nAdithya Parupudi\n\n  \n\nQuantitative Analysis of Olympic Data\n\n\nMani Shanker Kamarapu\n\n  \n\nAn Analysis of Seasonality on Mass Shootings\n\n\nEmma Rasmussen\n\n\n\nYou’ve reached the bottom of the list"
+    "text": "Here are a list of projects from current students.\n\n\n Healthcare   Finance   Operations   Sports-Analytics   Criminology \n\n\n\n \n\nEDA of NIFTY50 Dataset\n\n\nAdithya Parupudi\n\n  \n\nQuantitative Analysis of Olympic Data\n\n\nMani Shanker Kamarapu\n\n  \n\nAn Analysis of Seasonality on Mass Shootings\n\n\nEmma Rasmussen\n\n\n\nYou’ve reached the bottom of the list"
   },
   {
     "objectID": "pages/for_employers.html#by-domain-of-interest",
     "href": "pages/for_employers.html#by-domain-of-interest",
-    "title": "Careers@DACSS",
+    "title": "Guide to navigate the DACSS career portal",
     "section": "By Domain of interest",
     "text": "By Domain of interest\nThe domain names shown here are the areas of interest where the student wants to work. In the domains section, please select one of the option shown in the dropdown, which will open student profiles in another page"
   },
   {
     "objectID": "pages/for_employers.html#by-job-type",
     "href": "pages/for_employers.html#by-job-type",
-    "title": "Careers@DACSS",
+    "title": "Guide to navigate the DACSS career portal",
     "section": "By Job type",
     "text": "By Job type\nJob Type filter shows a list of students looking for full-time and internship roles."
   },
   {
     "objectID": "pages/for_employers.html#by-graduation-date",
     "href": "pages/for_employers.html#by-graduation-date",
-    "title": "Careers@DACSS",
+    "title": "Guide to navigate the DACSS career portal",
     "section": "By Graduation date",
     "text": "By Graduation date\nFind students based on their graduation date."
   },
   {
     "objectID": "pages/for_employers.html#students-page",
     "href": "pages/for_employers.html#students-page",
-    "title": "Careers@DACSS",
+    "title": "Guide to navigate the DACSS career portal",
     "section": "Students page",
     "text": "Students page\nBased on the option selected from the dropdown, a new page is opened showing students under that tag. Lets see an example where full-time is selected from the Job-Type dropdown\n\n\n1 - List of keywords to filter student profiles\n2 - Student profiles looking for full-time as selected\n3 - A filter button to search directly search with the names."
   }
