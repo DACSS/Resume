@@ -7,9 +7,9 @@ format:
 
 ## Welcome!
 
-```{=html}
-<p style={font-size: '13px'}>Welcome to Master's of Science in Data Analytics and Computational Social Science program. </p>
-```
+<div class="welcome">Welcome to Master's of Science in [**D**]{.underline}ata [**A**]{.underline}nalytics and [**C**]{.underline}omputational [**S**]{.underline}ocial [**S**]{.underline}cience. Click <a href="https://www.umass.edu/social-sciences/academics/dacss/about-dacss" target="_blank"><b>here</b></a> to know more about the DACSS program. </div>
+<br>
+
 <!-- Center Align main image -->
 
 ::: {.d-flex .justify-content-center}
@@ -170,15 +170,11 @@ To explore the full range of our student talents, we invite you to visit the <a 
 <img src="images/Al_Simon.png" alt="Your Image" class="img-fluid rounded" width="320" height="320"/>
 
 <h4 class="mt-3 mb-0">
-
 Al Simon
-
 </h4>
 
 <p class="lead mt-3 mb-0">
-
 Assistant Director for Career Services and External Engagement
-
 </p>
 :::
 :::

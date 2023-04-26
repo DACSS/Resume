@@ -9,56 +9,27 @@ Here are a list of projects from current students.
 
 ::: grid-container
 ::: {#filterOptions}
-<label><input type="checkbox" name="tag" value="healthcare" onclick="filterProjects()"> Healthcare </label> 
-<label><input type="checkbox" name="tag" value="finance" onclick="filterProjects()"> Finance </label> 
-<label><input type="checkbox" name="tag" value="operations" onclick="filterProjects()"> Operations </label> 
-<label><input type="checkbox" name="tag" value="sports-analytics" onclick="filterProjects()"> Sports-Analytics </label>
-<label><input type="checkbox" name="tag" value="criminology" onclick="filterProjects()"> Criminology</label>
-<!-- Add more checkboxes for additional tags -->
+<label><input type="checkbox" name="tag" value="healthcare" onclick="filterProjects()"> Healthcare </label> <label><input type="checkbox" name="tag" value="finance" onclick="filterProjects()"> Finance </label> <label><input type="checkbox" name="tag" value="operations" onclick="filterProjects()"> Operations </label> <label><input type="checkbox" name="tag" value="sports-analytics" onclick="filterProjects()"> Sports-Analytics </label> <label><input type="checkbox" name="tag" value="criminology" onclick="filterProjects()"> Criminology</label> <!-- Add more checkboxes for additional tags -->
 :::
 :::
-
-
 
 ::: grid-container
 
-
-<!-- <a href="https://dacss.github.io/DACSS_601_August2022_v2/posts/FinalProject_AdithyaParupudi.html" target="_blank" class="card" data-tags="finance"> <img src="../images/DACSS_Logo.png" alt="Project 1" class="card-image"/> -->
-<!-- <p class="card-title"> -->
-<!-- EDA of NIFTY50 Dataset -->
-<!-- </p> -->
-<!-- </a> -->
-<!-- <a href="https://dacss.github.io/DACSS_601_August2022_v2/posts/FinalProject_ManiShankerKamarapu.html" target="_blank" class="card" data-tags="sports-analytics"> <img src="../images/DACSS_Logo.png" alt="Project 2" class="card-image"/> -->
-<!-- <p class="card-title"> -->
-<!-- Quantitative Analysis of Olympic Data -->
-<!-- </p> -->
-<!-- </a> -->
-<!-- <a href="https://dacss.github.io/DACSS_601_August2022_v2/posts/FinalProject_EmmaRasmussen.html" target="_blank" class="card" data-tags="criminology">  -->
-<!-- <img src="../images/DACSS_Logo.png" alt="Project 3" class="card-image"/> -->
-<!-- <p class="card-title"> -->
-<!-- An Analysis of Seasonality on Mass Shootings -->
-<!-- </p> -->
-<!-- </a> -->
-<a href="https://dacss.github.io/DACSS_601_August2022_v2/posts/FinalProject_AdithyaParupudi.html" target="_blank" class="card" data-tags="finance">
-<img src="../images/projects/Adithya_NIFTY.png" alt="Project 1" class="card-image"/>
+<a href="https://dacss.github.io/DACSS_601_August2022_v2/posts/FinalProject_AdithyaParupudi.html" target="_blank" class="card" data-tags="finance"> <img src="../images/projects/Adithya_NIFTY.png" alt="Project 1" class="card-image"/>
 <p class="card-title">
 EDA of NIFTY50 Dataset
 </p>
 <p class="card-author">
 Adithya Parupudi
 </p>
-</a>
-<a href="https://dacss.github.io/DACSS_601_August2022_v2/posts/FinalProject_ManiShankerKamarapu.html" target="_blank" class="card" data-tags="sports-analytics">
-<img src="../images/projects/Mani_Olympics.png" alt="Project 2" class="card-image"/>
+</a> <a href="https://dacss.github.io/DACSS_601_August2022_v2/posts/FinalProject_ManiShankerKamarapu.html" target="_blank" class="card" data-tags="sports-analytics"> <img src="../images/projects/Mani_Olympics.png" alt="Project 2" class="card-image"/>
 <p class="card-title">
 Quantitative Analysis of Olympic Data
 </p>
 <p class="card-author">
 Mani Shanker Kamarapu
 </p>
-</a>
-<a href="https://dacss.github.io/DACSS_601_August2022_v2/posts/FinalProject_EmmaRasmussen.html" target="_blank" class="card" data-tags="criminology">
-<img src="../images/projects/Emma_Shootings.png" alt="Project 3" class="card-image"/>
+</a> <a href="https://dacss.github.io/DACSS_601_August2022_v2/posts/FinalProject_EmmaRasmussen.html" target="_blank" class="card" data-tags="criminology"> <img src="../images/projects/Emma_Shootings.png" alt="Project 3" class="card-image"/>
 <p class="card-title">
 An Analysis of Seasonality on Mass Shootings
 </p>

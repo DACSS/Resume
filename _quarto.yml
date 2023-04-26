@@ -16,7 +16,7 @@ format:
     
 website:
   title: "Careers@DACSS"
-  google-analytics: "G-77VWHC41RC"
+  google-analytics: "G-KT7T9GWL9H"
   
   cookie-consent: true
 
@@ -24,10 +24,10 @@ website:
   page-footer: 
     left: "Copyright @ DACSS" 
     right: 
-      - icon: github
+      - icon: github`
         href: https://github.com/
       - icon: twitter 
-        href: https://twitter.com/ 
+        href: https://twitter.com/umassdacss
         
   site-url: https://dacss.github.io/Resume/
   
@@ -51,11 +51,7 @@ website:
         href: index.qmd
         
       - text: "People"
-        menu: 
-          - text: "Students"
-            href: people.qmd
-          - text: "Faculty"
-            href: pages/faculty.qmd
+        href: people.qmd
 
       - text: "Projects"
         href: pages/projects.qmd
